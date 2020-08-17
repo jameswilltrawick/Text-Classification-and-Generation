@@ -1,0 +1,11 @@
+classifier/.DS_Store
+classifier/data1.json
+classifier/data1.json.zip
+classifier/lyrics1.csv
+classifier/lyrics1.csv.zip
+classifier/lyrics2.csv
+classifier/lyrics2.csv.zip
+classifier/lyrics.csv
+classifier/dataSample.json
+classifier/tfidf_bank.json
+.DS_Store
