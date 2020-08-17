@@ -1,0 +1,763 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Machine learning final project by ariehle3</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">Text Classification and Generation<br/>
+        <span style="font-size: 24px">CS 7641 - Machine Learning Final Project</span></h1>
+      <h2 class="project-tagline">Ankush Prakash, Anna Riehle, Jackson Michalski, Nzinga Eduardo Rodriguez, Will Trawick</h2>
+    </section>
+
+    <section class="main-content">
+      <h1>Introduction</h1>
+      <p>Music has changed considerably throughout the ages, but the one aspect that has remained constant is its popularity and ubiquitousness in culture. Every person has their own taste in music and numerous different genres of music have been created to satisfy these unique interests. While one person can enjoy the heavy thrills associated with metal or rock, another can relax with soothing sounds of classical Mozart floating gently through the air. With the advent of applications like Spotify, music has become more accessible to the general public. People now have over 50 million songs at the tip of their fingers and this number is only increasing (Webster 1).</p>
+      <p>Due to these streaming services, there has been a dramatic shift in people’s preferences as well as the way they consume music. Studies show that the average user discovers nearly 27 new artists per month on streaming platforms and that the adoption of these services increases music consumption by nearly 50% across all platforms (Bronnenberg, Datta and Knox, 3).</p>
+      
+      <h1>Problem</h1>
+      <p>By analyzing and understanding the structure of popular songs today, we hope to generate lyrics that would appeal to music consumers through a two step process. The first component involves accepting user input and classifying that input into a music genre. Then, based on the genre our model believes the listener is interested in, we employ a text-generation model that would provide sampled lyrics.</p>
+      <p>Genre classification is an inspiring academic problem as it is considered fairly difficult; even models trained on a million songs with audio and lyric data fail to achieve greater than 40% accuracy on ten genre classifications (Dawen Liang, Haijie Gu, and Brendan O’Connor,  2011). At the same time, recent advancements in the text generation process have made it possible to recreate human-like text in many different genres (Ghatt and Krahmer, 2018).</p>
+      
+      <h1>Data</h1>
+      <h2>Data Collection</h2>
+      <p>We began by collecting names of approximately 100 artists for each of 5 genres from annual Billboard top artists charts from this millenium. The genres we focused on were Rap, Country, Rock, Pop and Hip-Hop/R&B.  We deduped the lists against each other to ensure that each artist was only counted toward one genre. The genres and number of artists collected for each is below.</p>
+      
+      <table>
+        <tr>
+          <th>Genre</th>
+          <th>Number of Artists</th>
+        </tr>
+        <tr>
+          <td>Country</td>
+          <td>104</td>
+        </tr>
+        <tr>
+          <td>Hip-Hop/R&B</td>
+          <td>111</td>
+        </tr>
+        <tr>
+          <td>Pop</td>
+          <td>100</td>
+        </tr>
+        <tr>
+          <td>Rap</td>
+          <td>107</td>
+        </tr>
+        <tr>
+          <td>Rock</td>
+          <td>108</td>
+        </tr>
+      </table>
+      
+      <p>We then used the Genius API to collect the names and lyrics for the top 5 songs for the majority of these artists. An example of our dataset is below.</p>
+      <img src="images\data_head.png">
+      <p>Ultimately, we collected the lyrics to about 2500 songs from nearly 500 artists. The table below displays the breakdown of artists and songs by genre.</p>
+
+      <table>
+        <tr>
+          <th>Genre</th>
+          <th>Number of Artists</th>
+          <th>Number of Songs</th>
+        </tr>
+        <tr>
+          <td>Country</td>
+          <td>103</td>
+          <td>515</td>
+        </tr>
+        <tr>
+          <td>Hip-Hop/R&B</td>
+          <td>109</td>
+          <td>537</td>
+        </tr>
+        <tr>
+          <td>Pop</td>
+          <td>99</td>
+          <td>495</td>
+        </tr>
+        <tr>
+          <td>Rap</td>
+          <td>76</td>
+          <td>380</td>
+        </tr>
+        <tr>
+          <td>Rock</td>
+          <td>108</td>
+          <td>540</td>
+        </tr>
+      </table>
+      
+      <h2>Data Preprocessing</h2>
+      <p>To prepare our dataset for classification, we had to process the lyrics that were returned from the Genius API calls.  We started by removing the brackets from around each set of lyrics and removing extra punctuation. In order to prevent repetitive phrases or words from skewing word frequencies, different heuristics were employed to remove duplicate lyrics or phrases that were repeated multiple times(Fell and Sporleder, 2). Also, variations of the same word were transformed back to their base form. For example, one song might use the word ‘lovin’ and another might employ ‘loving’. In order to bring about some parsimony, these words would be converted to the base form of ‘loving’ in a process called lemmatization. The graphics below show sample lyrics before and after preprocessing. 
+      </p>
+      
+      <figure>
+        <figcaption><b>Unprocessed Data</b></figcaption>
+    <img src='images\unprocessed_text.png'/>
+      </figure>
+      
+      <figure>
+        <figcaption><b>Processed Data</b></figcaption>
+    <img src='images\processed_text.png'/>
+      </figure>
+      
+      <h2>Language of Genres</h2>
+      <p>Across the nearly 2,500 songs we analyzed, we discovered that nearly 25,000 unique words were used. Dealing with such a large vocabulary set would lead to extremely sparse feature vectors. Also, we wanted to minimize the risks of overfitting that would occur if we worked in an extremely high dimensional space. To mitigate these risks, we decided to build a vocabulary that was smaller in size, but still captured the unique phrases and words that were used across the different genres (Fell and Sporleder 2).</p>
+      <p>To determine the feasibility of this, we explored the correlation between words and genres. We found that there was a great deal of overlap between the vocabularies of Rap and Hip-Hop/R&B. Additionally, the vocabularies of Rap and Hip-Hop/R&B were distinct from those of other genres, especially Rock.</p>
+      <p>We also found that approximately 50 of the Pop songs were in Spanish. This resulted in Spanish being highly correlated with the Pop genre. Even when only including English words, however, Pop still had a fairly distinct vocabulary. Based on the fact that each genre appears to have a unique vocabulary, we believed that using song lyrics for genre classification would be an appropriate approach.</p>
+      <img src='images\genre_correlation.jpg'>
+      
+      <h1>Supervised Learning</h1>
+      <p>After doing exploratory data analysis and discovering what words or phrases encapsulated a specific genre, we built a vocabulary set that consisted of the top hundred words or phrases from each genre. We then used this vocabulary to transform the lyrical data into features that could be used for the classification models.</p>
+      <p>In order to accomplish this goal, we used two different approaches. One consisted of simply counting the number of occurrences of each term in our vocabulary in the lyrics of a song. The other used the term-frequency inverse document frequency (TF-IDF) method.</p>
+      <p>In both approaches, we varied the gram length to gain an understanding of how this parameter affected the models’ performances. To provide some context, if the text consisted of “Today is a sunny day”, unigrams (or 1-grams) would consist of ‘Today’, ‘is’, ‘a’, ‘sunny’ and ‘day’. Bigrams would be a sequence that was composed of ‘Today is’, ‘is a’, ‘a sunny’, ‘sunny day’.</p>
+      <p>We also removed English stop words such as “the”, “and”, or “but”. Such words are common across most documents and provide little information about the content or structure of the text in question.</p>
+      <p>The models we tried were Logistic Regression, Random Forests, Linear SVC, and Multinomial Naive Bayes. Five-fold cross validation was used to determine the optimal hyper-parameters for each of the models. All the findings reported below are from the best performing models from each of the categories mentioned previously.</p>
+      
+      <h2>Logistic Regression</h2>
+      <p>One of the models that was built was a Logistic Regression model. The main hyperparameter that was tuned via cross-validation was the regularization hyper-parameter, although we found that, when working with unigrams, we got the best results with default regularization.</p>
+      <img src='images\logistic_regression_accuracy.png'>
+      <p>The plot above shows how the tuned Logistic Regression model performed when varying the gram length. The model had an average accuracy rate of 52% when unigrams were used. There is a significant decrease in performance as n-grams length is increased. When bigrams are employed, the model accuracy drops down to nearly 41%. If trigrams or longer are used, the model bottoms out and levels at around a 22-23% accuracy rate. This is slightly better than random guessing (i.e with there being five genres, a random guess would be right 20% over the long haul).</p>
+      <p>It is possible to understand where the model performed well and in which genres it struggled to classify correctly by looking at the confusion matrix that was generated on a test set of 493 songs. The confusion matrix of the Logistic Regression model used for unigrams is displayed below.</p>
+      <img src='images\logistic_regression_confusion_matrix.png'>
+      <p>In the test set, 257 of 493 songs were correctly classified, giving a model accuracy of 52%. Things get a little more interesting when we also look at precision and recall. Precision is defined as (True Positives / Total Predicted Positives) and seeks to determine what proportion of songs classified as a particular genre were actually from that genre. Recall, on the other hand, is defined as (True Positive / Total Actual Positive) and explains the proportion of songs from a given genre that are classified as being from that genre. A heatmap showing precision and recall by genre for this model is provided below. The F1 statistic seeks to balance the values obtained from precision and recall. It is most informative when the number of classes are poorly balanced, so it is less meaningful here.</p>
+      <img src='images\logistic_regression_classification.png'>
+      <p>The table below combines information from the plots above to show precision and recall by genre in a bit more detail.</p>
+      
+      <table>
+        <tr>
+          <th>Genre</th>
+          <th># of Songs</th>
+          <th># Classified as Genre</th>
+          <th># Correctly Classified</th>
+          <th>Recall</th>
+          <th>Precision</th>
+        </tr>
+        <tr>
+          <td>Country</td>
+          <td>109</td>
+          <td>104</td>
+          <td>64</td>
+          <td>59%</td>
+          <td>62%</td>
+        </tr>
+        <tr>
+          <td>Hip-Hop/R&B</td>
+          <td>106</td>
+          <td>80</td>
+          <td>45</td>
+          <td>42%</td>
+          <td>56%</td>
+        </tr>
+        <tr>
+          <td>Pop</td>
+          <td>88</td>
+          <td>111</td>
+          <td>40</td>
+          <td>45%</td>
+          <td>36%</td>
+        </tr>
+        <tr>
+          <td>Rap</td>
+          <td>75</td>
+          <td>84</td>
+          <td>51</td>
+          <td>68%</td>
+          <td>61%</td>
+        </tr>
+        <tr>
+          <td>Rock</td>
+          <td>115</td>
+          <td>114</td>
+          <td>57</td>
+          <td>50%</td>
+          <td>50%</td>
+        </tr>
+      </table>
+      
+      <p>There are a couple interesting findings that can be discerned by looking at the plots and table. As mentioned earlier, Rap and Hip-Hop/R&B have similar vocabularies. The fact that the model was not able to fully distinguish between these two genres is not surprising. That said, Rap does have a recall of 68% - the highest of any genre. 51 of the 75 Rap songs in the test set were classified as Rap by the logistic regression model. At 61%, Rap also has the second-highest precision of any genre. Of the 84 songs classified as Rap, 51 were actually Rap songs. The biggest discrepancies were that 16 Rap songs were classified as Hip-Hop/R&B and 27 Hip-Hop/R&B songs were classified as Rap.</p>
+      
+      <h2>Random Forest</h2>
+      <p>Another technique that was employed was Random Forests. We believed that having an ensemble of classifiers would improve the accuracy rate by correctly classifying the hard cases. Some of the hyperparameters that were tuned through cross-validation were the depth of the trees, how many features were looked at during each random split, and how many trees were in the forest. The table below shows the range of values that were tried for different hyper-parameters.</p>
+      
+      <table>
+        <tr>
+          <th>Hyper-Parameters</th>
+          <th>Values</th>
+        </tr>
+        <tr>
+          <td>Number of Trees in Forest</td>
+          <td>30-80</td>
+        </tr>
+        <tr>
+          <td>Depth of Trees</td>
+          <td>11-15</td>
+        </tr>
+        <tr>
+          <td>Features Considered at Each Split</td>
+          <td>&radic;d and log<sub>2</sub>(d) where d is dimension of feature vectors</td>
+        </tr>
+        <tr>
+          <td>Grams</td>
+          <td>1-6</td>
+        </tr>
+      </table>
+      
+      <p>As was the case with Logistic Regression, the accuracy of the Random Forest decreased as the gram length increased. Additionally, the accuracy increased as we decreased the max depth and increased the number of estimators, or number of trees in the forest. The best Random Forest we created involved using unigrams and having 80 trees in the model.</p>
+      <p>The picture below shows that a Random Forest with 80 trees that are fit on features derived from unigrams has an accuracy rate of 47%. Using bigrams or higher performed marginally better than random guessing.</p>
+      <img src='images\random_forest_accuracy_line.png'>
+      <p>As was the case with the Logistic Regression model, a deeper understanding of how the model is performing in certain scenarios can be understood by looking at the confusion matrix, precision, and recall associated with the Random Forest that was composed of 80 trees and used unigrams as features. The corresponding plots and table are shown below.</p>
+      <img src='images\random_forest_confusion_matrix.png'>
+      <img src='images\random_forest_classification.png'>
+      
+      <table>
+        <tr>
+          <th>Genre</th>
+          <th># of Songs</th>
+          <th># Classified as Genre</th>
+          <th># Correctly Classified</th>
+          <th>Recall</th>
+          <th>Precision</th>
+        </tr>
+        <tr>
+          <td>Country</td>
+          <td>109</td>
+          <td>95</td>
+          <td>52</td>
+          <td>48%</td>
+          <td>55%</td>
+        </tr>
+        <tr>
+          <td>Hip-Hop/R&B</td>
+          <td>106</td>
+          <td>18</td>
+          <td>10</td>
+          <td>9%</td>
+          <td>56%</td>
+        </tr>
+        <tr>
+          <td>Pop</td>
+          <td>88</td>
+          <td>61</td>
+          <td>25</td>
+          <td>28%</td>
+          <td>41%</td>
+        </tr>
+        <tr>
+          <td>Rap</td>
+          <td>75</td>
+          <td>136</td>
+          <td>66</td>
+          <td>88%</td>
+          <td>49%</td>
+        </tr>
+        <tr>
+          <td>Rock</td>
+          <td>115</td>
+          <td>183</td>
+          <td>90</td>
+          <td>78%</td>
+          <td>49%</td>
+        </tr>
+      </table>  
+      
+      <p>The Random Forest model definitely favored certain genres over others. It significantly under-classified songs as Hip-Hop/R&B and over-classified them as Rap or Rock. This is surprising. One would expect an ensemble of classifiers to have the ability to work through the similarities between genre vocabularies and distinguish the hard cases. However, as seen above, that does not appear to be the case.</p>
+      <p>The main thing that stands out is that the Random Forest did a poorer job distinguishing Hip-Hop/R&B and Rap than the Logistic Regression model. The Random Forest classified a song as belonging to the Rap category when it really was a Hip-Hop/R&B song 57 times. This was significantly more than the Logistic Regression model, which only made this mistake 27 times on the test set. The model’s difficulty in distinguishing between Rap and Hip-Hop/R&B is also reflected in the recall value for Hip-Hop/R&B and precision value for Rap.</p>
+      <p>The Random Forest model also had trouble distinguishing between Pop and other genres. This is reflected in Pop's low recall and precision scores.</p>
+      
+      <h2>Linear SVC</h2>
+      <p>Seeing the relative success of Logistic Regression, we wanted to look at another linear classifier. We decided to try the Linear SVC, which is a type of SVM. As with Logistic Regression, we experimented with the regularization term. Here, we found that setting the C value to 0.1 for unigrams was most effective. We also looked at loss and maximum iterations. We found that squaring the loss function and reducing the maximum number of iterations worked best.</p>
+      <p>As with other models, we got the best results when working with unigrams. Model accuracy then decreased as the length of the n-grams increased.</p>
+      <img src='images\linear_svc_accuracy_line.png'>
+      <p>As with the other models, we found looking at the confusion matrix, recall, and precision helpful for analysis.</p>
+      <p>Linear SVC was not prone to the over- or under-classification that the other models experienced. It slightly favored Rock, but for each genre, the number of songs classified as a given genre was within 14 songs of the number of songs actually of that genre in the test set.</p>
+      
+      <table>
+        <tr>
+          <th>Genre</th>
+          <th># of Songs</th>
+          <th># Classified as Genre</th>
+          <th># Correctly Classified</th>
+          <th>Recall</th>
+          <th>Precision</th>
+        </tr>
+        <tr>
+          <td>Country</td>
+          <td>109</td>
+          <td>114</td>
+          <td>65</td>
+          <td>60%</td>
+          <td>57%</td>
+        </tr>
+        <tr>
+          <td>Hip-Hop/R&B</td>
+          <td>106</td>
+          <td>96</td>
+          <td>55</td>
+          <td>52%</td>
+          <td>57%</td>
+        </tr>
+        <tr>
+          <td>Pop</td>
+          <td>88</td>
+          <td>89</td>
+          <td>31</td>
+          <td>35%</td>
+          <td>35%</td>
+        </tr>
+        <tr>
+          <td>Rap</td>
+          <td>75</td>
+          <td>65</td>
+          <td>46</td>
+          <td>61%</td>
+          <td>71%</td>
+        </tr>
+        <tr>
+          <td>Rock</td>
+          <td>115</td>
+          <td>129</td>
+          <td>65</td>
+          <td>57%</td>
+          <td>50%</td>
+        </tr>
+      </table>  
+      
+      <img src='images\linear_svc_confusion_matrix.png'>
+      <img src='images\linear_svc_classification.png'>
+      <p>The Linear SVC model also did not have as much trouble distinguishing between Rap and Hip-Hop/R&B. Only 14 Hip-Hop/R&B songs were classified as Rap, and 19 Rap songs were classified as Hip-Hop/R&B. The recall for Hip-Hop/R&B and precision for Rap were higher in the Linear SVC model than in Logistic Regression and Random Forest indicating that more Hip-Hop/R&B songs were correctly classified as Hip-Hop/R&B and a greater proportion of the songs classified as Rap were actually Rap songs.</p>
+      <p>The Linear SVC model did still struggle with the Pop genre. Pop had both a recall and a precision of 35%. This is because the model classified Pop songs as Rock, Hip-Hop/R&B, and Country and also classified songs from each of these genres as Pop. This speaks to the universality of Pop as a genre.</p>
+      
+      <h2>Multinomial Naive Bayes</h2>
+      <p>We trained a Multinomial Naive Bayes model using four approaches, bag-of-words, bag-of-words with GridSearch, TF-IDF, and TF-IDF with GridSearch, using a variety of hyperparameters including English stop-words, unigrams, word lemmatization, and word vectorization. GridSearch with 5 fold cross validation was used to improve the model’s performance, since it allows for additional hyperparameters and uses the most optimal hyperparameters for training. If the GridSearch performs worse than its original counterpart, this means that original was already using the most optimal hyperparameters.</p>
+     
+      <h3>Bag-of-Words</h3>
+      <p>The bag-of-words approach was the simplest, most effective, producing the best accuracy score, and performed the quickest. This approach involves converting lyrics to numerical feature vectors by segmenting them into terms and by counting the term frequencies throughout each document. The terms are assigned an integer id, and only those that are unique are included in the vocabulary matrix.</p>
+      
+      <h3>Bag-of-Words with GridSearch</h3>
+      <p>We replicated the bag-of-words approach and added GridSearch.
+The GridSearch hyperparameters included using the learning rates of 0.01 and 0.001 with 0.01 being the most optimal learning rate.</p>
+      
+      <h3>TF-IDF</h3>
+      <p>A problem with the bag-of-words approach is that it will weigh longer documents and common words more heavily, than less common words, thus placing a greater emphasis on meaningless words such as “it”, “a”, “the”, etc.  To reduce this problem, we use TF-IDF by calculating term frequencies and downscaling the terms appearing most frequently. We also lemmatize words by grouping together different inflected forms of the word so that they are analyzed as a single term. Lemmatization also adds context by grouping together words with similar meaning. Words that were less than 2 characters long and not alpha-numeric were filtered out along with words that appear in more than 40% of documents or less than 4 documents. A learning rate of 0.1 was used.</p>
+      
+      <h3>TF-IDF with GridSearch</h3>
+      <p>We replicated the TF-IDF approach and added GridSearch. The learning rates of 0.01 and 0.001 were included as GridSearch hyperparameters with 0.01 yielding a better performance.</p>
+      
+      <h3>Results</h3>
+      <p>As previously mentioned, the bag-of-words model outperformed the other models by obtaining the highest accuracy score of 60%. It outperformed its GridSearch counterpart and the TF-IDF with GridSearch model by 5% and out performed the TF-IDF model by 1%. This could be due to overfitting, since the bag-of-words approach is more likely, than any of the other models, to contain common words which it weighs more heavily.</p>
+      <img src='images\naive_bayes_model_comparison.png'>
+      <p>The bag-of-words approach outperformed the other models in classifying Country and Hip-Hop/R&B, having classified correctly 75.8% and 62.5% of the lyrics respectively. The bag-of-words with GridSearch model performed the best in classifying Rap lyrics, achieving a recall of 77.4%. Although the TF-IDF approach achieved the second highest overall accuracy, it was only able to outperform other models in classifying Pop lyrics, achieving 38% recall, albeit all models performed poorly in classifying this genre.</p>
+      <img src='images\naive_bayes_recall_comparison.png'>
+      
+      <h2>Model Comparison</h2>
+      <img src='images\model_comparison_line.png'>
+      <p>In looking at the first three models side-by-side, we can see that Logistic Regression and Linear SVC performed similarly to each other while Random Forest performed notably worse. Multinomial Naive Bayes performed better than Logistic Regression or Linear SVC.</p>
+      <img src='images\recall_model_comparison.png'>
+      <p>The bag-of-words trained Multinomial Naive Bayes performed the best of all models in classifying Country, Hip-Hop/R&B, Rap, and Rock songs as such. All models struggled with classifying Pop songs, classifying a significant portion of Pop songs as Rock. No model classified even 50% of Pop songs as Pop.</p>
+      <img src='images\precision_model_comparison.png'>
+      <p>The bag-of-words trained Multinomial Naive Bayes also had the best precision of all models for Hip-Hop/R&B, Pop, and Rock. Logistic Regression had better precision for Country songs, and Linear SVC had better precision for Rap songs.</p>
+      <p>We recommend using Multinomial Naive Bayes using bag-of-words for genre classification. Interestingly, this is also the model that sklearn recommends for text classification in general.</p>
+      
+      <h1>Unsupervised Learning</h1>
+      <p>For the last part of the pipeline, we used OpenAI’s GPT-2 model to generate lyric outputs based on the lines of text that were provided by the user. GPT-2 is an open sourced model that is a transformer based and is designed to try to represent language as a whole. This makes it able to perform well in a lot of different types of tasks, but we used it for its text generation capabilities. While it is pretrained on a giant corpus of text from the internet, we fine-tuned the model on song lyrics in order to get believable results. Because this task is unsupervised, there is no real measure of quality, except for how believable the lyrics look to the naked eye. The model also adds unique value by its ability to not only learn how to string words together, but to also learn the structure of the document itself. As a result, you will see in the generations spots where it outputs words related to the structure like “chorus”. This adds believability to the output and shows its superiority to less complex models like n-grams.</p>
+      <p>For each of our five genres, we trained a different text generation model. In this way, once the input is classified, we can load the desired model and generate the rest of the song. Below we have included a word cloud visualization of a collection of generations from each genre. We did not include rap’s visualization due to the high frequency of curses and racial slurs, which are prevalent in the genre, but not necessarily appropriate for our paper. Each word cloud represents the most frequent words or phrases when generating. You will find an example of a generation for each genre in the appendix.</p>
+      <p>Looking at the sample generations in the appendix, we can see several characteristics that show the power of the GPT-2 model. First, you can see in the pop generation that our model can even generate Spanish! It does not have as much training on Spanish so the lyrics may not make much sense, but this would be fixed by adding more finetuning of the model with Spanish text. Either way, it is impressive that our model can generate lyrics in two languages. We see from the Country songs that there is a little bit of a rhyme scheme in the opening and that the song has a religious theme throughout. This is a feature we would expect to see in a country song, but not necessarily in the other genres. The first thing to notice in the rock generation is that there is a weird word in “  I’ll’eastern’’’’s’hundred’ “. This shows that our model isn’t perfect and sometimes does run into some weird patterns. Secondly, notice that the model keeps track of structure throughout the lyrics! We see that there are 4 verses in order and there is a chorus that shows up multiple times throughout the song. This shows how powerful this model can be as it can not only learn how to make words, but learn the structure of these songs as well.  We see here that we can even generate artists, with this one being a collaboration between J.Cole and Beyonce. We not only see it generates artists names, but also the lyrics include a Jon Stewart reference so it is trying to include pop culture references. Looking at the Rap generation, we see that these lyrics are very vulgar and contain modified racial slurs which appear a lot in raps. We also see that it talks a lot about getting money, guns, and Gucci which are stereotypes of rap. Interestingly enough it makes a reference to Kunta Kinte (the character from Roots) which shows that it has picked up on racial clues as well considering the rap field is dominated by African Americans.</p>
+      
+      <figure>
+        <figcaption><b>Pop</b></figcaption>
+    <img src='images\pop_word-cloud.png'/>
+      </figure>
+      
+      <p>We see in the word cloud some representation of love songs in phrases like perfect one and you’re perfect (the apostrophes were removed for representation in the picture, but have the apostrophes exist in the generation).</p>
+      
+      <figure>
+        <figcaption><b>Country</b></figcaption>
+    <img src='images\country_word-cloud.png'/>
+      </figure>
+      
+      <p>We see in the word cloud things like girl, sun, god, and change which are all common themes in country music.</p>
+
+      <figure>
+        <figcaption><b>Rock</b></figcaption>
+    <img src='images\rock_word-cloud.png'/>
+      </figure>
+      
+      <p>We also see the rock words are very American themed with our generation talking about communism as well.</p>
+      
+      <figure>
+        <figcaption><b>Hip-Hop</b></figcaption>
+    <img src='images\hip-hop_word-cloud.png'/>
+      </figure>
+      
+      <p>The word cloud is also very believable with hot chick and yung miami being big components of the visualization. We see a more sexual focus, which is expected compared to the other categories.</p>
+      
+      <h2>Results for Text Generation</h2>
+      <p>In all, we are able to generate realistic lyrics based on a user’s input. While the text generation may not translate directly into a proper song, it does capture the style associated with each genre. It also outputs an appropriate structuring of the lyrics by breaking them up into introductions, verses, choruses, etc.</p>
+      <p>These generations are all made with no prompt, but you can easily add in a prompt when generating. This will set the first part of the output to be that prompt and then it will generate off of that. It will generate lyrics that relate to the prompt in a similar vein to how it can generate the same chorus in the beginning and end of a given output. This kind of generation is essential to our project and allows users to generate sample lyrics based on any input they want. Some examples of prompted generation are also included in the appendix. We chose prompts of lyrics from songs in the genre to show the difference between what our model generates and what the actual artists wrote.</p>
+      <p>You can also adjust the “temperature” when generating. This temperature corresponds to the temperature when doing annealing and higher values allow you to get more interesting generations although they are also more prone to nonsense words like we have seen. These were all generated with a temperature of 0.8 (max is 1), which is pretty high. This was done using a wrapper called simple GPT-2, which was developed by Max Woolf.</p>
+      <p>The GPT-2 model uses a transformer based architecture to model the conditional probability p(output|input). By modeling this for all words in the vocabulary, the model has an incredible capacity to predict all kinds of word generations. This also allows it to generate the structure we saw earlier because it learns that verse 1 should have a higher probability of being generated near the beginning than near the end. When generating, the model samples from this probability distribution in order to generate the new output. The temperature setting helps control the randomness in the sampling. For a high temperature, the model is much more likely to generate words that have low probabilities. This may sacrifice coherence for more unique outputs. Low temperatures, however, tended to produce output that was very monotonous. It generates a few lines and then repeats them for the rest of the text.</p>
+      <p>As a result, we settled on a temperature of 0.8 for the output from looking at the generations. Setting the temperature too low resulted in the model offering very few unique lines, while setting the max temperature of 1 caused the model to spit out lyrics that were not as coherent. Through experimentation, we found that setting the temperature between 0.7 or 0.8 resulted in an interesting and coherent output.</p>
+      
+      <h1>Future Work and Considerations</h1>
+      <p>Our work can be built upon in several ways. Our genre classification model utilized tokenized song lyrics as the basis of its feature space. However, different types of features could be extracted from song lyrics. Possible descriptors could include song structures and lyrical semantics such as the distribution of the parts of speech that are present within a song. Also, research has shown that combining audio features can significantly increase the performance of models such as Random Forests (Tsaptsinos 2). Our project focused only on text lyrics since we did not have recordings of the actual music associated with each of the songs in our dataset.</p>
+      <p>Also, in our project our dataset consisted of five genres. Various researchers have found it more difficult to obtain higher accuracy rates when the number of categories increases(Tsaptsinos 2). Doing further experiments on datasets with more genres will help provide an understanding whether the models we developed in this project generalize for other genres that were not a part of our experiments.</p>
+      <p>The biggest limitation of the text generation lies in the fact that the model can generate lyrics, but not the music behind them. If we annotate our training set with the musical notes which accompany the lyrics then we may be able to get the model to learn to not only generate lyrics, but also a musical arrangement to accompany them. This would hopefully inform the lyric generation models so that they make more sense in the context of an actual song (i.e. rhyme schemes for rap). This would not be a small undertaking, but it could improve the final output of the model.</p>
+      
+      <h1>Overall Conclusion</h1>
+      <p>We were able to come up with a general pipeline that would allow someone to explore how a certain line or lines would fit into the world of music today.</p>
+      <p>Our classification models were able to classify a song’s genre based on its lyrics with varying levels of accuracy. After tuning some of the hyper-parameters, we were able to obtain an accuracy rate in the low to mid 50s using Logistic Regression and Linear SVC models. This number crept up to nearly 60% when we employed a Multinomial Naive Bayes model. This is a significant improvement from random guessing since a random guess would be right 20% of the time in the long run since our dataset consisted of five genres.</p>
+      <p>Based on our ability to classify song genres, we were then able to move to the next step of text-generation. By accepting user inputted song lyrics, our classification model would first try to predict what genre the user was interested in. Based on this result, an appropriate text-generation model was loaded and run to create the rest of the lyrics. We believe our final pipeline would enable listers to explore their musical interests, thus creating a larger fan base for the music industry as a whole.</p>
+      
+      <h1>References/Brief Literature Review</h1>
+      <ul><li>Tsaptsinos, Alexandros. “Music Genre Classification by Lyrics Using a Hierarchical Attention Network.” <a href="https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/reports/2728368.pdf">https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/reports/2728368.pdf</a>.</li></ul>
+      <p>This article talks about past research that has been done for genre classification and what their strengths and weaknesses were.</p>
+      
+      <ul><li>Fell, Michael, and Caroline Sporleder. “Lyrics-Based Analysis and Classification of Music.” <a href="https://www.aclweb.org/anthology/C14-1059.pdf">https://www.aclweb.org/anthology/C14-1059.pdf</a>.</li></ul>
+      <p>This article discusses an approach to doing genre classification based on text lyrics. It also mentions some factors that should be taken into consideration when preprocessing the data and running it through classification models.</p>
+      
+      <ul><li>Webster, Jack. “Music on-Demand: A Commentary on the Changing Relationship between Music Taste, Consumption and Class in the Streaming Age.” <a href="https://journals.sagepub.com/doi/pdf/10.1177/2053951719888770">https://journals.sagepub.com/doi/pdf/10.1177/2053951719888770</a>.</li></ul>
+      <p>This analysis focuses on how the advent of streaming services has affected the music industry and social norms.</p>
+      
+      <ul><li>Datta, Hannes, et al. “Changing Their Tune: How Consumers' Adoption of Online Streaming Affects Music Consumption and Discovery.” 9 May 2017, <a href="https://www.gsb.stanford.edu/sites/gsb/files/publication-pdf/spotify_web.pdf">https://www.gsb.stanford.edu/sites/gsb/files/publication-pdf/spotify_web.pdf</a>.</li></ul>
+      <p>The authors focus on how the wide-spread adoption of streaming services has led to an expansion within the music sector.</p>
+      
+      <ul><li>Radford, A., Wu, J., Child, R., Luan, D., Amodei, D. & Sutskever, I. (2018). Language Models are Unsupervised Multitask Learners <a href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf">https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf</a>.</li></ul>
+      <p>This is the original paper for GPT-2 architecture. It explains the architecture of the model, how it was trained, and the results they found using it.</p>
+      
+      <ul><li>Liang, Dawen, et al. “Music Genre Classification with the Million Song Dataset.” <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.700.2701&rep=rep1&type=pdf">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.700.2701&rep=rep1&type=pdf</a>.</li></ul>
+      <p>This paper talks about the challenges of extracting features from text lyrics in a scalable manner.</p>
+      
+      <ul><li>Gatt, Albert, and Emiel Krahmer. “Survey of the State of the Art in Natural LanguageGeneration: Core Tasks, Applications and Evaluation.” <a href="https://jair.org/index.php/jair/article/view/11173/26378">https://jair.org/index.php/jair/article/view/11173/26378</a>.</li></ul>
+      <p>This paper talks about unique applications of text generation and discusses changes in this area over the last two decades.</p>
+      
+      <h1>Appendix</h1>
+      <p><b>Pop Generation</b></p>
+      <p style='font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; font-size:15px'>Letra de Ni Tú Ni Yo (Letra de Ni Tú Ni Yo) Ni Tengo que tráate la calle de tomain<br/>
+ Despacito  dale pa´ arriba<br/>
+ Yo sé que tu ni por la mía<br/>
+ Déjame sentirte  quiero deleitarme en tu lista de habitación<br/>
+ Tráamentos más de dos  después de dos<br/>
+  Por pon de manda y el mejor Sons and Queens<br/>
+ Ojala<br/>
+ Pabllo ver baila  pabllo ver baila<br/>
+ Vamos a mí se llama<br/>
+ Una santa  cómo se llama<br/>
+ Y yo  y yo  y es que mira es<br/>
+ Una santa  cómo se llama<br/>
+ Una santa  cómo se llama<br/>
+ Una<br/>
+ Vamos a mí se llama<br/>
+ Una santa  cómo se llama<br/>
+ Y yo  y yo  y es que mira es<br/>
+ Una santa  cómo se llama<br/>
+ Una santa  cómo se llama<br/>
+ Una<br/>
+ [Bridge: Enrique Iglesias]<br/>
+ Despacito<br/>
+ Porque el amor no me besa noche<br/>
+ Porque el amor no me besa noche<br/>
+ Despacito<br/>
+ Quiero respirar tu cuello despacito<br/>
+ Que el corazón conmigo yo te viera<br/>
+ Para para el paré yo te siente<br/>
+ Y que eres posesiva en la vida<br/>
+ Una noche  dos noches sólo a mi belle de ti<br/>
+ La noche  he va el sugo provocar<br/>
+ A mí se nota me dejes en ti<br/>
+ Todos mis sentidos van pidiendo<br/>
+ Revolto dalejos en tras de ti<br/>
+ Que el corazón conmigo yo te viera<br/>
+ Para para el paré yo te siente<br/>
+ Y que eres posesiva en la vida<br/>
+ Una noche  dos noches sólo a mi belle de ti<br/>
+ La noche  he va el sugo provocar<br/>
+ A mí se nota me dejes en ti<br/>
+ Todos mis sentidos van pidiendo<br/>
+ Revolto dalejos en tras<br/>
+ Tratos militaritaritarirte<br/>
+ [Outro: Enrique Iglesias]<br/>
+ Ni Tú Ni Yo<br/>
+ Ni Tú Ni Yo<br/>
+ Porque el amor no me besa noche<br/>
+ Porque el amor no me besa noche<br/>
+ Despacito<br/>
+ Que el corazón conmigo yo te viera<br/>
+ Para para el paré yo te siente<br/>
+ Y que eres posesiva en la vida<br/>
+ Una noche  dos noches sólo a mi belle de ti<br/>
+ La noche  he va el sugo provocar<br/>
+ A mí se nota me dejes en ti'<br/>
+</p>
+      
+      <p><b>Country Generation</b></p>
+      <p style='font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; font-size:15px'>
+Saw a man on the sidewalk<br/>
+ Hunger written in red chalk<br/>
+ Not a care in the world, just a need to<br/>
+ They take it down and wean us off<br/>
+ It’s had-to-do-me, get-to-know-me<br/>
+ Life is good today, it’s supposed to be, it’s supposed to be<br/>
+ But people get sick and tired of being where they are<br/>
+ Shes got the bullets, they got the seatsbelt<br/>
+ Shes got the bottles full<br/>
+ Yeah, everybody wants some cheap fun<br/>
+ But there’s been a few of the best years that I ever known<br/>
+  "The mean winters that we've been here a while",We only get lost in summer<br/>
+ And I feel like I have to say it<br/>
+  "But that doesn't make me less of a man",Yeah, there’s been a few of the best years<br/>
+  "I've been living my best life", "I’m living my best life", "But I don't know how I did it, just playboutisms don’t make no sense",And I’m only here because of you<br/>
+ I don’t know how, but I do know how I did it<br/>
+ I just pray you know it<br/>
+  "Forget what themthspeak you're used to",It’s just scripture dark and all-consuming<br/>
+ And it’s on a nightly basis, with no time to spare<br/>
+ I just pray you know it<br/>
+ [Chorus]<br/>
+ Lord knows I’ll be strong<br/>
+ Even when my bones break<br/>
+ I’ll be as strong as I’m able to hold<br/>
+ Stood in the past, I know the present<br/>
+ And the very next day I will be, will be<br/>
+ The fighter I was before I lost my mind<br/>
+ The one who loves me and gives his life for me<br/>
+ This is it, this is it<br/>
+ Shes got the bullets, they got the seatsbelt<br/>
+ They got the bottles full<br/>
+ Yeah, everybody wants some cheap fun<br/>
+ But there’s been a few of the best years that I ever known<br/>
+  "The mean winters that we've been here a while",We only get lost in summer<br/>
+ And I feel like I have to say it<br/>
+  "But that doesn't make me less of a man",Yeah, there’s been a few of the best years<br/>
+  "I've been living my best life", "I’m living my best life", "But I don't know how I did it, just playboutisms don’t make sense",And I’m only here because of you<br/>
+ I don’t know how, but I do know how I did it<br/>
+ I just pray you know it<br/>
+  "Forget what they're gonna call my defense",It’s first thing in the morning, three things in the middle of a speech<br/>
+  "And I'll be quick when they say that,"Yeah, I'm ready to roll, ready to roll",[Bridge]<br/>
+ Yeah, when the sun sets<br/>
+ And our conversation is as one-sided as it gets<br/>
+  "But we're just like everybody else, yeah", "And I’m just asking you, I think it's time",[Chorus]<br/>
+ Lord knows I’ll be strong<br/>
+ Even when my bones break<br/>
+ I’ll be as strong as I’m able to hold<br/>
+ Stood in the past, I know the present<br/>
+ And the very next day I will be<br/>
+ The fighter I was before I lost my mind<br/>
+ The one who loves me and gives his life for me<br/>
+ This is it, this is it<br/>
+  "Oh, this isn'trock no more",So come on, come on, come on<br/>
+ [Outro]<br/>
+ Yeah, just ask anyone<br/>
+ I’m just asking you<br/>
+ Just asking you<br/>
+ Just asking you'        
+      </p>
+      
+      <p><b>Rock Generation</b></p>
+      <p style='font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; font-size:15px'>
+      I’m a stone of sunlight<br/>
+ I stride alone<br/>
+ I stride straight<br/>
+ I stride tall<br/>
+ I stride up<br/>
+ I stride down<br/>
+ I stride up<br/>
+ I’ll’eastern’’’’s’hundred’<br/>
+ (Well, kinda, yeah)<br/>
+ [Verse 1]<br/>
+  "I've been roamin' around", "Think I'm a no-go", "I've been sharin' my words, makin' no moves", "Got a no-holds-barred belly, I'm sharin' my words",Not everything’s so fine as day when I live<br/>
+ [Verse 2]<br/>
+ This ancient tongue of ours is still down<br/>
+ Stuttering, thirst, cold feet<br/>
+ And the elders talk louder than me<br/>
+ [Chorus]<br/>
+  "I'm a razorblade", "I'm a pocket knife", "I'm a pump foward", "I'm a-fire, I'm a spineless", "I'm a razorblade",[Verse 3]<br/>
+ The beast inside you is ferocious<br/>
+ Take it's time just show me<br/>
+ The moment when you shine, it’s golden<br/>
+ But the crystal ball<br/>
+ It’s a metaphor, it’s a metaphor<br/>
+ The beast inside you is ferocious<br/>
+ Take it's time just show me<br/>
+ The moment when you shine, it’s golden<br/>
+ But the crystal ball<br/>
+ It’s a metaphor, it’s a metaphor<br/>
+ [Chorus]<br/>
+  "I'm a razorblade", "I'm a pocket knife", "I'm a nincompoop", "I'm a lightning rod",[Instrumental Bridge]<br/>
+ [Verse 4]<br/>
+ This angry insurrection<br/>
+ Is gonna be a long day<br/>
+ All the sinners burned into the ground<br/>
+  "But boys, don't you worry, you'll know", "I'm not saintly, I'm not saintly",[Chorus]<br/>
+  "I'm a razorblade", "I'm a pocket knife", "I'm a nincompoop", "I'm a lightning rod", "I'm a lightning rod",[Verse 5]<br/>
+ This is gonna be a long night<br/>
+ There’s gonna be no sky, no time<br/>
+ Just burn this ship down, over this hill<br/>
+ This ship down, this hill<br/>
+  "Don't go! Don't go!", "Go!! The Communist Guard don't welcome outside",[Chorus]<br/>
+  "I'm a razorblade", "I'm a pocket knife", "I'm a nincompoop", "I'm a lightning rod", "I'm a lightning rod", "Don't go! Don't go!", "Go!! The Communist Guard don't welcome outside",[Outro]<br/>
+  "I'm a razorblade", "I'm a pocket knife", "I'm a nincompoop", "I'm a lightning rod", "I'm a lightning rod", "Don't go! Don't go!", "Go!! The Communist Guard don't welcome outside", "I'm a razorblade!"
+      </p>
+
+      <p><b>Hip-Hop Generation</b></p>
+      <p style='font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; font-size:15px'>      
+      Outta nowhere, I’m rockin ‘em up<br/>
+ I’m so used to they stares that we get<br/>
+ And they gotta laugh at us, and they gotta break it down<br/>
+ Out of all the girls, this shit get boring<br/>
+ And it’s so hard to find a nerdy in this building<br/>
+ I’m so used to they stare that we get<br/>
+ And they gotta laugh at us, and they gotta break it down<br/>
+ [Verse 1: Beyoncé]<br/>
+ Baby, I swear we up in there<br/>
+  "They lookin’ and singin’ and shoutin' out comin' Jon Stewart",I know they want a verse, but yeah, we up in there<br/>
+  "Yeah, she know I'm serious, so I'm baby gohead and pass", "Yeah, she know I'm serious, so I'm baby gohead and pass", "I'm up in there, I'm tryna get my shit down, what's happenin'?",Tell me, do I really wanna get up in your head?<br/>
+  "Do I really wanna get up in your head? No, I don't think so", "Let's get this understood, can't get no sleep",Oh, baby, you my favorite, my main chick<br/>
+  "You taste so right, I taste so wrong, yeah, yeah", "Tell me, is you tired?", "No, I'm up, what's happening behind the scenes?", "Are you cryin’? Oh, no", "What's happening behind the scenes, what's up in you, oh",[Chorus: Beyoncé & J. Cole]<br/>
+ They say, "Love is a game, not a friend",And it is up to you<br/>
+ If you take the time<br/>
+ To see love and not hate<br/>
+ Open your heart like that of a baby<br/>
+ Can that boy J. Cole get a little jealous?<br/>
+  "That's the sound of romance", "Stay faithful, we don't stop, oh",Love is a game<br/>
+ Not a friend, no, no<br/>
+ [Verse 2: J. Cole]<br/>
+ Yeah, yeah, you my new friend, yeah, you my new boo<br/>
+  "Don't back down, no, no, no, don't fall for this new guy",Your new boo will die in a minute, J. Cole will be the new opp<br/>
+  "Girl, I'm just tryna make you mine, I'm just tryna make you mine", "It's not a love thing, just a love thing, no",Love is about patience, J. Cole to my face<br/>
+ Love is about life, you and me<br/>
+  "Keep tryin' to minimize it",Keep tryna overlook it<br/>
+ [Chorus: Beyoncé]<br/>
+ They say, "Love is a game",Not a friend, no, no<br/>
+  "And it's up to you",If you take the time<br/>
+ To see and to listen<br/>
+  "And don't lose your mind", "'Cause if you don't like it",Then you're mine, baby, whoever ends up winning<br/>
+  "'Cause whoever ends up winning gets to say they don't like me",[Verse 3: J. Cole]<br/>
+  "What wein' man? What wein' man?", "What wein' man? Let's take a look at the cloth that's our business",We start with a photograph<br/>
+ Then we flip it, then we take a look<br/>
+ At the garment that you like<br/>
+ Then we put it on and later we fold it<br/>
+ Then we send it back<br/>
+  "We're not made for each other, we're made to fight", "We're made for this game, man, you better buckle up", "Machine gun to your body, I'm gonna attack",Do my thing machine, rock bottom and goldeneye<br/>
+ Then I fold it<br/>
+ Goldeneye<br/>
+  "Blackberries, I'ma jam it in",Then I tip it over so he get to licking it<br/>
+ I brought a lotta friends with me<br/>
+  "I'ma sendem out wayside to get people",But of course we fo the troll<br/>
+  "We're made to go", "If you're with us, then I'm with you", "I'm with you, girl, I don't be taming you",Go<br/>
+ [Chorus: Beyoncé + J. Cole]<br/>
+ They say, "Love is a game"<br/>
+  "And it's up to you",If you choose to do it for me<br/>
+  "That's a choice, a choice",Make you who I want you to be<br/>
+  "If you say you don't want me",I will never, anywhere<br/>
+  "Boy, I'm gon' make you what you want me to be", "If you say you don't want me",I will never,
+      </p>
+
+      <p><b>Rap Generation<br/>
+        <span style="color: red">DISCLAIMER: VULGAR</span></b></p>
+      <p style='font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; font-size:15px'>      
+Quickie, quickie, ho",Who in the vicinity of ninety-five and eighty<br/>
+ is ready to pounce<br/>
+  "The industry's favorite blunt, Tricep and her toe",Shoot like a war, with or without the gas<br/>
+  "With fifty shells, the bitch's name's Kunta Kinte",And she want to get me<br/>
+  "But I'm too late, my Glock's stuck",And I got another Glock in my vehicle<br/>
+ So, ho, switch it up<br/>
+  "I'll get to floor, I'm a fractional reserve", "I'm the spitting image of Anastasio Sommerta", "Glock-booted, with six clip options", "With a .45 in my waist, duffel bag's full", "With three grams of spent duffel", "Stinger'd, Torso-socked, braided, braided, duffel'd", "Glock-booted, fucked up, Valentino's on the beat", "Glock-booted, fucked up, Valentino's on the beat", "Glock-boot, fucked up, Valentino's on the beat",[Verse 3]<br/>
+ I picked up the case, stripped it down and took it with me<br/>
+  "While I was there saw a nigga smoking on the corner", "A South-side ma'fuckin nigga who used to sell glitchin' knock-knocks", "As we bust us in the head, see Gucci boys in Smith's",With hundreds of thousands on my European bank<br/>
+  "I don't check no more than thou doest self-defense", "While I'm there bustin' in my mohican",Sasquatch clique growing every time this shit played<br/>
+ Young nigga, my biggest fan is Penya<br/>
+  "Makin' noise when you see him breakin' in", "With a nine-fo' and a half G'd up", "That snitch got noise so I put mines in", "That's a G'd up, G'd up", "I'm the nigga, the devil's the story (why)", "Glock-booted, bare-knuckle jig-blin' (it's a weekend, mind)", "Glock-booted, bare-knuckle jig-blin' (it's a weekend, mind)", "Glock-booted, bare-knuckle jig-blin' (it's a weekend)",[Chorus]<br/>
+  "Yeah, baby, I'm gettin' huffy", "I'm gettin' up, baby, yeah, I'm gettin' up", "I'm gettin' up, baby, yeah, I'm gettin' up", "I'm gettin' up, baby, yeah, I'm gettin' up", "I'm gettin' up, baby, yeah, I'm gettin' up", "I'm gettin<br/>
+ up, baby, yeah, I'm gettin' up",[Verse 4]<br/>
+  "Yeah, baby, I said fuck you, po' makin' it (it's your first, baby)", "I'll take you wherever you go, yeah, I say)", "You don't have a home? Take it home and take it home (baby)", "You don't have a home? No, you out of town, baby", "And if you ain't got a place to call it kiddie, I got a place to call it", "Now get to bustin' yo' head in the attic, I'll take ya there", "Bitch runnin' with the key, the key to the attic",Catch a cold day in the cold world<br/>
+ Where the breezes breath they through jeans and t-shirt<br/>
+  "And if you ain't got a home, I got a place to call it", "Now get to bustin' yo' head in the attic, I'll take ya there", "Bitch runnin' with the key, the key to the attic",Catch a cold day in the cold world<br/>
+ Where the breezes breath they through jeans and t-shirt<br/>
+  "And if you ain't got a home, I got a place to call it",[Chorus]<br/>
+  "Yeah, baby, I'm gettin' up", "I'm gettin' up (baby, I'm gettin' up)", "I'm gettin' up (baby, I'm gettin' up)", "I'm gettin' up (baby, I'm gettin' up)"      
+      </p>
+
+      <h2>Context Provided</h2>
+      
+      <p><b>Country with prompt: “And a little bit of chicken fried. A cold beer on a Friday Night”</b></p>
+      <p style='font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; font-size:15px'>      
+      And a little bit of chicken fried. A cold beer on a Friday night. A big bad burger and a little onion rings. Those are the words that I remember<br/>
+ They were a night we didn’t forget, a night that we didn’t forget<br/>
+ We would never forget, we would never forget<br/>
+ For we would never forget<br/>
+ Every little thing<br/>
+ We would never forget, we would never forget<br/>
+ We would never forget'
+      </p>
+      
+      <p><b>Rock with prompt: “We will we will rock you. Buddy you’re a boy”</b></p>
+      <p style='font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; font-size:15px'>      
+      We will we will rock you. Buddy you're a boy, Will you run?<br/>
+ [Verse 1]<br/>
+  "Lay you on my mind and I can't see how",We can beat you, babe, up and down the highway<br/>
+  "One more thing, I don't wanna hear you scream",And so this time was a breeze<br/>
+ We held each other, we held each other<br/>
+  "What I know, I don't know",We will one day, we will one day rock<br/>
+ [Verse 2]<br/>
+ Bay under the bridge<br/>
+ Candyman, Mickey and Bill<br/>
+ Troubadour on the corner<br/>
+ J. Edgar Hoover<br/>
+ On and on she goes<br/>
+ With him juries stretch out<br/>
+ To catch the bad guys<br/>
+ And to shoot him when she wants<br/>
+ [Verse 3]<br/>
+ Well she was out of her mind<br/>
+ If she wanted to<br/>
+ She could find some victory for herself<br/>
+ By the time she got to Omaha<br/>
+ [Outro]<br/>
+ And she could tell<br/>
+ All the good deeds<br/>
+ That were practiced<br/>
+ By those who smiled<br/>
+  "She didn't want to go home",[Outro]<br/>
+ We we we we we we we we<br/>
+ We we we we we we we we we<br/>
+ We we we we we we we we we<br/>
+ [Verse 1]<br/>
+ Bay under the bridge<br/>
+ Candyman, Mickey and Bill<br/>
+ J. Edgar Hoover<br/>
+ On and on she goes<br/>
+ With him juries stretch out<br/>
+ To catch the bad guys<br/>
+ To catch the good guys<br/>
+ To catch the bad guys<br/>
+ To catch the good guys'<br/>
+ Oh we we we we we we we we<br/>
+ Woah'
+      </p>      
+      
+      <p><b>Pop generation with prompt: “I’m a sucker for you. Say the word and I’ll go anywhere blindly”</b></p>
+      <p style='font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; font-size:15px'>      
+      I'm a sucker for you<br/>
+ You say the word and I'll go anywhere blindly  "You're the only one", "Give me a time and place and I'll do it forever", "I'm a sucker for you, you say the word and I'll go anywhere",[Verse 1: Nick Jonas]<br/>
+  "I don't want no trust fund baby",I want a man who takes care of me<br/>
+  "I've got a dog, I've got a cat, I've got a boy", "I've got a girlfriend, I've got a boy", "I've got a brother with another girl, she's only got one name", "I'ma tell him I'm sorry for making fun of me", "But I'd rather not be rude", "So I can come home with you tonight",[Pre-Chorus: Nick Jonas]<br/>
+  "I'm sorry for the drinks you've been throwin' at me", "For the feelings you've been givein' to me", "And for every awkward moment you've been goin' through", "I'm sorry for the time you've been goin' through", "I'm sorry for the feelings you've been givein' to me", "And I'm sorry for the boy you're playin' with now and then", "I'm sorry for the time you've been playin' through", "I'm sorry for the feelings you've been givein' to me", "And I'm sorry for the boy you're playin' with now and then",[Chorus: Nick Jonas]<br/>
+  "I'm sorry, I'm sorry (I'm sorry), I'm sorry (I'm sorry)", "Oh, I'm sorry, I'm sorry (I'm sorry), I'm sorry (I'm sorry)", "Oh, I'm sorry, I'm sorry (I'm sorry), I'm sorry (I'm sorry)"
+      </p>
+      
+      <footer class="site-footer">
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
+
+  
+  </body>
+</html>
