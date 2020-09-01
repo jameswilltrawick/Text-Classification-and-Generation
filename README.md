@@ -14,15 +14,15 @@ Below describes a simple way to get started and use the tool, without using mass
 
 2.	Data Collection 
 
-  a.	Go to https://genius.com/developers and get an API key
-  
-  b.	Navigate to the Try_it  folder in the github repo
-  
-  c.	Change the SampleArtistGenreData.csv file to artist/genre pairs you are interested in using and save
-  
-  d.	Open the GeniusAPIScript.ipynb in the same folder and input your Genius key from step one
-  
-  e.	Run the script, this will save a file called LyricsData.csv which will be used in the next steps
+                a.	Go to https://genius.com/developers and get an API key
+
+                b.	Navigate to the Try_it  folder in the github repo
+
+                c.	Change the SampleArtistGenreData.csv file to artist/genre pairs you are interested in using and save
+
+                d.	Open the GeniusAPIScript.ipynb in the same folder and input your Genius key from step one
+
+                e.	Run the script, this will save a file called LyricsData.csv which will be used in the next steps
 
 3.	Data Cleaning
   
