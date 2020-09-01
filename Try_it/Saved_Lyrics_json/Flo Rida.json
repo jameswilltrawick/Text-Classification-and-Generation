@@ -1,0 +1,3201 @@
+{
+ "alternate_names": [
+  "Tramar Lacel Dillard",
+  "Tramar Dillard"
+ ],
+ "api_path": "/artists/1081",
+ "description": {
+  "plain": "Born Tramar Lacel Dillard on September 17 1979, Flo Rida is an American rapper from Florida. He has pumped out many hit singles such as Whistle, Wild Ones featuring Sia, Sometimes I Cry (Poem), Good Feelings and many others. He is signed to 3 different record labels, one of them being Atlantic. His music has so far amassed 75 million downloads worldwide. And has a total net worth of $30,000,000."
+ },
+ "facebook_name": "officialflo",
+ "followers_count": 311,
+ "header_image_url": "https://images.genius.com/44e416652d99d5ed1cb096db255fc5ab.1000x333x1.jpg",
+ "id": 1081,
+ "image_url": "https://images.genius.com/0c53aacbe8eb21d44f3a7faf98e26f45.658x658x1.jpg",
+ "instagram_name": "official_flo",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Flo Rida",
+ "translation_artist": false,
+ "twitter_name": "official_flo",
+ "url": "https://genius.com/artists/Flo-rida",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1953815,
+  "annotator_login": "SHERRAH5",
+  "api_path": "/referents/6927137",
+  "classification": "accepted",
+  "fragment": "Flo Rida",
+  "id": 6927137,
+  "is_description": true,
+  "path": "/6927137/Flo-rida/Flo-rida",
+  "range": {
+   "content": "Flo Rida"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6927137/Flo-rida/Flo-rida",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1081",
+   "context": null,
+   "id": 1081,
+   "image_url": "https://images.genius.com/0c53aacbe8eb21d44f3a7faf98e26f45.658x658x1.jpg",
+   "link_title": "Flo Rida",
+   "title": "Flo Rida",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Flo-rida"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6927137",
+    "body": {
+     "plain": "Born Tramar Lacel Dillard on September 17 1979, Flo Rida is an American rapper from Florida. He has pumped out many hit singles such as Whistle, Wild Ones featuring Sia, Sometimes I Cry (Poem), Good Feelings and many others. He is signed to 3 different record labels, one of them being Atlantic. His music has so far amassed 75 million downloads worldwide. And has a total net worth of $30,000,000."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6927137,
+    "pinned": false,
+    "share_url": "https://genius.com/6927137",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6927137/Flo-rida/Flo-rida",
+    "verified": false,
+    "votes_total": 9,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.9722222222222223,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1953815",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/477a8474eb2465cace5178b044713f93",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/477a8474eb2465cace5178b044713f93",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/477a8474eb2465cace5178b044713f93",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/477a8474eb2465cace5178b044713f93",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/477a8474eb2465cace5178b044713f93",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1953815,
+       "iq": 2502,
+       "login": "SHERRAH5",
+       "name": "SHERRAH5",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/SHERRAH5",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.027777777777777776,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3109411",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/1401cd40beb2d72d2736d63c2e67953f",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/1401cd40beb2d72d2736d63c2e67953f",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/1401cd40beb2d72d2736d63c2e67953f",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/1401cd40beb2d72d2736d63c2e67953f",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/1401cd40beb2d72d2736d63c2e67953f",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3109411,
+       "iq": 2365,
+       "login": "TimothyGu",
+       "name": "TimothyGu",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/TimothyGu",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 9,
+   "api_path": "/songs/20062",
+   "apple_music_id": "275496141",
+   "apple_music_player_url": "https://genius.com/songs/20062/apple_music_player",
+   "description": {
+    "plain": "\u201cLow\u201d is the debut single by Flo Rida, from his debut album Mail on Sunday. it was also the soundtrack to the 2008 film Step Up 2: The Streets.\n\nIts catchy, club oriented Southern hip-hop influences made it the longest-running number-one single in the US in 2008, besides reaching number one for the week of December 30, 2007 \u2013 January 5, 2008.\n\nThe song contains strong sexual elements and references about dancing in the club. He refers to a sexy \u201cshawty\u201d who \u201cstole the show\u201d and made the club fall on their heels. Basically a club song with a groovy instrumental."
+   },
+   "embed_content": "<div id='rg_embed_link_20062' class='rg_embed_link' data-song-id='20062'>Read <a href='https://genius.com/Flo-rida-low-lyrics'>\u201cLow\u201d by Flo\u00a0Rida</a> on Genius</div> <script crossorigin src='//genius.com/songs/20062/embed.js'></script>",
+   "featured_video": true,
+   "full_title": "Low by\u00a0Flo\u00a0Rida (Ft.\u00a0T-Pain)",
+   "header_image_thumbnail_url": "https://images.genius.com/18f3e19d4e938c9305bfcc4889c41da4.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/18f3e19d4e938c9305bfcc4889c41da4.640x640x1.jpg",
+   "id": 20062,
+   "lyrics_owner_id": 50,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Flo-rida-low-lyrics",
+   "pyongs_count": 33,
+   "recording_location": null,
+   "release_date": "2007-10-09",
+   "release_date_for_display": "October 9, 2007",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ef1e31d4ccb402d2176f5c52d1350ce0.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ef1e31d4ccb402d2176f5c52d1350ce0.800x800x1.jpg",
+   "stats": {
+    "accepted_annotations": 6,
+    "contributors": 67,
+    "iq_earners": 67,
+    "transcribers": 0,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "concurrents": 2,
+    "hot": false,
+    "pageviews": 477492
+   },
+   "title": "Low",
+   "title_with_featured": "Low (Ft.\u00a0T-Pain)",
+   "url": "https://genius.com/Flo-rida-low-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/3128",
+    "cover_art_url": "https://images.genius.com/a7bddf15d0582810be4af2e8d50aee84.600x600x1.jpg",
+    "full_title": "Mail on Sunday by Flo Rida",
+    "id": 3128,
+    "name": "Mail on Sunday",
+    "url": "https://genius.com/albums/Flo-rida/Mail-on-sunday",
+    "artist": {
+     "api_path": "/artists/1081",
+     "header_image_url": "https://images.genius.com/44e416652d99d5ed1cb096db255fc5ab.1000x333x1.jpg",
+     "id": 1081,
+     "image_url": "https://images.genius.com/0c53aacbe8eb21d44f3a7faf98e26f45.658x658x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Flo Rida",
+     "url": "https://genius.com/artists/Flo-rida"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Mixing",
+     "artists": [
+      {
+       "api_path": "/artists/638003",
+       "header_image_url": "https://images.genius.com/7ca8536b3d587f3d4adeb7562651bfe8.667x667x1.jpg",
+       "id": 638003,
+       "image_url": "https://images.genius.com/7ca8536b3d587f3d4adeb7562651bfe8.667x667x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Fabian Marasciullo",
+       "url": "https://genius.com/artists/Fabian-marasciullo"
+      }
+     ]
+    },
+    {
+     "label": "Recorded By",
+     "artists": [
+      {
+       "api_path": "/artists/933070",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 933070,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Javon \u201c4mil\u201d Thomas",
+       "url": "https://genius.com/artists/Javon-4mil-thomas"
+      },
+      {
+       "api_path": "/artists/979319",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 979319,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Geoff Gibbs",
+       "url": "https://genius.com/artists/Geoff-gibbs"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 50,
+    "annotator_login": "AlysonWonderland",
+    "api_path": "/referents/3509454",
+    "classification": "accepted",
+    "fragment": "Low",
+    "id": 3509454,
+    "is_description": true,
+    "path": "/3509454/Flo-rida-low/Low",
+    "range": {
+     "content": "Low"
+    },
+    "song_id": 20062,
+    "url": "https://genius.com/3509454/Flo-rida-low/Low",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/20062",
+     "client_timestamps": {
+      "updated_by_human_at": 1596645598,
+      "lyrics_updated_at": 1596645598
+     },
+     "context": "Flo Rida",
+     "id": 20062,
+     "image_url": "https://images.genius.com/ef1e31d4ccb402d2176f5c52d1350ce0.800x800x1.jpg",
+     "link_title": "Low by\u00a0Flo\u00a0Rida (Ft.\u00a0T-Pain)",
+     "title": "Low",
+     "type": "Song",
+     "url": "https://genius.com/Flo-rida-low-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3509454",
+      "body": {
+       "plain": "\u201cLow\u201d is the debut single by Flo Rida, from his debut album Mail on Sunday. it was also the soundtrack to the 2008 film Step Up 2: The Streets.\n\nIts catchy, club oriented Southern hip-hop influences made it the longest-running number-one single in the US in 2008, besides reaching number one for the week of December 30, 2007 \u2013 January 5, 2008.\n\nThe song contains strong sexual elements and references about dancing in the club. He refers to a sexy \u201cshawty\u201d who \u201cstole the show\u201d and made the club fall on their heels. Basically a club song with a groovy instrumental."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3509454,
+      "pinned": false,
+      "share_url": "https://genius.com/3509454",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3509454/Flo-rida-low/Low",
+      "verified": false,
+      "votes_total": 20,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.9,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/324651",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8fb361ac2e6f9422efb9e5820a649974",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8fb361ac2e6f9422efb9e5820a649974",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8fb361ac2e6f9422efb9e5820a649974",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8fb361ac2e6f9422efb9e5820a649974",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/8fb361ac2e6f9422efb9e5820a649974",
+         "human_readable_role_for_display": "Contributor",
+         "id": 324651,
+         "iq": 435,
+         "login": "WetPaint",
+         "name": "WetPaint",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/WetPaint",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.07,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1448826",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/744bc3b7bd77206b4c768fadc9911a25",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/744bc3b7bd77206b4c768fadc9911a25",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/744bc3b7bd77206b4c768fadc9911a25",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/744bc3b7bd77206b4c768fadc9911a25",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/427478c68f285fc5e038b6995aabbbb9.600x600x1.png",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1448826,
+         "iq": 173379,
+         "login": "babuc",
+         "name": "Babu Chatterjee",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/babuc",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.03,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6353121",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/676804d2eebcebd4bf41947332f9ba51",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/676804d2eebcebd4bf41947332f9ba51",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/676804d2eebcebd4bf41947332f9ba51",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/676804d2eebcebd4bf41947332f9ba51",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/676804d2eebcebd4bf41947332f9ba51",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6353121,
+         "iq": 11850,
+         "login": "mrjohnnymac18",
+         "name": "mrjohnnymac18",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/mrjohnnymac18",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [
+    {
+     "api_path": "/artists/337",
+     "header_image_url": "https://images.genius.com/5f2e9a0fce5f6eb6e7ab605d69e880ee.824x470x1.jpg",
+     "id": 337,
+     "image_url": "https://images.genius.com/6efed4f2f043ca2d708512a157481569.720x720x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "T-Pain",
+     "url": "https://genius.com/artists/T-pain",
+     "iq": 392
+    }
+   ],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=ckKFxMw6z0c"
+    },
+    {
+     "native_uri": "spotify:track:0CAfXk7DXMnon4gLudAp7J",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1081",
+    "header_image_url": "https://images.genius.com/44e416652d99d5ed1cb096db255fc5ab.1000x333x1.jpg",
+    "id": 1081,
+    "image_url": "https://images.genius.com/0c53aacbe8eb21d44f3a7faf98e26f45.658x658x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Flo Rida",
+    "url": "https://genius.com/artists/Flo-rida"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/337",
+     "header_image_url": "https://images.genius.com/5f2e9a0fce5f6eb6e7ab605d69e880ee.824x470x1.jpg",
+     "id": 337,
+     "image_url": "https://images.genius.com/6efed4f2f043ca2d708512a157481569.720x720x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "T-Pain",
+     "url": "https://genius.com/artists/T-pain",
+     "iq": 392
+    },
+    {
+     "api_path": "/artists/11066",
+     "header_image_url": "https://images.genius.com/cbee8c851724d11e0543e077482ff0aa.650x650x1.jpg",
+     "id": 11066,
+     "image_url": "https://images.genius.com/cbee8c851724d11e0543e077482ff0aa.650x650x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DJ Montay",
+     "url": "https://genius.com/artists/Dj-montay"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1204840",
+       "full_title": "Hands in the Air by\u00a0Girl\u00a0Talk",
+       "header_image_thumbnail_url": "https://images.genius.com/536452ce3d4a86da3170d6d8fe73750f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/536452ce3d4a86da3170d6d8fe73750f.640x640x1.jpg",
+       "id": 1204840,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Girl-talk-hands-in-the-air-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/536452ce3d4a86da3170d6d8fe73750f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/536452ce3d4a86da3170d6d8fe73750f.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Hands in the Air",
+       "title_with_featured": "Hands in the Air",
+       "url": "https://genius.com/Girl-talk-hands-in-the-air-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/928",
+        "header_image_url": "https://images.genius.com/d8d897c8aa4269e0035eb18faffd52ce.770x616x1.jpg",
+        "id": 928,
+        "image_url": "https://images.genius.com/5951c5c6da66bc7fc4ae35c95a578766.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Girl Talk",
+        "url": "https://genius.com/artists/Girl-talk"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/2865380",
+       "full_title": "No More Gas by\u00a0DJ\u00a0Earworm",
+       "header_image_thumbnail_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+       "id": 2865380,
+       "lyrics_owner_id": 752183,
+       "lyrics_state": "complete",
+       "path": "/Dj-earworm-no-more-gas-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "No More Gas",
+       "title_with_featured": "No More Gas",
+       "url": "https://genius.com/Dj-earworm-no-more-gas-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/190620",
+        "header_image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+        "id": 190620,
+        "image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "DJ Earworm",
+        "url": "https://genius.com/artists/Dj-earworm"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3350016",
+       "full_title": "United State of Pop 2008 (Viva La Pop) by\u00a0DJ\u00a0Earworm",
+       "header_image_thumbnail_url": "https://images.genius.com/9526173b5d157feca1a367063fac4eb3.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/9526173b5d157feca1a367063fac4eb3.1000x1000x1.jpg",
+       "id": 3350016,
+       "lyrics_owner_id": 2201951,
+       "lyrics_state": "complete",
+       "path": "/Dj-earworm-united-state-of-pop-2008-viva-la-pop-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/9526173b5d157feca1a367063fac4eb3.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/9526173b5d157feca1a367063fac4eb3.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "United State of Pop 2008 (Viva La Pop)",
+       "title_with_featured": "United State of Pop 2008 (Viva La Pop)",
+       "url": "https://genius.com/Dj-earworm-united-state-of-pop-2008-viva-la-pop-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/190620",
+        "header_image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+        "id": 190620,
+        "image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "DJ Earworm",
+        "url": "https://genius.com/artists/Dj-earworm"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5032561",
+       "full_title": "Baby I'm Back IV: The Fourth Awakens by\u00a0Pluffaduff",
+       "header_image_thumbnail_url": "https://images.genius.com/e0e112ce6c0e61aedf5854f4120c83fa.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/e0e112ce6c0e61aedf5854f4120c83fa.500x500x1.jpg",
+       "id": 5032561,
+       "lyrics_owner_id": 8392057,
+       "lyrics_state": "complete",
+       "path": "/Pluffaduff-baby-im-back-iv-the-fourth-awakens-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/e0e112ce6c0e61aedf5854f4120c83fa.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e0e112ce6c0e61aedf5854f4120c83fa.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Baby I\u2019m Back IV: The Fourth Awakens",
+       "title_with_featured": "Baby I'm Back IV: The Fourth Awakens",
+       "url": "https://genius.com/Pluffaduff-baby-im-back-iv-the-fourth-awakens-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1673277",
+        "header_image_url": "https://images.genius.com/877a0d5ee19d09c81188103ce9cb825d.288x288x1.jpg",
+        "id": 1673277,
+        "image_url": "https://images.genius.com/877a0d5ee19d09c81188103ce9cb825d.288x288x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Pluffaduff",
+        "url": "https://genius.com/artists/Pluffaduff"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5830159",
+       "full_title": "Styl Dziwki by\u00a0Bieyonc\u00e8",
+       "header_image_thumbnail_url": "https://images.genius.com/e44596886e42eec11d83567849654fc6.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/e44596886e42eec11d83567849654fc6.500x500x1.jpg",
+       "id": 5830159,
+       "lyrics_owner_id": 9742047,
+       "lyrics_state": "unreleased",
+       "path": "/Bieyonce-styl-dziwki-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/e44596886e42eec11d83567849654fc6.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e44596886e42eec11d83567849654fc6.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Styl Dziwki",
+       "title_with_featured": "Styl Dziwki",
+       "url": "https://genius.com/Bieyonce-styl-dziwki-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/2067916",
+        "header_image_url": "https://images.genius.com/e44596886e42eec11d83567849654fc6.500x500x1.jpg",
+        "id": 2067916,
+        "image_url": "https://images.genius.com/4cfd97281a5bdd468d0844b4d2f6ba38.499x499x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Bieyonc\u00e8",
+        "url": "https://genius.com/artists/Bieyonce"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/785035",
+       "full_title": "Low by\u00a0Richard\u00a0Cheese",
+       "header_image_thumbnail_url": "https://images.genius.com/ef9f4ea02fd7b3e4edbeae60a397e043.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/ef9f4ea02fd7b3e4edbeae60a397e043.900x900x1.jpg",
+       "id": 785035,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Richard-cheese-low-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/ef9f4ea02fd7b3e4edbeae60a397e043.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/ef9f4ea02fd7b3e4edbeae60a397e043.900x900x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Low",
+       "title_with_featured": "Low",
+       "url": "https://genius.com/Richard-cheese-low-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/370888",
+        "header_image_url": "https://images.genius.com/a24b5f49233a5651305a86a6d07b0b6b.1000x714x1.jpg",
+        "id": 370888,
+        "image_url": "https://images.genius.com/a24b5f49233a5651305a86a6d07b0b6b.1000x714x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Richard Cheese",
+        "url": "https://genius.com/artists/Richard-cheese"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1233818",
+       "full_title": "Low by\u00a0\u200bbrokeNCYDE",
+       "header_image_thumbnail_url": "https://images.genius.com/ba9b47a25d477d82f886efb6ff30afe6.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/ba9b47a25d477d82f886efb6ff30afe6.754x754x1.jpg",
+       "id": 1233818,
+       "lyrics_owner_id": 4295053,
+       "lyrics_state": "complete",
+       "path": "/Brokencyde-low-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/ba9b47a25d477d82f886efb6ff30afe6.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/ba9b47a25d477d82f886efb6ff30afe6.754x754x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Low",
+       "title_with_featured": "Low",
+       "url": "https://genius.com/Brokencyde-low-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1734",
+        "header_image_url": "https://images.genius.com/ab0d7a0a34ba7d5b7cf02119b4dd4575.640x640x1.jpg",
+        "id": 1734,
+        "image_url": "https://images.genius.com/ab0d7a0a34ba7d5b7cf02119b4dd4575.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "\u200bbrokeNCYDE",
+        "url": "https://genius.com/artists/Brokencyde"
+       }
+      },
+      {
+       "annotation_count": 9,
+       "api_path": "/songs/1865958",
+       "full_title": "Riff Off by\u00a0Pitch\u00a0Perfect 2 (Ft.\u00a0Alexis\u00a0Knapp, Anna\u00a0Kendrick, Brittany\u00a0Snow, Green\u00a0Bay Packers, Joe\u00a0Lo Truglio, Rebel\u00a0Wilson & Reggie\u00a0Watts)",
+       "header_image_thumbnail_url": "https://images.genius.com/94e5f6750fbbb6c23b6ded28efe2de73.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/94e5f6750fbbb6c23b6ded28efe2de73.630x630x1.jpg",
+       "id": 1865958,
+       "lyrics_owner_id": 288506,
+       "lyrics_state": "complete",
+       "path": "/Pitch-perfect-2-riff-off-lyrics",
+       "pyongs_count": 9,
+       "song_art_image_thumbnail_url": "https://images.genius.com/94e5f6750fbbb6c23b6ded28efe2de73.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/94e5f6750fbbb6c23b6ded28efe2de73.630x630x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 8,
+        "hot": false,
+        "pageviews": 110112
+       },
+       "title": "Riff Off",
+       "title_with_featured": "Riff Off (Ft.\u00a0Alexis\u00a0Knapp, Anna\u00a0Kendrick, Brittany\u00a0Snow, Green\u00a0Bay Packers, Joe\u00a0Lo Truglio, Rebel\u00a0Wilson & Reggie\u00a0Watts)",
+       "url": "https://genius.com/Pitch-perfect-2-riff-off-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/402753",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+        "id": 402753,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Pitch Perfect 2",
+        "url": "https://genius.com/artists/Pitch-perfect-2"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 5,
+       "api_path": "/songs/3289910",
+       "full_title": "Low (Remix) by\u00a0Flo\u00a0Rida (Ft.\u00a0Pitbull & T-Pain)",
+       "header_image_thumbnail_url": "https://images.genius.com/ef1e31d4ccb402d2176f5c52d1350ce0.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/ef1e31d4ccb402d2176f5c52d1350ce0.800x800x1.jpg",
+       "id": 3289910,
+       "lyrics_owner_id": 4057394,
+       "lyrics_state": "complete",
+       "path": "/Flo-rida-low-remix-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/ef1e31d4ccb402d2176f5c52d1350ce0.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/ef1e31d4ccb402d2176f5c52d1350ce0.800x800x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false
+       },
+       "title": "Low (Remix)",
+       "title_with_featured": "Low (Remix) (Ft.\u00a0Pitbull & T-Pain)",
+       "url": "https://genius.com/Flo-rida-low-remix-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1081",
+        "header_image_url": "https://images.genius.com/44e416652d99d5ed1cb096db255fc5ab.1000x333x1.jpg",
+        "id": 1081,
+        "image_url": "https://images.genius.com/0c53aacbe8eb21d44f3a7faf98e26f45.658x658x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Flo Rida",
+        "url": "https://genius.com/artists/Flo-rida"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4235559",
+       "full_title": "GO MAAAD by\u00a0OCCIE",
+       "header_image_thumbnail_url": "https://images.genius.com/d58ad740a3e75cba3621a8aefef0a773.300x298x1.jpg",
+       "header_image_url": "https://images.genius.com/d58ad740a3e75cba3621a8aefef0a773.800x794x1.jpg",
+       "id": 4235559,
+       "lyrics_owner_id": 7762946,
+       "lyrics_state": "complete",
+       "path": "/Occie-go-maaad-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/d58ad740a3e75cba3621a8aefef0a773.300x298x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d58ad740a3e75cba3621a8aefef0a773.800x794x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "GO MAAAD",
+       "title_with_featured": "GO MAAAD",
+       "url": "https://genius.com/Occie-go-maaad-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1699680",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+        "id": 1699680,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "OCCIE",
+        "url": "https://genius.com/artists/Occie"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/11066",
+     "header_image_url": "https://images.genius.com/cbee8c851724d11e0543e077482ff0aa.650x650x1.jpg",
+     "id": 11066,
+     "image_url": "https://images.genius.com/cbee8c851724d11e0543e077482ff0aa.650x650x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DJ Montay",
+     "url": "https://genius.com/artists/Dj-montay"
+    },
+    {
+     "api_path": "/artists/337",
+     "header_image_url": "https://images.genius.com/5f2e9a0fce5f6eb6e7ab605d69e880ee.824x470x1.jpg",
+     "id": 337,
+     "image_url": "https://images.genius.com/6efed4f2f043ca2d708512a157481569.720x720x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "T-Pain",
+     "url": "https://genius.com/artists/T-pain",
+     "iq": 392
+    },
+    {
+     "api_path": "/artists/1081",
+     "header_image_url": "https://images.genius.com/44e416652d99d5ed1cb096db255fc5ab.1000x333x1.jpg",
+     "id": 1081,
+     "image_url": "https://images.genius.com/0c53aacbe8eb21d44f3a7faf98e26f45.658x658x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Flo Rida",
+     "url": "https://genius.com/artists/Flo-rida"
+    }
+   ],
+   "lyrics": "[Intro: T-Pain, Flo Rida]\nHmm-mmm-mmm-mmm-mmm-mmm\nLet me talk to 'em, let me talk to 'em let it rain\nHmm-mmm-mmm-mmm-mmm-mmm\nLet me talk to 'em come on\n\n[Chorus: T-Pain]\nShawty had them Apple Bottom jeans (Jeans), boots with the fur (With the fur)\nThe whole club was lookin' at her\nShe hit the flo' (She hit the flo'), next thing you know\nShawty got low-low-low-low-low-low-low-low\nThem baggy sweat pants\nAnd the Reeboks with the straps (With the straps)\nShe turned around and gave that big booty a smack (Ayy!)\nShe hit the flo' (She hit the flo'), next thing you know\nShawty got low-low-low-low-low-low-low-low\n\n[Verse 1: Flo Rida]\nI ain't never seen nothin' that'll make me go\nThis crazy all night spendin' my dough\nHad a million dollar vibe and a bottle to go\nThem birthday cakes they stole the show\nSo sexual, she was flexible\nProfessional, drinkin' X and O\nHold up, wait a minute, do I see what I think I, whoa\nDid I think I see shawty get low?\nAin't the same when it's up that close\nMake it rain, I'm makin' it snow\nWork the pole, I got the bank roll\nI'ma say that I prefer them no clothes\nI'm into that, I love women exposed\nShe threw it back at me, I gave her mo'\nCash ain't no problem, I know where it goes\nShe had them\n\n[Chorus: T-Pain]\nApple Bottom jeans (Jeans), boots with the fur (With the fur)\nThe whole club was lookin' at her\nShe hit the flo' (She hit the flo'), next thing you know\nShawty got low-low-low-low-low-low-low-low\nThem baggy sweat pants\nAnd the Reeboks with the straps (With the straps)\nShe turned around and gave that big booty a smack (Ayy!)\nShe hit the flo' (She hit the flo'), next thing you know\nShawty got low-low-low-low-low-low-low-low\n\n[Verse 2: Flo Rida]\nHey, shawty, what I gotta do to get you home?\nMy jeans full of guap and they ready for shones\nCadillacs, Maybachs for the sexy groan\nPatron on the rocks that'll make you moan\nOne stack c'mon, two stacks c'mon\nThree stacks c'mon, now that's three grand\nWhat, you think I'm playin', baby girl?\nI'm the man, I'll bend the rubber bands\nThat's what I told her, her legs on my shoulder\nI knew it was over, that Henny and Cola\nGot me like a soldier, she ready for Rover\nI couldn't control her\nSo lucky oh me, I was just like a clover\nShawty was hot like a toaster\nSorry but I had to fold her\nLike a pornography poster, she showed her\n\n[Chorus: T-Pain]\nApple Bottom jeans (Jeans), boots with the fur (With the fur)\nThe whole club was lookin' at her\nShe hit the flo' (She hit the flo'), next thing you know\nShawty got low-low-low-low-low-low-low-low\nThem baggy sweat pants\nAnd the Reeboks with the straps (with the straps)\nShe turned around and gave that big booty a smack (Ayy!)\nShe hit the flo' (She hit the flo'), next thing you know\nShawty got low-low-low-low-low-low-low-low\n\n[Verse 3: Flo Rida]\nWhoa, shawty\nYeah she was worth the money\nLil' mama took my cash\nAnd I ain't want it back\nThe way she bent that back\nGot her them paper stacks\nTattoo above her crack\nI had to handle that\nI was on it, sexy woman\nLet me showin' and made me want it\nTwo in the mornin', I'm zonin'\nAnd them Rosay bottles foamin'\nShe wouldn't stop, made it drop\nShawty did that pop and lock\nHad to break her off that guap\nGal was fly just like my Glock\n\n[Chorus: T-Pain]\nApple Bottom jeans (Jeans), boots with the fur (With the fur)\nThe whole club was lookin' at her\nShe hit the flo' (She hit the flo'), next thing you know\nShawty got low-low-low-low-low-low-low-low\nThem baggy sweat pants\nAnd the Reeboks with the straps (With the straps)\nShe turned around and gave that big booty a smack (Ayy!)\nShe hit the flo' (She hit the flo'), next thing you know\nShawty got low-low-low-low-low-low-low-low (Come on)"
+  },
+  {
+   "annotation_count": 5,
+   "api_path": "/songs/72458",
+   "apple_music_id": "613867346",
+   "apple_music_player_url": "https://genius.com/songs/72458/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_72458' class='rg_embed_link' data-song-id='72458'>Read <a href='https://genius.com/Flo-rida-whistle-lyrics'>\u201cWhistle\u201d by Flo\u00a0Rida</a> on Genius</div> <script crossorigin src='//genius.com/songs/72458/embed.js'></script>",
+   "featured_video": true,
+   "full_title": "Whistle by\u00a0Flo\u00a0Rida (Ft.\u00a0DJ\u00a0Frank E)",
+   "header_image_thumbnail_url": "https://images.genius.com/c5002bd7f4daefb30d35b1db0419ad65.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c5002bd7f4daefb30d35b1db0419ad65.1000x1000x1.jpg",
+   "id": 72458,
+   "lyrics_owner_id": 25580,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Flo-rida-whistle-lyrics",
+   "pyongs_count": 29,
+   "recording_location": null,
+   "release_date": "2012-04-24",
+   "release_date_for_display": "April 24, 2012",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c5002bd7f4daefb30d35b1db0419ad65.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c5002bd7f4daefb30d35b1db0419ad65.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 4,
+    "contributors": 56,
+    "iq_earners": 55,
+    "transcribers": 7,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 274193
+   },
+   "title": "Whistle",
+   "title_with_featured": "Whistle (Ft.\u00a0DJ\u00a0Frank E)",
+   "url": "https://genius.com/Flo-rida-whistle-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/18376",
+    "cover_art_url": "https://images.genius.com/70a8048bba115e32a99d9dc7bf85b92a.1000x1000x1.png",
+    "full_title": "Wild Ones by Flo Rida",
+    "id": 18376,
+    "name": "Wild Ones",
+    "url": "https://genius.com/albums/Flo-rida/Wild-ones",
+    "artist": {
+     "api_path": "/artists/1081",
+     "header_image_url": "https://images.genius.com/44e416652d99d5ed1cb096db255fc5ab.1000x333x1.jpg",
+     "id": 1081,
+     "image_url": "https://images.genius.com/0c53aacbe8eb21d44f3a7faf98e26f45.658x658x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Flo Rida",
+     "url": "https://genius.com/artists/Flo-rida"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Performance Rights",
+     "artists": [
+      {
+       "api_path": "/artists/551598",
+       "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+       "id": 551598,
+       "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "ASCAP",
+       "url": "https://genius.com/artists/Ascap"
+      },
+      {
+       "api_path": "/artists/1138091",
+       "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+       "id": 1138091,
+       "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMI",
+       "url": "https://genius.com/artists/Bmi"
+      }
+     ]
+    },
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/2301491",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 2301491,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Flight38 Group Publishing",
+       "url": "https://genius.com/artists/Flight38-group-publishing"
+      },
+      {
+       "api_path": "/artists/2235632",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 2235632,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Canadiana Music",
+       "url": "https://genius.com/artists/Canadiana-music"
+      },
+      {
+       "api_path": "/artists/1988466",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1988466,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "International Music Group",
+       "url": "https://genius.com/artists/International-music-group"
+      },
+      {
+       "api_path": "/artists/2301490",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 2301490,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "The Rumor Mill",
+       "url": "https://genius.com/artists/The-rumor-mill"
+      },
+      {
+       "api_path": "/artists/1039843",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1039843,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMG Platinum Songs",
+       "url": "https://genius.com/artists/Bmg-platinum-songs"
+      },
+      {
+       "api_path": "/artists/1011919",
+       "header_image_url": "https://images.genius.com/26596e664ee4244a3a112d1a0eefabe3.220x102x1.png",
+       "id": 1011919,
+       "image_url": "https://images.genius.com/f39d8c1ab1923335932d0b5356758f39.382x382x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMG",
+       "url": "https://genius.com/artists/Bmg"
+      },
+      {
+       "api_path": "/artists/1608690",
+       "header_image_url": "https://images.genius.com/4be35f2200f1e1cb52edbf7ded327086.400x400x1.png",
+       "id": 1608690,
+       "image_url": "https://images.genius.com/4be35f2200f1e1cb52edbf7ded327086.400x400x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Primary Wave",
+       "url": "https://genius.com/artists/Primary-wave"
+      },
+      {
+       "api_path": "/artists/88331",
+       "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+       "id": 88331,
+       "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony Music Entertainment",
+       "url": "https://genius.com/artists/Sony-music-entertainment"
+      },
+      {
+       "api_path": "/artists/2301489",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 2301489,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tubby & The Spaniard Music Publishing",
+       "url": "https://genius.com/artists/Tubby-and-the-spaniard-music-publishing"
+      },
+      {
+       "api_path": "/artists/2261510",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 2261510,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony/ATV Tunes",
+       "url": "https://genius.com/artists/Sony-atv-tunes"
+      },
+      {
+       "api_path": "/artists/1668803",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1668803,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Snaresbrook Music",
+       "url": "https://genius.com/artists/Snaresbrook-music"
+      },
+      {
+       "api_path": "/artists/1201793",
+       "header_image_url": "https://images.genius.com/fe7c88db44005710511cd3abbc6945c8.1000x559x1.jpg",
+       "id": 1201793,
+       "image_url": "https://images.genius.com/c93241826fcd9d350eaa1cebf3dcd7d6.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Reach Music Publishing",
+       "url": "https://genius.com/artists/Reach-music-publishing"
+      },
+      {
+       "api_path": "/artists/2258070",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 2258070,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "J Franks Publishing",
+       "url": "https://genius.com/artists/J-franks-publishing"
+      },
+      {
+       "api_path": "/artists/1270372",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1270372,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ego Frenzy Music",
+       "url": "https://genius.com/artists/Ego-frenzy-music"
+      },
+      {
+       "api_path": "/artists/1938081",
+       "header_image_url": "https://images.genius.com/a940eb338784d8629ae9760149a672a9.720x720x1.jpg",
+       "id": 1938081,
+       "image_url": "https://images.genius.com/a940eb338784d8629ae9760149a672a9.720x720x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Artist Publishing Group",
+       "url": "https://genius.com/artists/Artist-publishing-group"
+      },
+      {
+       "api_path": "/artists/1179023",
+       "header_image_url": "https://images.genius.com/92e4ea9ba616ee53bae21dc2e037a1e2.1000x1000x1.jpg",
+       "id": 1179023,
+       "image_url": "https://images.genius.com/f19c358ac9db989328ffc9a3de85bbd4.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kobalt Music",
+       "url": "https://genius.com/artists/Kobalt-music"
+      },
+      {
+       "api_path": "/artists/992219",
+       "header_image_url": "https://images.genius.com/a43ed819378fccdad8a80cad050f2029.768x433x1.jpg",
+       "id": 992219,
+       "image_url": "https://images.genius.com/8af7bba6ca0c481513ffe4b4ab87e347.314x314x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner-Tamerlane Publishing Corp.",
+       "url": "https://genius.com/artists/Warner-tamerlane-publishing-corp"
+      },
+      {
+       "api_path": "/artists/2141309",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 2141309,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Artist 101 Publishing Group",
+       "url": "https://genius.com/artists/Artist-101-publishing-group"
+      }
+     ]
+    },
+    {
+     "label": "Keyboard",
+     "artists": [
+      {
+       "api_path": "/artists/27435",
+       "header_image_url": "https://images.genius.com/558f908a9ba4f1dc36fc8fd077f5cf00.600x466x1.jpg",
+       "id": 27435,
+       "image_url": "https://images.genius.com/558f908a9ba4f1dc36fc8fd077f5cf00.600x466x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "DJ Frank E",
+       "url": "https://genius.com/artists/Dj-frank-e"
+      },
+      {
+       "api_path": "/artists/178555",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 178555,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Trent Mazur",
+       "url": "https://genius.com/artists/Trent-mazur"
+      }
+     ]
+    },
+    {
+     "label": "Whistle",
+     "artists": [
+      {
+       "api_path": "/artists/27435",
+       "header_image_url": "https://images.genius.com/558f908a9ba4f1dc36fc8fd077f5cf00.600x466x1.jpg",
+       "id": 27435,
+       "image_url": "https://images.genius.com/558f908a9ba4f1dc36fc8fd077f5cf00.600x466x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "DJ Frank E",
+       "url": "https://genius.com/artists/Dj-frank-e"
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/178554",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 178554,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mike Freesh",
+       "url": "https://genius.com/artists/Mike-freesh"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/583854",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 583854,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Glass",
+       "url": "https://genius.com/artists/David-glass"
+      },
+      {
+       "api_path": "/artists/178555",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 178555,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Trent Mazur",
+       "url": "https://genius.com/artists/Trent-mazur"
+      }
+     ]
+    },
+    {
+     "label": "Synths",
+     "artists": [
+      {
+       "api_path": "/artists/27435",
+       "header_image_url": "https://images.genius.com/558f908a9ba4f1dc36fc8fd077f5cf00.600x466x1.jpg",
+       "id": 27435,
+       "image_url": "https://images.genius.com/558f908a9ba4f1dc36fc8fd077f5cf00.600x466x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "DJ Frank E",
+       "url": "https://genius.com/artists/Dj-frank-e"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/178554",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 178554,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mike Freesh",
+       "url": "https://genius.com/artists/Mike-freesh"
+      },
+      {
+       "api_path": "/artists/27435",
+       "header_image_url": "https://images.genius.com/558f908a9ba4f1dc36fc8fd077f5cf00.600x466x1.jpg",
+       "id": 27435,
+       "image_url": "https://images.genius.com/558f908a9ba4f1dc36fc8fd077f5cf00.600x466x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "DJ Frank E",
+       "url": "https://genius.com/artists/Dj-frank-e"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3191171,
+    "annotator_login": "ebbl",
+    "api_path": "/referents/19605018",
+    "classification": "needs_exegesis",
+    "fragment": "Whistle",
+    "id": 19605018,
+    "is_description": true,
+    "path": "/19605018/Flo-rida-whistle/Whistle",
+    "range": {
+     "content": "Whistle"
+    },
+    "song_id": 72458,
+    "url": "https://genius.com/19605018/Flo-rida-whistle/Whistle",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/72458",
+     "client_timestamps": {
+      "updated_by_human_at": 1594536831,
+      "lyrics_updated_at": 1594536831
+     },
+     "context": "Flo Rida",
+     "id": 72458,
+     "image_url": "https://images.genius.com/c5002bd7f4daefb30d35b1db0419ad65.1000x1000x1.jpg",
+     "link_title": "Whistle by\u00a0Flo\u00a0Rida (Ft.\u00a0DJ\u00a0Frank E)",
+     "title": "Whistle",
+     "type": "Song",
+     "url": "https://genius.com/Flo-rida-whistle-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19605018",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19605018,
+      "pinned": false,
+      "share_url": "https://genius.com/19605018",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19605018/Flo-rida-whistle/Whistle",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3191171",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/uebmvIOTRXmEndINx26I_it's%20a%20cat.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/uebmvIOTRXmEndINx26I_it's%20a%20cat.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/uebmvIOTRXmEndINx26I_it's%20a%20cat.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/uebmvIOTRXmEndINx26I_it's%20a%20cat.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/o19uteklkk9",
+         "human_readable_role_for_display": "Editor",
+         "id": 3191171,
+         "iq": 40761,
+         "login": "ebbl",
+         "name": "ebbl",
+         "role_for_display": "editor",
+         "url": "https://genius.com/ebbl",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [
+    {
+     "api_path": "/artists/27435",
+     "header_image_url": "https://images.genius.com/558f908a9ba4f1dc36fc8fd077f5cf00.600x466x1.jpg",
+     "id": 27435,
+     "image_url": "https://images.genius.com/558f908a9ba4f1dc36fc8fd077f5cf00.600x466x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DJ Frank E",
+     "url": "https://genius.com/artists/Dj-frank-e"
+    }
+   ],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=cSnkWzZ7ZAA"
+    },
+    {
+     "native_uri": "spotify:track:0ltBH1JNzSvQJPjJpvTu9B",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/0ltBH1JNzSvQJPjJpvTu9B"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1081",
+    "header_image_url": "https://images.genius.com/44e416652d99d5ed1cb096db255fc5ab.1000x333x1.jpg",
+    "id": 1081,
+    "image_url": "https://images.genius.com/0c53aacbe8eb21d44f3a7faf98e26f45.658x658x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Flo Rida",
+    "url": "https://genius.com/artists/Flo-rida"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/27435",
+     "header_image_url": "https://images.genius.com/558f908a9ba4f1dc36fc8fd077f5cf00.600x466x1.jpg",
+     "id": 27435,
+     "image_url": "https://images.genius.com/558f908a9ba4f1dc36fc8fd077f5cf00.600x466x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DJ Frank E",
+     "url": "https://genius.com/artists/Dj-frank-e"
+    },
+    {
+     "api_path": "/artists/208308",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "id": 208308,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Glass",
+     "url": "https://genius.com/artists/Glass"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": [
+      {
+       "annotation_count": 48,
+       "api_path": "/songs/109975",
+       "full_title": "Pop Danthology 2012 by\u00a0Daniel\u00a0Kim",
+       "header_image_thumbnail_url": "https://images.rapgenius.com/fbe65e5f28180dbd0255cf26bab708f6.300x300x1.jpg",
+       "header_image_url": "https://images.rapgenius.com/fbe65e5f28180dbd0255cf26bab708f6.1000x1000x1.jpg",
+       "id": 109975,
+       "lyrics_owner_id": 176862,
+       "lyrics_state": "complete",
+       "path": "/Daniel-kim-pop-danthology-2012-lyrics",
+       "pyongs_count": 1,
+       "song_art_image_thumbnail_url": "https://images.rapgenius.com/fbe65e5f28180dbd0255cf26bab708f6.300x300x1.jpg",
+       "song_art_image_url": "https://images.rapgenius.com/fbe65e5f28180dbd0255cf26bab708f6.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 9891
+       },
+       "title": "Pop Danthology 2012",
+       "title_with_featured": "Pop Danthology 2012",
+       "url": "https://genius.com/Daniel-kim-pop-danthology-2012-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/129871",
+        "header_image_url": "https://images.genius.com/7d6017352a0338730b3bb3da5757990b.898x898x1.jpg",
+        "id": 129871,
+        "image_url": "https://images.genius.com/7d6017352a0338730b3bb3da5757990b.898x898x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Daniel Kim",
+        "url": "https://genius.com/artists/Daniel-kim"
+       }
+      },
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/453038",
+       "full_title": "United State of Pop 2012 (Shine Brighter) by\u00a0DJ\u00a0Earworm",
+       "header_image_thumbnail_url": "https://images.genius.com/e011bdf31fda5b645a570c50e887b88c.300x300x1.png",
+       "header_image_url": "https://images.genius.com/e011bdf31fda5b645a570c50e887b88c.1000x1000x1.png",
+       "id": 453038,
+       "lyrics_owner_id": 105771,
+       "lyrics_state": "complete",
+       "path": "/Dj-earworm-united-state-of-pop-2012-shine-brighter-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/e011bdf31fda5b645a570c50e887b88c.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/e011bdf31fda5b645a570c50e887b88c.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false
+       },
+       "title": "United State of Pop 2012 (Shine Brighter)",
+       "title_with_featured": "United State of Pop 2012 (Shine Brighter)",
+       "url": "https://genius.com/Dj-earworm-united-state-of-pop-2012-shine-brighter-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/190620",
+        "header_image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+        "id": 190620,
+        "image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "DJ Earworm",
+        "url": "https://genius.com/artists/Dj-earworm"
+       }
+      },
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/4522753",
+       "full_title": "Mad Attitude by\u00a0El\u00a0Papi",
+       "header_image_thumbnail_url": "https://images.genius.com/6a6adff4ce05eaa57ebc1983a7bb492a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/6a6adff4ce05eaa57ebc1983a7bb492a.400x400x1.jpg",
+       "id": 4522753,
+       "lyrics_owner_id": 7479475,
+       "lyrics_state": "complete",
+       "path": "/El-papi-mad-attitude-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/6a6adff4ce05eaa57ebc1983a7bb492a.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6a6adff4ce05eaa57ebc1983a7bb492a.400x400x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false
+       },
+       "title": "Mad Attitude",
+       "title_with_featured": "Mad Attitude",
+       "url": "https://genius.com/El-papi-mad-attitude-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1741207",
+        "header_image_url": "https://images.genius.com/51308be4cfcfa28a9fe3eb65deed24c9.1000x799x1.jpg",
+        "id": 1741207,
+        "image_url": "https://images.genius.com/1a3c16256809148d225dab509c89a7bd.980x980x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "El Papi",
+        "url": "https://genius.com/artists/El-papi"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5488944",
+       "full_title": "J\u2019kiff tout seul (Whistle Remix) by\u00a0Jarod",
+       "header_image_thumbnail_url": "https://images.genius.com/0f847931ed12b6cf8c49b3ba4ca2ff61.300x300x1.png",
+       "header_image_url": "https://images.genius.com/0f847931ed12b6cf8c49b3ba4ca2ff61.557x557x1.png",
+       "id": 5488944,
+       "lyrics_owner_id": 7463941,
+       "lyrics_state": "complete",
+       "path": "/Jarod-jkiff-tout-seul-whistle-remix-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/0f847931ed12b6cf8c49b3ba4ca2ff61.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/0f847931ed12b6cf8c49b3ba4ca2ff61.557x557x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "J\u2019kiff tout seul (Whistle Remix)",
+       "title_with_featured": "J\u2019kiff tout seul (Whistle Remix)",
+       "url": "https://genius.com/Jarod-jkiff-tout-seul-whistle-remix-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/14828",
+        "header_image_url": "https://images.genius.com/57f8aff00042bbfb7c2db0bf2e56cd64.1000x667x1.jpg",
+        "id": 14828,
+        "image_url": "https://images.genius.com/0f847931ed12b6cf8c49b3ba4ca2ff61.557x557x1.png",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Jarod",
+        "url": "https://genius.com/artists/Jarod",
+        "iq": 129
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2002476",
+       "full_title": "Uilson Treme by\u00a098\u00a0FM",
+       "header_image_thumbnail_url": "https://images.genius.com/935b006ffaed1327a2b804ed8b7cde5b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/935b006ffaed1327a2b804ed8b7cde5b.300x300x1.jpg",
+       "id": 2002476,
+       "lyrics_owner_id": 269182,
+       "lyrics_state": "complete",
+       "path": "/98-fm-uilson-treme-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/935b006ffaed1327a2b804ed8b7cde5b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/935b006ffaed1327a2b804ed8b7cde5b.300x300x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Uilson Treme",
+       "title_with_featured": "Uilson Treme",
+       "url": "https://genius.com/98-fm-uilson-treme-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/156164",
+        "header_image_url": "https://images.genius.com/7a7bfddff080c2300f0d1f8a83ac47e7.320x180x1.jpg",
+        "id": 156164,
+        "image_url": "https://images.genius.com/935b006ffaed1327a2b804ed8b7cde5b.300x300x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "98 FM",
+        "url": "https://genius.com/artists/98-fm"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2389788",
+       "full_title": "Bitte lass das Pfeifen, Baby! by\u00a0Die\u00a0Lochis",
+       "header_image_thumbnail_url": "https://images.genius.com/d678e8370101e108fbae167de7845b63.300x300x1.png",
+       "header_image_url": "https://images.genius.com/d678e8370101e108fbae167de7845b63.720x720x1.png",
+       "id": 2389788,
+       "lyrics_owner_id": 2171344,
+       "lyrics_state": "complete",
+       "path": "/Die-lochis-bitte-lass-das-pfeifen-baby-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/d678e8370101e108fbae167de7845b63.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/d678e8370101e108fbae167de7845b63.720x720x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Bitte lass das Pfeifen, Baby!",
+       "title_with_featured": "Bitte lass das Pfeifen, Baby!",
+       "url": "https://genius.com/Die-lochis-bitte-lass-das-pfeifen-baby-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/456477",
+        "header_image_url": "https://images.genius.com/97269faa92f3cb89fd5dfb33bd9ad1e7.700x700x1.jpg",
+        "id": 456477,
+        "image_url": "https://images.genius.com/97269faa92f3cb89fd5dfb33bd9ad1e7.700x700x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Die Lochis",
+        "url": "https://genius.com/artists/Die-lochis"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5195346",
+       "full_title": "Pistol by\u00a0Brandon\u00a0Thakidd",
+       "header_image_thumbnail_url": "https://images.genius.com/87861482ef948ea894246812d2435ad6.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/87861482ef948ea894246812d2435ad6.500x500x1.jpg",
+       "id": 5195346,
+       "lyrics_owner_id": 4515577,
+       "lyrics_state": "complete",
+       "path": "/Brandon-thakidd-pistol-lyrics",
+       "pyongs_count": 1,
+       "song_art_image_thumbnail_url": "https://images.genius.com/87861482ef948ea894246812d2435ad6.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/87861482ef948ea894246812d2435ad6.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Pistol",
+       "title_with_featured": "Pistol",
+       "url": "https://genius.com/Brandon-thakidd-pistol-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1225962",
+        "header_image_url": "https://images.genius.com/9ccb709eeb919b14db8fb9b75a895382.1000x1000x1.jpg",
+        "id": 1225962,
+        "image_url": "https://images.genius.com/9ccb709eeb919b14db8fb9b75a895382.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Brandon Thakidd",
+        "url": "https://genius.com/artists/Brandon-thakidd"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1207603",
+       "full_title": "Whistle by\u00a0Glee\u00a0Cast",
+       "header_image_thumbnail_url": "https://images.genius.com/f71b925c58fb69e60d679cf987b3d8d1.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/f71b925c58fb69e60d679cf987b3d8d1.1000x1000x1.jpg",
+       "id": 1207603,
+       "lyrics_owner_id": 3499648,
+       "lyrics_state": "complete",
+       "path": "/Glee-cast-whistle-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/f71b925c58fb69e60d679cf987b3d8d1.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/f71b925c58fb69e60d679cf987b3d8d1.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Whistle",
+       "title_with_featured": "Whistle",
+       "url": "https://genius.com/Glee-cast-whistle-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/275474",
+        "header_image_url": "https://images.genius.com/667ee62ccc1ba4d72177b906d4766476.851x368x1.png",
+        "id": 275474,
+        "image_url": "https://images.genius.com/acb2b6cc07b9ffa614cbae768d546e84.910x910x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Glee Cast",
+        "url": "https://genius.com/artists/Glee-cast"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3916267",
+       "full_title": "Whistle in ITALIANO tradotta con Google Translate by\u00a0Scottecs",
+       "header_image_thumbnail_url": "https://images.genius.com/eb515bd2923910141a6ca87c0dba6bee.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/eb515bd2923910141a6ca87c0dba6bee.1000x563x1.jpg",
+       "id": 3916267,
+       "lyrics_owner_id": 3781666,
+       "lyrics_state": "complete",
+       "path": "/Scottecs-whistle-in-italiano-tradotta-con-google-translate-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/eb515bd2923910141a6ca87c0dba6bee.300x169x1.jpg",
+       "song_art_image_url": "https://images.genius.com/eb515bd2923910141a6ca87c0dba6bee.1000x563x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Whistle in ITALIANO tradotta con Google Translate",
+       "title_with_featured": "Whistle in ITALIANO tradotta con Google Translate",
+       "url": "https://genius.com/Scottecs-whistle-in-italiano-tradotta-con-google-translate-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1490371",
+        "header_image_url": "https://images.genius.com/fcb37f628e7172faa46f8e131ad987ed.288x288x1.jpg",
+        "id": 1490371,
+        "image_url": "https://images.genius.com/fcb37f628e7172faa46f8e131ad987ed.288x288x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Scottecs",
+        "url": "https://genius.com/artists/Scottecs"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3730347",
+       "full_title": "Saw You Pt. 2 (Flo Rida Whistle Remix) by\u00a0Abstract",
+       "header_image_thumbnail_url": "https://images.genius.com/bd69d2b1b1f01175dc355919529e3ce7.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/bd69d2b1b1f01175dc355919529e3ce7.500x500x1.jpg",
+       "id": 3730347,
+       "lyrics_owner_id": 4418683,
+       "lyrics_state": "complete",
+       "path": "/Abstract-saw-you-pt-2-flo-rida-whistle-remix-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/bd69d2b1b1f01175dc355919529e3ce7.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/bd69d2b1b1f01175dc355919529e3ce7.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Saw You Pt. 2 (Flo Rida Whistle Remix)",
+       "title_with_featured": "Saw You Pt. 2 (Flo Rida Whistle Remix)",
+       "url": "https://genius.com/Abstract-saw-you-pt-2-flo-rida-whistle-remix-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/290959",
+        "header_image_url": "https://images.genius.com/2fe43727a7770c600a58fc864b846511.1000x667x1.jpg",
+        "id": 290959,
+        "image_url": "https://images.genius.com/13a31106a8dde33668b53a917bb0844b.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Abstract",
+        "url": "https://genius.com/artists/Abstract",
+        "iq": 687
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5599063",
+       "full_title": "Fly (Capital FM Summertime Ball Mashup) by\u00a0DJ\u00a0Earworm",
+       "header_image_thumbnail_url": "https://images.genius.com/60997f749ced28823fd427fbed50f42c.300x300x1.png",
+       "header_image_url": "https://images.genius.com/60997f749ced28823fd427fbed50f42c.1000x1000x1.png",
+       "id": 5599063,
+       "lyrics_owner_id": 6685173,
+       "lyrics_state": "complete",
+       "path": "/Dj-earworm-fly-capital-fm-summertime-ball-mashup-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/60997f749ced28823fd427fbed50f42c.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/60997f749ced28823fd427fbed50f42c.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Fly (Capital FM Summertime Ball Mashup)",
+       "title_with_featured": "Fly (Capital FM Summertime Ball Mashup)",
+       "url": "https://genius.com/Dj-earworm-fly-capital-fm-summertime-ball-mashup-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/190620",
+        "header_image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+        "id": 190620,
+        "image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "DJ Earworm",
+        "url": "https://genius.com/artists/Dj-earworm"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/392152",
+     "header_image_url": "https://images.genius.com/f130b64a0fcb8b8bc03a775784422de5.1000x1000x1.jpg",
+     "id": 392152,
+     "image_url": "https://images.genius.com/f130b64a0fcb8b8bc03a775784422de5.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "J. Ralph",
+     "url": "https://genius.com/artists/J-ralph"
+    },
+    {
+     "api_path": "/artists/1352505",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "id": 1352505,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Arthur Pingrey",
+     "url": "https://genius.com/artists/Arthur-pingrey"
+    },
+    {
+     "api_path": "/artists/1081",
+     "header_image_url": "https://images.genius.com/44e416652d99d5ed1cb096db255fc5ab.1000x333x1.jpg",
+     "id": 1081,
+     "image_url": "https://images.genius.com/0c53aacbe8eb21d44f3a7faf98e26f45.658x658x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Flo Rida",
+     "url": "https://genius.com/artists/Flo-rida"
+    },
+    {
+     "api_path": "/artists/672059",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "id": 672059,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Antonio Mobley",
+     "url": "https://genius.com/artists/Antonio-mobley"
+    },
+    {
+     "api_path": "/artists/285819",
+     "header_image_url": "https://images.genius.com/90623955f799e355abdc4badfaca35d4.1000x667x1.jpg",
+     "id": 285819,
+     "image_url": "https://images.genius.com/df9a81e284189272e5210cdaf1c2215e.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Breyan Isaac",
+     "url": "https://genius.com/artists/Breyan-isaac"
+    },
+    {
+     "api_path": "/artists/27435",
+     "header_image_url": "https://images.genius.com/558f908a9ba4f1dc36fc8fd077f5cf00.600x466x1.jpg",
+     "id": 27435,
+     "image_url": "https://images.genius.com/558f908a9ba4f1dc36fc8fd077f5cf00.600x466x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DJ Frank E",
+     "url": "https://genius.com/artists/Dj-frank-e"
+    },
+    {
+     "api_path": "/artists/1062981",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "id": 1062981,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marcus Killian",
+     "url": "https://genius.com/artists/Marcus-killian"
+    },
+    {
+     "api_path": "/artists/583854",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "id": 583854,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Glass",
+     "url": "https://genius.com/artists/David-glass"
+    }
+   ],
+   "lyrics": "[Chorus]\nCan you blow my whistle, baby, whistle, baby? Let me know\nGirl, I'm gonna show you how to do it and we start real slow\nYou just put your lips together and you come real close\nCan you blow my whistle, baby, whistle, baby? Here we go\n\n[Verse 1]\nLook, I'm bettin' you like people\nAnd I'm bettin' you love freak mode\nAnd I'm bettin' you like girls\nThat give love to girls and stroke your little ego\nI bet you I'm guilty, your honor (Honor)\nThat's just how we live in my genre (Genre)\nWho in the hell done paved the road wider?\nThere's only one Flo and one Rida\nI'm a damn shame, order more champagne\nPulling them hamstrings, tryna put it on ya\nBet your lips spin back around corner\nSlow it down, baby, take a little longer\n\n[Chorus]\nCan you blow my whistle, baby, whistle, baby? Let me know\nGirl, I'm gonna show you how to do it and we start real slow\nYou just put your lips together and you come real close\nCan you blow my whistle, baby, whistle, baby? Here we go\n\n[Post-Chorus]\nWhistle, baby, whistle, baby\nWhist-whistle, baby, whistle, baby\nWhistle, baby, whistle, baby\nWhist-whistle, baby, whistle, baby\n\n[Verse 2]\nIt's like everywhere I go, my whistle ready to blow\nShawty don't even know, she can get any for the low\nTold me she's not a pro, it's okay, it's under control\nShow me soprano 'cause, girl, you can handle\nBaby, we'll start slow, then you come up and park close\nGirl, I'm the whistle man, my Bugatti the same notes\nShow me your perfect pitch, you got it, my banjo\nTalented with your lips like you blew out a candle\nSo amusing (Amusing)\nNow you can make a whistle with the music (Music)\nHope you ain't got no issues, you can do it (Do it)\nEven if it's no picture, never lose it (Lose it)\n\n[Chorus]\nCan you blow my whistle, baby, whistle, baby? Let me know\nGirl, I'm gonna show you how to do it and we start real slow\nYou just put your lips together and you come real close\nCan you blow my whistle, baby, whistle, baby? Here we go\n\n[Post-Chorus]\nWhistle, baby, whistle, baby\nWhist-whistle, baby, whistle, baby\nWhistle, baby, whistle, baby\nWhist-whistle, baby, whistle, baby\n\n[Bridge]\nGo on, girl, you can twerk it\nLet me see you whistle while you work it\nI'ma lay it back, don't stop it\n'Cause I love it how you drop it, drop it, drop it on me\nNow, shorty, make that whistle blow-ow-ow-ow\nYeah, baby, make that whistle blow-ow-ow\n\n[Chorus]\nCan you blow my whistle, baby, whistle, baby? Let me know\nGirl, I'm gonna show you how to do it and we start real slow\nYou just put your lips together and you come real close\nCan you blow my whistle, baby, whistle, baby? Here we go\n\n[Post-Chorus / Outro]\nCan you blow my whistle, baby?\nWhistle, baby, whistle, baby\nCan you blow my whistle, baby?\nWhist-whistle, baby, whistle, baby\nCan you blow my whistle, baby?\nWhistle, baby, whistle, baby\nCan you blow my whistle, baby?\nWhist-whistle, baby, whistle, baby"
+  },
+  {
+   "annotation_count": 25,
+   "api_path": "/songs/503256",
+   "apple_music_id": "971238815",
+   "apple_music_player_url": "https://genius.com/songs/503256/apple_music_player",
+   "description": {
+    "plain": "Flo Rida and Sage The Gemini collaborate on \u201cGDFR,\u201d (Going Down For Real) which is a radio-friendly single that appears on Flo\u2019s EP My House. It hit 8 in the US, becoming his first top ten since \u201cI Cry\u201d in 2012.\n\nThe song uses instrumental samples from LooKas' remix of \u201cLow Rider\u201d by War.\n\nThis song was also used as one of the theme songs for WWE\u2019s Summerslam event in 2014."
+   },
+   "embed_content": "<div id='rg_embed_link_503256' class='rg_embed_link' data-song-id='503256'>Read <a href='https://genius.com/Flo-rida-gdfr-lyrics'>\u201cGDFR\u201d by Flo\u00a0Rida</a> on Genius</div> <script crossorigin src='//genius.com/songs/503256/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "GDFR by\u00a0Flo\u00a0Rida (Ft.\u00a0Lookas & Sage\u00a0The Gemini)",
+   "header_image_thumbnail_url": "https://images.genius.com/47fbdb3f4f71bd5a4d87ba1fad686a51.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/47fbdb3f4f71bd5a4d87ba1fad686a51.426x426x1.jpg",
+   "id": 503256,
+   "lyrics_owner_id": 549398,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Flo-rida-gdfr-lyrics",
+   "pyongs_count": 96,
+   "recording_location": null,
+   "release_date": "2014-08-21",
+   "release_date_for_display": "August 21, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/f97c584cc91be1bfc9ee29becd8ce019.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f97c584cc91be1bfc9ee29becd8ce019.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 24,
+    "contributors": 64,
+    "iq_earners": 63,
+    "transcribers": 6,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 167022
+   },
+   "title": "GDFR",
+   "title_with_featured": "GDFR (Ft.\u00a0Lookas & Sage\u00a0The Gemini)",
+   "url": "https://genius.com/Flo-rida-gdfr-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/121321",
+    "cover_art_url": "https://images.genius.com/f51a4ef54d56faafb96a7ff838f4ba81.1000x1000x1.png",
+    "full_title": "My House by Flo Rida",
+    "id": 121321,
+    "name": "My House",
+    "url": "https://genius.com/albums/Flo-rida/My-house",
+    "artist": {
+     "api_path": "/artists/1081",
+     "header_image_url": "https://images.genius.com/44e416652d99d5ed1cb096db255fc5ab.1000x333x1.jpg",
+     "id": 1081,
+     "image_url": "https://images.genius.com/0c53aacbe8eb21d44f3a7faf98e26f45.658x658x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Flo Rida",
+     "url": "https://genius.com/artists/Flo-rida"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 549398,
+    "annotator_login": "Treasury",
+    "api_path": "/referents/3953839",
+    "classification": "accepted",
+    "fragment": "GDFR",
+    "id": 3953839,
+    "is_description": true,
+    "path": "/3953839/Flo-rida-gdfr/Gdfr",
+    "range": {
+     "content": "GDFR"
+    },
+    "song_id": 503256,
+    "url": "https://genius.com/3953839/Flo-rida-gdfr/Gdfr",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/503256",
+     "client_timestamps": {
+      "updated_by_human_at": 1590659664,
+      "lyrics_updated_at": 1590659664
+     },
+     "context": "Flo Rida",
+     "id": 503256,
+     "image_url": "https://images.genius.com/f97c584cc91be1bfc9ee29becd8ce019.1000x1000x1.jpg",
+     "link_title": "GDFR by\u00a0Flo\u00a0Rida (Ft.\u00a0Lookas & Sage\u00a0The Gemini)",
+     "title": "GDFR",
+     "type": "Song",
+     "url": "https://genius.com/Flo-rida-gdfr-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3953839",
+      "body": {
+       "plain": "Flo Rida and Sage The Gemini collaborate on \u201cGDFR,\u201d (Going Down For Real) which is a radio-friendly single that appears on Flo\u2019s EP My House. It hit 8 in the US, becoming his first top ten since \u201cI Cry\u201d in 2012.\n\nThe song uses instrumental samples from LooKas' remix of \u201cLow Rider\u201d by War.\n\nThis song was also used as one of the theme songs for WWE\u2019s Summerslam event in 2014."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3953839,
+      "pinned": false,
+      "share_url": "https://genius.com/3953839",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3953839/Flo-rida-gdfr/Gdfr",
+      "verified": false,
+      "votes_total": 18,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.29577464788732394,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1448826",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/744bc3b7bd77206b4c768fadc9911a25",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/744bc3b7bd77206b4c768fadc9911a25",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/744bc3b7bd77206b4c768fadc9911a25",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/744bc3b7bd77206b4c768fadc9911a25",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/427478c68f285fc5e038b6995aabbbb9.600x600x1.png",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1448826,
+         "iq": 173379,
+         "login": "babuc",
+         "name": "Babu Chatterjee",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/babuc",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.28169014084507044,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1667878",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/213843822f8e254d5d9268367811ed21",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/213843822f8e254d5d9268367811ed21",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/213843822f8e254d5d9268367811ed21",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/213843822f8e254d5d9268367811ed21",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/213843822f8e254d5d9268367811ed21",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1667878,
+         "iq": 758,
+         "login": "PianoMaestro",
+         "name": "PianoMaestro",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/PianoMaestro",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.22535211267605632,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/340585",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/feceaa153d853f884aa2b338fb15f807",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/feceaa153d853f884aa2b338fb15f807",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/feceaa153d853f884aa2b338fb15f807",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/feceaa153d853f884aa2b338fb15f807",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/42cc04664dfa2beaa8d66d7fca8d8ffe.1000x741x1.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 340585,
+         "iq": 18336,
+         "login": "k_peake17",
+         "name": "K. Peake",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/k_peake17",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.19718309859154928,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/549398",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/5bbd47003eb07fcfdf1fa69b5dfb97c0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/5bbd47003eb07fcfdf1fa69b5dfb97c0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/5bbd47003eb07fcfdf1fa69b5dfb97c0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/5bbd47003eb07fcfdf1fa69b5dfb97c0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/5bbd47003eb07fcfdf1fa69b5dfb97c0",
+         "human_readable_role_for_display": "Contributor",
+         "id": 549398,
+         "iq": 4602,
+         "login": "Treasury",
+         "name": "Treasury",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Treasury",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [
+    {
+     "api_path": "/artists/221603",
+     "header_image_url": "https://images.genius.com/623295914aac80b8d181f81bd2beb917.715x1000x1.jpg",
+     "id": 221603,
+     "image_url": "https://images.genius.com/6c9c7b6cf3e6d86e8c7961c2f116d188.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lookas",
+     "url": "https://genius.com/artists/Lookas"
+    },
+    {
+     "api_path": "/artists/25939",
+     "header_image_url": "https://images.genius.com/15c11c911d9394de7d33549cf9924c94.1000x1000x1.jpg",
+     "id": 25939,
+     "image_url": "https://images.genius.com/15c11c911d9394de7d33549cf9924c94.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Sage The Gemini",
+     "url": "https://genius.com/artists/Sage-the-gemini",
+     "iq": 883
+    }
+   ],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:1zE0JoNhlTa3F6NHDguq5B",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/1zE0JoNhlTa3F6NHDguq5B"
+    },
+    {
+     "provider": "youtube",
+     "start": 1,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=l05tcAFLTRI"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1081",
+    "header_image_url": "https://images.genius.com/44e416652d99d5ed1cb096db255fc5ab.1000x333x1.jpg",
+    "id": 1081,
+    "image_url": "https://images.genius.com/0c53aacbe8eb21d44f3a7faf98e26f45.658x658x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Flo Rida",
+    "url": "https://genius.com/artists/Flo-rida"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/672068",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "id": 672068,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lucas Rego",
+     "url": "https://genius.com/artists/Lucas-rego"
+    },
+    {
+     "api_path": "/artists/672067",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "id": 672067,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Miles Beard",
+     "url": "https://genius.com/artists/Miles-beard"
+    },
+    {
+     "api_path": "/artists/527630",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "id": 527630,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andrew Cedar",
+     "url": "https://genius.com/artists/Andrew-cedar"
+    },
+    {
+     "api_path": "/artists/27435",
+     "header_image_url": "https://images.genius.com/558f908a9ba4f1dc36fc8fd077f5cf00.600x466x1.jpg",
+     "id": 27435,
+     "image_url": "https://images.genius.com/558f908a9ba4f1dc36fc8fd077f5cf00.600x466x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DJ Frank E",
+     "url": "https://genius.com/artists/Dj-frank-e"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": [
+      {
+       "annotation_count": 6,
+       "api_path": "/songs/67357",
+       "full_title": "Low Rider by\u00a0War",
+       "header_image_thumbnail_url": "https://images.genius.com/4ab38b1eb7d32396ef39c3d904bb3667.300x293x1.jpg",
+       "header_image_url": "https://images.genius.com/4ab38b1eb7d32396ef39c3d904bb3667.382x373x1.jpg",
+       "id": 67357,
+       "lyrics_owner_id": 21564,
+       "lyrics_state": "complete",
+       "path": "/War-low-rider-lyrics",
+       "pyongs_count": 4,
+       "song_art_image_thumbnail_url": "https://images.genius.com/4ab38b1eb7d32396ef39c3d904bb3667.300x293x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4ab38b1eb7d32396ef39c3d904bb3667.382x373x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 41912
+       },
+       "title": "Low Rider",
+       "title_with_featured": "Low Rider",
+       "url": "https://genius.com/War-low-rider-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/4111",
+        "header_image_url": "https://images.genius.com/34d63d1fc99e813ceca93091b4d9f416.492x319x1.jpg",
+        "id": 4111,
+        "image_url": "https://images.genius.com/614fb07512f29c9ec27a48015bed2c35.542x305x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "War",
+        "url": "https://genius.com/artists/War"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2770889",
+       "full_title": "Laughing by\u00a0Adam\u00a0WarRock",
+       "header_image_thumbnail_url": "https://images.genius.com/fe416d09acf582cdca42c4beb563a69a.300x225x1.jpg",
+       "header_image_url": "https://images.genius.com/fe416d09acf582cdca42c4beb563a69a.480x360x1.jpg",
+       "id": 2770889,
+       "lyrics_owner_id": 1880413,
+       "lyrics_state": "complete",
+       "path": "/Adam-warrock-laughing-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/fe416d09acf582cdca42c4beb563a69a.300x225x1.jpg",
+       "song_art_image_url": "https://images.genius.com/fe416d09acf582cdca42c4beb563a69a.480x360x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Laughing",
+       "title_with_featured": "Laughing",
+       "url": "https://genius.com/Adam-warrock-laughing-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/798",
+        "header_image_url": "https://images.genius.com/264c2e06291eb15b2c75e2bcded06910.448x299x1.jpg",
+        "id": 798,
+        "image_url": "https://images.genius.com/0db169ad8a6b6ca9b9b8448ef24591af.460x276x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Adam WarRock",
+        "url": "https://genius.com/artists/Adam-warrock",
+        "iq": 960
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/2849456",
+       "full_title": "GDFR by\u00a0KIDZ\u00a0BOP Kids",
+       "header_image_thumbnail_url": "https://images.genius.com/57a499263185cfa78ea420ed954e7028.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/57a499263185cfa78ea420ed954e7028.576x576x1.jpg",
+       "id": 2849456,
+       "lyrics_owner_id": 3365837,
+       "lyrics_state": "complete",
+       "path": "/Kidz-bop-kids-gdfr-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/57a499263185cfa78ea420ed954e7028.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/57a499263185cfa78ea420ed954e7028.576x576x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "GDFR",
+       "title_with_featured": "GDFR",
+       "url": "https://genius.com/Kidz-bop-kids-gdfr-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/353676",
+        "header_image_url": "https://images.genius.com/a02d5d66af3e2e01e751c36b313ef718.400x400x1.jpg",
+        "id": 353676,
+        "image_url": "https://images.genius.com/2f3f1262beaa02fddb8349628ea9fe6f.399x399x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "KIDZ BOP Kids",
+        "url": "https://genius.com/artists/Kidz-bop-kids"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2047719",
+       "full_title": "GDFR (Noodles Remix) by\u00a0Flo\u00a0Rida (Ft.\u00a0Lookas & Sage\u00a0The Gemini)",
+       "header_image_thumbnail_url": "https://images.genius.com/4969621c14193ac1f619a0c1523b0d77.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/4969621c14193ac1f619a0c1523b0d77.500x500x1.jpg",
+       "id": 2047719,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Flo-rida-gdfr-noodles-remix-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/4969621c14193ac1f619a0c1523b0d77.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4969621c14193ac1f619a0c1523b0d77.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "GDFR (Noodles Remix)",
+       "title_with_featured": "GDFR (Noodles Remix) (Ft.\u00a0Lookas & Sage\u00a0The Gemini)",
+       "url": "https://genius.com/Flo-rida-gdfr-noodles-remix-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1081",
+        "header_image_url": "https://images.genius.com/44e416652d99d5ed1cb096db255fc5ab.1000x333x1.jpg",
+        "id": 1081,
+        "image_url": "https://images.genius.com/0c53aacbe8eb21d44f3a7faf98e26f45.658x658x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Flo Rida",
+        "url": "https://genius.com/artists/Flo-rida"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2215422",
+       "full_title": "GDFR (K Theory Remix) by\u00a0Flo\u00a0Rida (Ft.\u00a0Lookas & Sage\u00a0The Gemini)",
+       "header_image_thumbnail_url": "https://images.genius.com/4969621c14193ac1f619a0c1523b0d77.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/4969621c14193ac1f619a0c1523b0d77.500x500x1.jpg",
+       "id": 2215422,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Flo-rida-gdfr-k-theory-remix-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/4969621c14193ac1f619a0c1523b0d77.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4969621c14193ac1f619a0c1523b0d77.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "GDFR (K Theory Remix)",
+       "title_with_featured": "GDFR (K Theory Remix) (Ft.\u00a0Lookas & Sage\u00a0The Gemini)",
+       "url": "https://genius.com/Flo-rida-gdfr-k-theory-remix-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1081",
+        "header_image_url": "https://images.genius.com/44e416652d99d5ed1cb096db255fc5ab.1000x333x1.jpg",
+        "id": 1081,
+        "image_url": "https://images.genius.com/0c53aacbe8eb21d44f3a7faf98e26f45.658x658x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Flo Rida",
+        "url": "https://genius.com/artists/Flo-rida"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2258479",
+       "full_title": "GDFR (Nolaswift Remix) by\u00a0Flo\u00a0Rida (Ft.\u00a0Lookas & Sage\u00a0The Gemini)",
+       "header_image_thumbnail_url": "https://images.genius.com/8dc7e4c9797f310dde1221dac211bd43.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/8dc7e4c9797f310dde1221dac211bd43.500x500x1.jpg",
+       "id": 2258479,
+       "lyrics_owner_id": 4999019,
+       "lyrics_state": "complete",
+       "path": "/Flo-rida-gdfr-nolaswift-remix-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/8dc7e4c9797f310dde1221dac211bd43.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8dc7e4c9797f310dde1221dac211bd43.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "GDFR (Nolaswift Remix)",
+       "title_with_featured": "GDFR (Nolaswift Remix) (Ft.\u00a0Lookas & Sage\u00a0The Gemini)",
+       "url": "https://genius.com/Flo-rida-gdfr-nolaswift-remix-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1081",
+        "header_image_url": "https://images.genius.com/44e416652d99d5ed1cb096db255fc5ab.1000x333x1.jpg",
+        "id": 1081,
+        "image_url": "https://images.genius.com/0c53aacbe8eb21d44f3a7faf98e26f45.658x658x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Flo Rida",
+        "url": "https://genius.com/artists/Flo-rida"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3280911",
+       "full_title": "GDFR (DJ Kay Rich x Up 2 No Good Remix) by\u00a0Flo\u00a0Rida (Ft.\u00a0Lookas & Sage\u00a0The Gemini)",
+       "header_image_thumbnail_url": "https://images.genius.com/4185bfad7ff0ceb06adeff424d4457aa.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/4185bfad7ff0ceb06adeff424d4457aa.500x500x1.jpg",
+       "id": 3280911,
+       "lyrics_owner_id": 4999019,
+       "lyrics_state": "complete",
+       "path": "/Flo-rida-gdfr-dj-kay-rich-x-up-2-no-good-remix-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/4185bfad7ff0ceb06adeff424d4457aa.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4185bfad7ff0ceb06adeff424d4457aa.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "GDFR (DJ Kay Rich x Up 2 No Good Remix)",
+       "title_with_featured": "GDFR (DJ Kay Rich x Up 2 No Good Remix) (Ft.\u00a0Lookas & Sage\u00a0The Gemini)",
+       "url": "https://genius.com/Flo-rida-gdfr-dj-kay-rich-x-up-2-no-good-remix-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1081",
+        "header_image_url": "https://images.genius.com/44e416652d99d5ed1cb096db255fc5ab.1000x333x1.jpg",
+        "id": 1081,
+        "image_url": "https://images.genius.com/0c53aacbe8eb21d44f3a7faf98e26f45.658x658x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Flo Rida",
+        "url": "https://genius.com/artists/Flo-rida"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4008157",
+       "full_title": "United State of Pop 2015 (50 Shades of Pop) by\u00a0DJ\u00a0Earworm",
+       "header_image_thumbnail_url": "https://images.genius.com/809ab5375a1592e7d644713fdc95ab31.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/809ab5375a1592e7d644713fdc95ab31.1000x1000x1.jpg",
+       "id": 4008157,
+       "lyrics_owner_id": 7122943,
+       "lyrics_state": "complete",
+       "path": "/Dj-earworm-united-state-of-pop-2015-50-shades-of-pop-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/809ab5375a1592e7d644713fdc95ab31.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/809ab5375a1592e7d644713fdc95ab31.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "United State of Pop 2015 (50 Shades of Pop)",
+       "title_with_featured": "United State of Pop 2015 (50 Shades of Pop)",
+       "url": "https://genius.com/Dj-earworm-united-state-of-pop-2015-50-shades-of-pop-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/190620",
+        "header_image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+        "id": 190620,
+        "image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "DJ Earworm",
+        "url": "https://genius.com/artists/Dj-earworm"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/641136",
+     "header_image_url": "https://images.genius.com/4a80bd26032ac55c3fa0ba0531d6f2e0.233x300x1.jpg",
+     "id": 641136,
+     "image_url": "https://images.genius.com/4a80bd26032ac55c3fa0ba0531d6f2e0.233x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lonnie Jordan",
+     "url": "https://genius.com/artists/Lonnie-jordan"
+    },
+    {
+     "api_path": "/artists/415766",
+     "header_image_url": "https://images.genius.com/e9c5c95d2f1e889629d9306ef4c78745.228x300x1.jpg",
+     "id": 415766,
+     "image_url": "https://images.genius.com/3dc7e453e41962a0094833fc1802ddc7.451x451x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jerry Goldstein",
+     "url": "https://genius.com/artists/Jerry-goldstein"
+    },
+    {
+     "api_path": "/artists/641134",
+     "header_image_url": "https://images.genius.com/43eed4a52a5c762aec958b13f8ae4a8e.200x300x1.jpg",
+     "id": 641134,
+     "image_url": "https://images.genius.com/43eed4a52a5c762aec958b13f8ae4a8e.200x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "B. B. Dickerson",
+     "url": "https://genius.com/artists/B-b-dickerson"
+    },
+    {
+     "api_path": "/artists/1081",
+     "header_image_url": "https://images.genius.com/44e416652d99d5ed1cb096db255fc5ab.1000x333x1.jpg",
+     "id": 1081,
+     "image_url": "https://images.genius.com/0c53aacbe8eb21d44f3a7faf98e26f45.658x658x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Flo Rida",
+     "url": "https://genius.com/artists/Flo-rida"
+    },
+    {
+     "api_path": "/artists/464760",
+     "header_image_url": "https://images.genius.com/c05cca809c0318b1aa3164e2468d4713.280x293x1.jpg",
+     "id": 464760,
+     "image_url": "https://images.genius.com/c05cca809c0318b1aa3164e2468d4713.280x293x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Papa Dee Allen",
+     "url": "https://genius.com/artists/Papa-dee-allen"
+    },
+    {
+     "api_path": "/artists/27439",
+     "header_image_url": "https://images.genius.com/1df71094f5869513be4f4bafe26b7f0f.200x200x1.jpg",
+     "id": 27439,
+     "image_url": "https://images.genius.com/1df71094f5869513be4f4bafe26b7f0f.200x200x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mike Caren",
+     "url": "https://genius.com/artists/Mike-caren"
+    },
+    {
+     "api_path": "/artists/464764",
+     "header_image_url": "https://images.genius.com/8eaaf0cb2d3ce9d9563df81bd9e22a56.648x435x1.jpg",
+     "id": 464764,
+     "image_url": "https://images.genius.com/c071f42151d5c2184b352a2c682d1dc3.868x868x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lee Oskar",
+     "url": "https://genius.com/artists/Lee-oskar"
+    },
+    {
+     "api_path": "/artists/27435",
+     "header_image_url": "https://images.genius.com/558f908a9ba4f1dc36fc8fd077f5cf00.600x466x1.jpg",
+     "id": 27435,
+     "image_url": "https://images.genius.com/558f908a9ba4f1dc36fc8fd077f5cf00.600x466x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DJ Frank E",
+     "url": "https://genius.com/artists/Dj-frank-e"
+    },
+    {
+     "api_path": "/artists/464762",
+     "header_image_url": "https://images.genius.com/afd595e8528296169d50e136028223f1.200x300x1.jpg",
+     "id": 464762,
+     "image_url": "https://images.genius.com/afd595e8528296169d50e136028223f1.200x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Howard Scott",
+     "url": "https://genius.com/artists/Howard-scott"
+    },
+    {
+     "api_path": "/artists/464759",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "id": 464759,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Harold Brown",
+     "url": "https://genius.com/artists/Harold-brown"
+    },
+    {
+     "api_path": "/artists/25939",
+     "header_image_url": "https://images.genius.com/15c11c911d9394de7d33549cf9924c94.1000x1000x1.jpg",
+     "id": 25939,
+     "image_url": "https://images.genius.com/15c11c911d9394de7d33549cf9924c94.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Sage The Gemini",
+     "url": "https://genius.com/artists/Sage-the-gemini",
+     "iq": 883
+    },
+    {
+     "api_path": "/artists/464765",
+     "header_image_url": "https://images.genius.com/849ba5ba9bb3d7f14051ff8e1921bf72.225x300x1.jpg",
+     "id": 464765,
+     "image_url": "https://images.genius.com/849ba5ba9bb3d7f14051ff8e1921bf72.225x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Charles Miller",
+     "url": "https://genius.com/artists/Charles-miller"
+    }
+   ],
+   "lyrics": "[Chorus: Sage the Gemini & Flo Rida]\nI know what you came here to see\nIf you're a freak, then you comin' home with me\nAnd I know what you came here to do\nNow bust it open, let me see you get loose\nIt's goin' down for real\nIt's goin' down for real\nIt's goin' down for real\n\n[Verse 1: Flo Rida]\nYo' girl just kissed a girl, I do bi chicks\nShake for a sheik, I'm throwin' these Emirates in the sky\nSpendin' this As-salamu alaykum, peace to M-O-N-E-Y\nI love my beaches, south beaches, surfboard in high tide\nI could just roll up 'cause I'm swole up\nSo that birthday cake get the cobra\nBugatti for real, I'm cold, bruh\nThat auto-biography rover\nGot the key to my city, it's over\nIt's no thots, only Anna Kournikova's\nI set records, ratchets hol' up (I set records, ratchets hol' up)\n\n[Chorus: Sage the Gemini]\nI know what you came here to see\nIf you're a freak, then you comin' home with me\nAnd I know what you came here to do\nNow bust it open, let me see you get loose\nIt's goin' down for real\nIt's goin' down for real\n(And they already know me)\nIt's goin' down for real\n\n[Verse 2: Sage the Gemini]\nIt's going down further than femurs\nGirls get wetter than Katrina\nYeah, my girl, you've never seen her\n'Cause my tints by limousines\nMy touch say it's the Midas\nWe the plus, your man a minus\nMy team blowin' on that slam\nMake you cough-cough, that's Bronchitis\nPut your hands up, oh\nIt's a stick up, no more makeup\nGet that ass on the floor\nLadies, put your lipstick up\nDouble entendre, double entendre\nWhile you're hatin', I get money\nThen I double up tonkers\n\n[Chorus: Sage the Gemini]\nI know what you came here to see\nIf you're a freak, then you comin' home with me\nAnd I know what you came here to do\nNow bust it open, let me see you get loose\nIt's goin' down for real\nIt's goin' down for real\nIt's goin' down for real\nIt's goin' down for real\nIt's goin' down for real\n\n[Bridge: Flo Rida]\nLift it, drop it, shake it, pop it\nLift it, drop it, shake it, pop it\nLift it, drop it, shake it, pop it\nLift it, drop it, shake it\n\n[Outro: Sage The Gemini]\nIt's goin' down for real\nIt's goin' down for real\nIt's goin' down for real\nIt's goin' down for real\nIt's goin' down for real"
+  }
+ ]
+}

@@ -1,0 +1,4884 @@
+{
+ "alternate_names": [
+  "Dwayne Michael Carter Jr",
+  "Dwayne Michael Carter",
+  "Little Wayne",
+  "Young Mulah",
+  "Weezy F. Baby",
+  "Lil Tunechi",
+  "Lil Weezy Ana",
+  "Weezy",
+  "Dwayne Carter"
+ ],
+ "api_path": "/artists/4",
+ "description": {
+  "plain": "Dwayne Michael Carter, Jr., better known by his stage name Lil Wayne, grew up in the Hollygrove neighborhood of New Orleans, Louisiana.\n\nAt the age of nine, Lil Wayne joined Cash Money Records as the youngest member of the label, and half of the duo, The B.G.\u2018z, with B.G.. In 1997, Lil Wayne joined the group Hot Boys, which also included rappers Juvenile, B.G., and Young Turk. Lil Wayne gained most of his success with the group\u2019s major selling album Guerrilla Warfare, released in 1999. He has been listed in the 2012 Guinness Book Of World Records for the record of Most US Hot 100 Hits By A Rap Artist with 64 hits between 1999 and 2010.\n\nWayne is famous for his command of slow, witty lines and metaphorical jokes. His discography includes a slew of successful mixtapes, including Dedication 1, 2, 3, 4, 5 and 6; No Ceilings; and Da Drought 3. His albums consistently garner acclaim, with Tha Carter series all platinum hits. Tha Carter series has been a work of Wayne\u2019s for 13 years and continues to grow with the fifth installment, Tha Carter V released in 2018 (however, it was initially supposed to be released in late 2014). Wayne keeps a regular recording schedule, with studio booths in his tour bus, home, and following him everywhere."
+ },
+ "facebook_name": "LilWayne",
+ "followers_count": 5789,
+ "header_image_url": "https://images.genius.com/0cc2fdca3461d34878a59e3791b35e7b.500x278x13.gif",
+ "id": 4,
+ "image_url": "https://images.genius.com/b42bde67bc461dd55a00b577f33673bb.745x745x1.jpg",
+ "instagram_name": "liltunechi",
+ "is_meme_verified": true,
+ "is_verified": true,
+ "name": "Lil Wayne",
+ "translation_artist": false,
+ "twitter_name": "LilTunechi",
+ "url": "https://genius.com/artists/Lil-wayne",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 4066,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1,
+  "annotator_login": "LEMON",
+  "api_path": "/referents/6925647",
+  "classification": "accepted",
+  "fragment": "Lil Wayne",
+  "id": 6925647,
+  "is_description": true,
+  "path": "/6925647/Lil-wayne/Lil-wayne",
+  "range": {
+   "content": "Lil Wayne"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6925647/Lil-wayne/Lil-wayne",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/4",
+   "context": null,
+   "id": 4,
+   "image_url": "https://images.genius.com/b42bde67bc461dd55a00b577f33673bb.745x745x1.jpg",
+   "link_title": "Lil Wayne",
+   "title": "Lil Wayne",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Lil-wayne"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6925647",
+    "body": {
+     "plain": "Dwayne Michael Carter, Jr., better known by his stage name Lil Wayne, grew up in the Hollygrove neighborhood of New Orleans, Louisiana.\n\nAt the age of nine, Lil Wayne joined Cash Money Records as the youngest member of the label, and half of the duo, The B.G.\u2018z, with B.G.. In 1997, Lil Wayne joined the group Hot Boys, which also included rappers Juvenile, B.G., and Young Turk. Lil Wayne gained most of his success with the group\u2019s major selling album Guerrilla Warfare, released in 1999. He has been listed in the 2012 Guinness Book Of World Records for the record of Most US Hot 100 Hits By A Rap Artist with 64 hits between 1999 and 2010.\n\nWayne is famous for his command of slow, witty lines and metaphorical jokes. His discography includes a slew of successful mixtapes, including Dedication 1, 2, 3, 4, 5 and 6; No Ceilings; and Da Drought 3. His albums consistently garner acclaim, with Tha Carter series all platinum hits. Tha Carter series has been a work of Wayne\u2019s for 13 years and continues to grow with the fifth installment, Tha Carter V released in 2018 (however, it was initially supposed to be released in late 2014). Wayne keeps a regular recording schedule, with studio booths in his tour bus, home, and following him everywhere."
+    },
+    "comment_count": 1,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6925647,
+    "pinned": false,
+    "share_url": "https://genius.com/6925647",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6925647/Lil-wayne/Lil-wayne",
+    "verified": false,
+    "votes_total": 290,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.6732283464566929,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/309317b058db685d81a4013a498925d0",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/309317b058db685d81a4013a498925d0",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/309317b058db685d81a4013a498925d0",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/309317b058db685d81a4013a498925d0",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/3627d3d369773390525af3e3cd5a34a5.1000x333x1.jpg",
+       "human_readable_role_for_display": "Staff",
+       "id": 1,
+       "iq": 57889,
+       "login": "LEMON",
+       "name": "Tom Lehman",
+       "role_for_display": "staff",
+       "url": "https://genius.com/LEMON",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.11811023622047244,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/360897",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/b861ccd1b4fe79d6506ec968fe29559e",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/b861ccd1b4fe79d6506ec968fe29559e",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/b861ccd1b4fe79d6506ec968fe29559e",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/b861ccd1b4fe79d6506ec968fe29559e",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/grh6fqtxj9q",
+       "human_readable_role_for_display": "Editor",
+       "id": 360897,
+       "iq": 59371,
+       "login": "Jafar",
+       "name": "Jafar",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Jafar",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.0984251968503937,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1683926",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/bd7ccfb7e9a1f9e0519880876ee9e1b3",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/bd7ccfb7e9a1f9e0519880876ee9e1b3",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/bd7ccfb7e9a1f9e0519880876ee9e1b3",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/bd7ccfb7e9a1f9e0519880876ee9e1b3",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/bd7ccfb7e9a1f9e0519880876ee9e1b3",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1683926,
+       "iq": 2680,
+       "login": "Little_General",
+       "name": "Little_General",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Little_General",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.03937007874015748,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/993805",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/e4256c3d48fe0debe6df56490d742ca7",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/e4256c3d48fe0debe6df56490d742ca7",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/e4256c3d48fe0debe6df56490d742ca7",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/e4256c3d48fe0debe6df56490d742ca7",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/mux7o7ajgmr",
+       "human_readable_role_for_display": "Contributor",
+       "id": 993805,
+       "iq": 68237,
+       "login": "StayInTheHouse",
+       "name": "StayInTheHouse",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/StayInTheHouse",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.03543307086614173,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4525060",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/3b73c389649b8452ddbd401682b3c76b",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/3b73c389649b8452ddbd401682b3c76b",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/3b73c389649b8452ddbd401682b3c76b",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/3b73c389649b8452ddbd401682b3c76b",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/3b73c389649b8452ddbd401682b3c76b",
+       "human_readable_role_for_display": "Editor",
+       "id": 4525060,
+       "iq": 64695,
+       "login": "illplusmatic",
+       "name": "\u200billplusmatic #FREEMELVIN",
+       "role_for_display": "editor",
+       "url": "https://genius.com/illplusmatic",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.011811023622047244,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/8534",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/d662e609f7d8c03fae7781bed7834f58",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/d662e609f7d8c03fae7781bed7834f58",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/d662e609f7d8c03fae7781bed7834f58",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/d662e609f7d8c03fae7781bed7834f58",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/82c5966f5fefe7dc9d58df6e709eba45.570x144x1.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 8534,
+       "iq": 339068,
+       "login": "Ezzo",
+       "name": "Romi Ezzo",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Ezzo",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.007874015748031496,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/68630",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/68630_54235_real.png",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358289322_68630_54235_real.png",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358289322_68630_54235_real.png",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358289322_68630_54235_real.png",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358289322_68630_54235_real.png",
+       "human_readable_role_for_display": "Editor",
+       "id": 68630,
+       "iq": 69622,
+       "login": "Haroj",
+       "name": "Haroj",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Haroj",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.003937007874015748,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/195999",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/dvet7afxw1j",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/dvet7afxw1j",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/dvet7afxw1j",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/dvet7afxw1j",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/fuo6c0izeu7",
+       "human_readable_role_for_display": "Contributor",
+       "id": 195999,
+       "iq": 20113,
+       "login": "treebeard",
+       "name": "treebeard",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/treebeard",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.003937007874015748,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4251121",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/419deea7fc39be60f7ed7413f7899c14",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/419deea7fc39be60f7ed7413f7899c14",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/419deea7fc39be60f7ed7413f7899c14",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/419deea7fc39be60f7ed7413f7899c14",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/419deea7fc39be60f7ed7413f7899c14",
+       "human_readable_role_for_display": "Contributor",
+       "id": 4251121,
+       "iq": 5162,
+       "login": "Radicalman78",
+       "name": "Radicalman78",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Radicalman78",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.003937007874015748,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5316933",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/1e40bf78fae4dca84e75177728fca12c",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/1e40bf78fae4dca84e75177728fca12c",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/1e40bf78fae4dca84e75177728fca12c",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/1e40bf78fae4dca84e75177728fca12c",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/b9cf97187d67b385822a274e1a4a0dad.309x230x23.gif",
+       "human_readable_role_for_display": "Mediator",
+       "id": 5316933,
+       "iq": 94224,
+       "login": "PapaKhan",
+       "name": "PapaKhan",
+       "role_for_display": "mediator",
+       "url": "https://genius.com/PapaKhan",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.003937007874015748,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/8315100",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/f4dc1da1ccb558f844f078eb9cd0ff5d",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/f4dc1da1ccb558f844f078eb9cd0ff5d",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/f4dc1da1ccb558f844f078eb9cd0ff5d",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/f4dc1da1ccb558f844f078eb9cd0ff5d",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/a60b7740774e4636062895d57d65c4c5.667x1000x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 8315100,
+       "iq": 255478,
+       "login": "glitzy",
+       "name": "\u200bglitzy",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/glitzy",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/3127797",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/4a74c8541128ba99b1d1ce1e4e874295",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/4a74c8541128ba99b1d1ce1e4e874295",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/4a74c8541128ba99b1d1ce1e4e874295",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/4a74c8541128ba99b1d1ce1e4e874295",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/0cc2fdca3461d34878a59e3791b35e7b.500x278x13.gif",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 3127797,
+  "iq": 4066,
+  "login": "LilWayne",
+  "name": "Lil Wayne",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/LilWayne",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 21,
+   "api_path": "/songs/105686",
+   "apple_music_id": "620477618",
+   "apple_music_player_url": "https://genius.com/songs/105686/apple_music_player",
+   "description": {
+    "plain": "On \u201cLove Me,\u201d Weezy, Drake, and Future talk about their women and how they care about nothing but them\u2014as long as they love them back. It was released as the second single from Wayne\u2019s tenth studio album, I Am Not a Human Being II.\n\nThe song was a success, peaking at #9 on the Billboard Hot 100\u2014notably becoming Future\u2019s first and only top ten single until he released \u201cMask Off\u201d in February 2017, which peaked at #5.\n\nThe official music video premiered on February 14, 2013, on MTV Jams. In an interview with MTV News a day prior, Wayne talked about the concept of the music video:\n\nThe concept of the video is really just to create awesome scenery. A scenery that every man\u2026 anyone wanna be in [\u2026] I appreciate Drake and Future for doin\u2019 this because I\u2019m quite sure they\u2019re hella busy like I am, but I ain\u2019t never too busy to get in a bed with three women, with water everywhere."
+   },
+   "embed_content": "<div id='rg_embed_link_105686' class='rg_embed_link' data-song-id='105686'>Read <a href='https://genius.com/Lil-wayne-love-me-lyrics'>\u201cLove Me\u201d by Lil\u00a0Wayne</a> on Genius</div> <script crossorigin src='//genius.com/songs/105686/embed.js'></script>",
+   "featured_video": true,
+   "full_title": "Love Me by\u00a0Lil\u00a0Wayne (Ft.\u00a0Drake & Future)",
+   "header_image_thumbnail_url": "https://images.genius.com/f73e134a449b314bbf3c04a9aadf0c23.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f73e134a449b314bbf3c04a9aadf0c23.316x316x1.jpg",
+   "id": 105686,
+   "lyrics_owner_id": 137171,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lil-wayne-love-me-lyrics",
+   "pyongs_count": 225,
+   "recording_location": "The Hit Factory Criteria, Miami, FL",
+   "release_date": "2013-01-18",
+   "release_date_for_display": "January 18, 2013",
+   "song_art_image_thumbnail_url": "https://images.genius.com/f73e134a449b314bbf3c04a9aadf0c23.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f73e134a449b314bbf3c04a9aadf0c23.316x316x1.jpg",
+   "stats": {
+    "accepted_annotations": 20,
+    "contributors": 167,
+    "iq_earners": 165,
+    "transcribers": 7,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 2899488
+   },
+   "title": "Love Me",
+   "title_with_featured": "Love Me (Ft.\u00a0Drake & Future)",
+   "url": "https://genius.com/Lil-wayne-love-me-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/24685",
+    "cover_art_url": "https://images.genius.com/1b99b69b978dc8af710fc38b538bc93c.1000x1000x1.png",
+    "full_title": "I Am Not a Human Being II by Lil Wayne",
+    "id": 24685,
+    "name": "I Am Not a Human Being II",
+    "url": "https://genius.com/albums/Lil-wayne/I-am-not-a-human-being-ii",
+    "artist": {
+     "api_path": "/artists/4",
+     "header_image_url": "https://images.genius.com/0cc2fdca3461d34878a59e3791b35e7b.500x278x13.gif",
+     "id": 4,
+     "image_url": "https://images.genius.com/b42bde67bc461dd55a00b577f33673bb.745x745x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Lil Wayne",
+     "url": "https://genius.com/artists/Lil-wayne",
+     "iq": 4066
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Performance Rights",
+     "artists": [
+      {
+       "api_path": "/artists/2227029",
+       "header_image_url": "https://images.genius.com/115970b35453a5e39681034f2ee1b2e4.730x163x1.png",
+       "id": 2227029,
+       "image_url": "https://images.genius.com/099ea2777ac975ccb7819a67580847eb.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "SOCAN",
+       "url": "https://genius.com/artists/Socan"
+      },
+      {
+       "api_path": "/artists/551598",
+       "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+       "id": 551598,
+       "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "ASCAP",
+       "url": "https://genius.com/artists/Ascap"
+      },
+      {
+       "api_path": "/artists/1138091",
+       "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+       "id": 1138091,
+       "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMI",
+       "url": "https://genius.com/artists/Bmi"
+      }
+     ]
+    },
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/1100826",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1100826,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "New World Music",
+       "url": "https://genius.com/artists/New-world-music"
+      },
+      {
+       "api_path": "/artists/648508",
+       "header_image_url": "https://images.genius.com/146f585e8c78f4bf0e2da7d55f08d6cd.375x375x1.jpg",
+       "id": 648508,
+       "image_url": "https://images.genius.com/146f585e8c78f4bf0e2da7d55f08d6cd.375x375x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rondor Music",
+       "url": "https://genius.com/artists/Rondor-music"
+      },
+      {
+       "api_path": "/artists/569149",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 569149,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "EMI Blackwood Music",
+       "url": "https://genius.com/artists/Emi-blackwood-music"
+      },
+      {
+       "api_path": "/artists/1112276",
+       "header_image_url": "https://images.genius.com/159917d9c26b9cfe66c0b04493a1f05a.900x900x1.png",
+       "id": 1112276,
+       "image_url": "https://images.genius.com/340e19086e9ebeae265e6e4947b0ffcb.900x900x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner Music Group",
+       "url": "https://genius.com/artists/Warner-music-group"
+      },
+      {
+       "api_path": "/artists/986730",
+       "header_image_url": "https://images.genius.com/bb24fed497d4a94866afffe8c5a3f6b8.900x900x1.jpg",
+       "id": 986730,
+       "image_url": "https://images.genius.com/9432c373e43c8b8c0d7297b1b4a9f8b5.900x900x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ear Drummers",
+       "url": "https://genius.com/artists/Ear-drummers"
+      },
+      {
+       "api_path": "/artists/2235632",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 2235632,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Canadiana Music",
+       "url": "https://genius.com/artists/Canadiana-music"
+      },
+      {
+       "api_path": "/artists/2236013",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 2236013,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Live Write",
+       "url": "https://genius.com/artists/Live-write"
+      },
+      {
+       "api_path": "/artists/1152704",
+       "header_image_url": "https://images.genius.com/6b9a922068a379c1836441d79f071e92.672x672x1.jpg",
+       "id": 1152704,
+       "image_url": "https://images.genius.com/6b9a922068a379c1836441d79f071e92.672x672x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner/Chappell",
+       "url": "https://genius.com/artists/Warner-chappell"
+      },
+      {
+       "api_path": "/artists/197",
+       "header_image_url": "https://images.genius.com/87d1f55850ff46ff273909cb33bd6021.980x1000x1.jpg",
+       "id": 197,
+       "image_url": "https://images.genius.com/30308d55000064d804511897ace0482d.373x373x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Young Money",
+       "url": "https://genius.com/artists/Young-money"
+      },
+      {
+       "api_path": "/artists/992219",
+       "header_image_url": "https://images.genius.com/a43ed819378fccdad8a80cad050f2029.768x433x1.jpg",
+       "id": 992219,
+       "image_url": "https://images.genius.com/8af7bba6ca0c481513ffe4b4ab87e347.314x314x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner-Tamerlane Publishing Corp.",
+       "url": "https://genius.com/artists/Warner-tamerlane-publishing-corp"
+      },
+      {
+       "api_path": "/artists/1102734",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1102734,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Nayvadius Maximus Music",
+       "url": "https://genius.com/artists/Nayvadius-maximus-music"
+      },
+      {
+       "api_path": "/artists/995508",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 995508,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Irving Music",
+       "url": "https://genius.com/artists/Irving-music"
+      },
+      {
+       "api_path": "/artists/1209162",
+       "header_image_url": "https://images.genius.com/159ffe1bdbffeaf422f56a9a648f8b21.1000x485x1.png",
+       "id": 1209162,
+       "image_url": "https://images.genius.com/fd149dde35fbbd337e610fa4b159fd33.224x224x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "EMI Music Publishing Group",
+       "url": "https://genius.com/artists/Emi-music-publishing-group"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/645689",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 645689,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Michael \u201cBanger\u201d Cadahia",
+       "url": "https://genius.com/artists/Michael-banger-cadahia"
+      },
+      {
+       "api_path": "/artists/27612",
+       "header_image_url": "https://images.genius.com/c999dd154986a45b8981323a2ea53f98.620x380x1.jpg",
+       "id": 27612,
+       "image_url": "https://images.genius.com/c999dd154986a45b8981323a2ea53f98.620x380x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "40",
+       "url": "https://genius.com/artists/40",
+       "iq": 497
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/638003",
+       "header_image_url": "https://images.genius.com/7ca8536b3d587f3d4adeb7562651bfe8.667x667x1.jpg",
+       "id": 638003,
+       "image_url": "https://images.genius.com/7ca8536b3d587f3d4adeb7562651bfe8.667x667x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Fabian Marasciullo",
+       "url": "https://genius.com/artists/Fabian-marasciullo"
+      }
+     ]
+    },
+    {
+     "label": "Assistant Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/145444",
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/a8acac559439bcc4ab36d27182db9dfd",
+       "id": 145444,
+       "image_url": "https://images.rapgenius.com/avatars/medium/a8acac559439bcc4ab36d27182db9dfd",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Stephen Michael McDowell",
+       "url": "https://genius.com/artists/Stephen-michael-mcdowell",
+       "iq": 145
+      }
+     ]
+    },
+    {
+     "label": "Co-Producer",
+     "artists": [
+      {
+       "api_path": "/artists/627151",
+       "header_image_url": "https://images.genius.com/af17cdcba8c71160cb9caa523ffa1e1a.1000x741x1.png",
+       "id": 627151,
+       "image_url": "https://images.genius.com/fee381b42a442e217342a9b8c8698e40.533x533x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Pluss",
+       "url": "https://genius.com/artists/Pluss"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/31842",
+       "header_image_url": "https://images.genius.com/668127843432d16b26d7a7815fceab84.1000x1000x1.png",
+       "id": 31842,
+       "image_url": "https://images.genius.com/668127843432d16b26d7a7815fceab84.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cash Money Records",
+       "url": "https://genius.com/artists/Cash-money-records"
+      },
+      {
+       "api_path": "/artists/197",
+       "header_image_url": "https://images.genius.com/87d1f55850ff46ff273909cb33bd6021.980x1000x1.jpg",
+       "id": 197,
+       "image_url": "https://images.genius.com/30308d55000064d804511897ace0482d.373x373x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Young Money",
+       "url": "https://genius.com/artists/Young-money"
+      },
+      {
+       "api_path": "/artists/1011844",
+       "header_image_url": "https://images.genius.com/d3d4fad20d9150bbcbdcf791b0532dd2.1000x1000x1.jpg",
+       "id": 1011844,
+       "image_url": "https://images.genius.com/d8ea37a285aa8bdcb0eaebb31f116529.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Republic Records",
+       "url": "https://genius.com/artists/Republic-records"
+      }
+     ]
+    },
+    {
+     "label": "Assistant Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/225710",
+       "header_image_url": "https://images.genius.com/3da4a728acfa5ad21c81ef56b94bad73.848x473x1.png",
+       "id": 225710,
+       "image_url": "https://images.genius.com/96c4e8ef8f775bf7ae5aa65a481e0a98.944x944x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Noel Cadastre",
+       "url": "https://genius.com/artists/Noel-cadastre"
+      },
+      {
+       "api_path": "/artists/657738",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 657738,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Andy Rodriguez",
+       "url": "https://genius.com/artists/Andy-rodriguez"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4335922,
+    "annotator_login": "Chancelorr",
+    "api_path": "/referents/3692079",
+    "classification": "accepted",
+    "fragment": "Love Me",
+    "id": 3692079,
+    "is_description": true,
+    "path": "/3692079/Lil-wayne-love-me/Love-me",
+    "range": {
+     "content": "Love Me"
+    },
+    "song_id": 105686,
+    "url": "https://genius.com/3692079/Lil-wayne-love-me/Love-me",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/105686",
+     "client_timestamps": {
+      "updated_by_human_at": 1591719447,
+      "lyrics_updated_at": 1590505636
+     },
+     "context": "Lil Wayne",
+     "id": 105686,
+     "image_url": "https://images.genius.com/f73e134a449b314bbf3c04a9aadf0c23.316x316x1.jpg",
+     "link_title": "Love Me by\u00a0Lil\u00a0Wayne (Ft.\u00a0Drake & Future)",
+     "title": "Love Me",
+     "type": "Song",
+     "url": "https://genius.com/Lil-wayne-love-me-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3692079",
+      "body": {
+       "plain": "On \u201cLove Me,\u201d Weezy, Drake, and Future talk about their women and how they care about nothing but them\u2014as long as they love them back. It was released as the second single from Wayne\u2019s tenth studio album, I Am Not a Human Being II.\n\nThe song was a success, peaking at #9 on the Billboard Hot 100\u2014notably becoming Future\u2019s first and only top ten single until he released \u201cMask Off\u201d in February 2017, which peaked at #5.\n\nThe official music video premiered on February 14, 2013, on MTV Jams. In an interview with MTV News a day prior, Wayne talked about the concept of the music video:\n\nThe concept of the video is really just to create awesome scenery. A scenery that every man\u2026 anyone wanna be in [\u2026] I appreciate Drake and Future for doin\u2019 this because I\u2019m quite sure they\u2019re hella busy like I am, but I ain\u2019t never too busy to get in a bed with three women, with water everywhere."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3692079,
+      "pinned": false,
+      "share_url": "https://genius.com/3692079",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3692079/Lil-wayne-love-me/Love-me",
+      "verified": false,
+      "votes_total": 25,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4335922",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/a8700129e0c1d7d1c4991d3b5f4732c8",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/a8700129e0c1d7d1c4991d3b5f4732c8",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/a8700129e0c1d7d1c4991d3b5f4732c8",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/a8700129e0c1d7d1c4991d3b5f4732c8",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/a8700129e0c1d7d1c4991d3b5f4732c8",
+         "human_readable_role_for_display": "Moderator",
+         "id": 4335922,
+         "iq": 868107,
+         "login": "Chancelorr",
+         "name": "\u200bcw",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Chancelorr",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [
+    {
+     "api_path": "/artists/2197",
+     "header_image_url": "https://images.genius.com/25d9e1faf213b2b3fdc1e88692b7f3bd.1000x1000x1.png",
+     "id": 2197,
+     "image_url": "https://images.genius.com/833e2b1d817f1320be26668c01b3be33.780x780x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Future",
+     "url": "https://genius.com/artists/Future",
+     "iq": 4168
+    },
+    {
+     "api_path": "/artists/130",
+     "header_image_url": "https://images.genius.com/cfdefdd9e4a9cbe3c4241f8294c3f3e0.640x352x98.gif",
+     "id": 130,
+     "image_url": "https://images.genius.com/1192119d5814b6ad2c706bd0c8488df4.999x999x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Drake",
+     "url": "https://genius.com/artists/Drake"
+    }
+   ],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=KY44zvhWhp4"
+    },
+    {
+     "native_uri": "spotify:track:7tGlzXJv6GD5e5qlu5YmDg",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/7tGlzXJv6GD5e5qlu5YmDg"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/4",
+    "header_image_url": "https://images.genius.com/0cc2fdca3461d34878a59e3791b35e7b.500x278x13.gif",
+    "id": 4,
+    "image_url": "https://images.genius.com/b42bde67bc461dd55a00b577f33673bb.745x745x1.jpg",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Lil Wayne",
+    "url": "https://genius.com/artists/Lil-wayne",
+    "iq": 4066
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/29978",
+     "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+     "id": 29978,
+     "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Mike WiLL Made-It",
+     "url": "https://genius.com/artists/Mike-will-made-it",
+     "iq": 485
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": [
+      {
+       "annotation_count": 14,
+       "api_path": "/songs/238565",
+       "full_title": "I'm Still by\u00a0DJ\u00a0Khaled (Ft.\u00a0Ace\u00a0Hood, Chris\u00a0Brown, Wale & Wiz\u00a0Khalifa)",
+       "header_image_thumbnail_url": "https://images.rapgenius.com/73ylzhm9ffgfnmjwtlkkni09k.300x300x1.jpg",
+       "header_image_url": "https://images.rapgenius.com/73ylzhm9ffgfnmjwtlkkni09k.475x475x1.jpg",
+       "id": 238565,
+       "lyrics_owner_id": 213541,
+       "lyrics_state": "complete",
+       "path": "/Dj-khaled-im-still-lyrics",
+       "pyongs_count": 10,
+       "song_art_image_thumbnail_url": "https://images.rapgenius.com/73ylzhm9ffgfnmjwtlkkni09k.300x300x1.jpg",
+       "song_art_image_url": "https://images.rapgenius.com/73ylzhm9ffgfnmjwtlkkni09k.475x475x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 61207
+       },
+       "title": "I\u2019m Still",
+       "title_with_featured": "I'm Still (Ft.\u00a0Ace\u00a0Hood, Chris\u00a0Brown, Wale & Wiz\u00a0Khalifa)",
+       "url": "https://genius.com/Dj-khaled-im-still-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/158",
+        "header_image_url": "https://images.genius.com/ab6d177ad39383915733cf37ca1fb301.999x999x1.jpg",
+        "id": 158,
+        "image_url": "https://images.genius.com/ab6d177ad39383915733cf37ca1fb301.999x999x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "DJ Khaled",
+        "url": "https://genius.com/artists/Dj-khaled",
+        "iq": 4869
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2705966",
+       "full_title": "Shyne (Hustle Smartly) by\u00a0EMxor\u00a0E",
+       "header_image_thumbnail_url": "https://images.genius.com/d6982bab48562750772acd108c6b622b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d6982bab48562750772acd108c6b622b.300x300x1.jpg",
+       "id": 2705966,
+       "lyrics_owner_id": 902148,
+       "lyrics_state": "complete",
+       "path": "/Emxor-e-shyne-hustle-smartly-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/d6982bab48562750772acd108c6b622b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d6982bab48562750772acd108c6b622b.300x300x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Shyne (Hustle Smartly)",
+       "title_with_featured": "Shyne (Hustle Smartly)",
+       "url": "https://genius.com/Emxor-e-shyne-hustle-smartly-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/553708",
+        "header_image_url": "https://images.genius.com/578a2f3bab6dc7e57966f4331fd6440f.480x480x1.jpg",
+        "id": 553708,
+        "image_url": "https://images.genius.com/979dc6a4efd5aa84f577825226d0a4d4.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "EMxor E",
+        "url": "https://genius.com/artists/Emxor-e",
+        "iq": 1077
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/4937394",
+       "full_title": "Untitled-10 by\u00a0Lil\u00a0Osiris (Ft.\u00a0AK\u00a0Smith)",
+       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1598905858",
+       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1598905858",
+       "id": 4937394,
+       "lyrics_owner_id": 9173907,
+       "lyrics_state": "complete",
+       "path": "/Lil-osiris-untitled-10-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1598905858",
+       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1598905858",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Untitled-10",
+       "title_with_featured": "Untitled-10 (Ft.\u00a0AK\u00a0Smith)",
+       "url": "https://genius.com/Lil-osiris-untitled-10-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1976967",
+        "header_image_url": "https://images.genius.com/ec3bfe71ef8d8cfa90a48ba876dc03fc.220x220x1.jpg",
+        "id": 1976967,
+        "image_url": "https://images.genius.com/ec3bfe71ef8d8cfa90a48ba876dc03fc.220x220x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lil Osiris",
+        "url": "https://genius.com/artists/Lil-osiris"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": [
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/32810",
+       "full_title": "Are You That Somebody? by\u00a0Aaliyah (Ft.\u00a0Timbaland)",
+       "header_image_thumbnail_url": "https://images.genius.com/71cdc3dae8a953c79e3e356509a69792.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/71cdc3dae8a953c79e3e356509a69792.1000x1000x1.jpg",
+       "id": 32810,
+       "lyrics_owner_id": 50,
+       "lyrics_state": "complete",
+       "path": "/Aaliyah-are-you-that-somebody-lyrics",
+       "pyongs_count": 33,
+       "song_art_image_thumbnail_url": "https://images.genius.com/71cdc3dae8a953c79e3e356509a69792.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/71cdc3dae8a953c79e3e356509a69792.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 233268
+       },
+       "title": "Are You That Somebody?",
+       "title_with_featured": "Are You That Somebody? (Ft.\u00a0Timbaland)",
+       "url": "https://genius.com/Aaliyah-are-you-that-somebody-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1557",
+        "header_image_url": "https://images.genius.com/263f02f257b07e498bfa2482b9cefa04.816x1000x1.jpg",
+        "id": 1557,
+        "image_url": "https://images.genius.com/c28338d8cb29dab19c74126911adeb5b.835x835x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Aaliyah",
+        "url": "https://genius.com/artists/Aaliyah"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/185732",
+       "full_title": "My Life by\u00a0B.o.B",
+       "header_image_thumbnail_url": "https://images.genius.com/b31bc01751a7bebf79fef00d68e6024a.300x225x1.jpg",
+       "header_image_url": "https://images.genius.com/b31bc01751a7bebf79fef00d68e6024a.480x360x1.jpg",
+       "id": 185732,
+       "lyrics_owner_id": 51030,
+       "lyrics_state": "complete",
+       "path": "/Bob-my-life-lyrics",
+       "pyongs_count": 3,
+       "song_art_image_thumbnail_url": "https://images.genius.com/2a942b4b8155a25105df5924260974fa.300x169x1.jpg",
+       "song_art_image_url": "https://images.genius.com/2a942b4b8155a25105df5924260974fa.1000x563x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "My Life",
+       "title_with_featured": "My Life",
+       "url": "https://genius.com/Bob-my-life-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/853",
+        "header_image_url": "https://images.genius.com/55247e64e453b8670874a8d80409612c.284x177x1.jpg",
+        "id": 853,
+        "image_url": "https://images.genius.com/3252379f345638f5b880f5055e0ca791.540x540x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "B.o.B",
+        "url": "https://genius.com/artists/Bob"
+       }
+      },
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/465367",
+       "full_title": "Good Kush And Alcohol (Love Me Demo) by\u00a0Future",
+       "header_image_thumbnail_url": "https://images.genius.com/5ecf9dc2688313a7b0d2559e0820499a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/5ecf9dc2688313a7b0d2559e0820499a.300x300x1.jpg",
+       "id": 465367,
+       "lyrics_owner_id": 411678,
+       "lyrics_state": "complete",
+       "path": "/Future-good-kush-and-alcohol-love-me-demo-lyrics",
+       "pyongs_count": 1,
+       "song_art_image_thumbnail_url": "https://images.genius.com/5ecf9dc2688313a7b0d2559e0820499a.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/5ecf9dc2688313a7b0d2559e0820499a.300x300x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 8866
+       },
+       "title": "Good Kush And Alcohol (Love Me Demo)",
+       "title_with_featured": "Good Kush And Alcohol (Love Me Demo)",
+       "url": "https://genius.com/Future-good-kush-and-alcohol-love-me-demo-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/2197",
+        "header_image_url": "https://images.genius.com/25d9e1faf213b2b3fdc1e88692b7f3bd.1000x1000x1.png",
+        "id": 2197,
+        "image_url": "https://images.genius.com/833e2b1d817f1320be26668c01b3be33.780x780x1.png",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Future",
+        "url": "https://genius.com/artists/Future",
+        "iq": 4168
+       }
+      },
+      {
+       "annotation_count": 6,
+       "api_path": "/songs/2253280",
+       "full_title": "Non ti rivedo pi\u00f9 by\u00a0Gemitaiz",
+       "header_image_thumbnail_url": "https://images.genius.com/648b583f0ebaad5e3acd96782dfa6ba0.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/648b583f0ebaad5e3acd96782dfa6ba0.960x960x1.jpg",
+       "id": 2253280,
+       "lyrics_owner_id": 1489463,
+       "lyrics_state": "complete",
+       "path": "/Gemitaiz-non-ti-rivedo-piu-lyrics",
+       "pyongs_count": 2,
+       "song_art_image_thumbnail_url": "https://images.genius.com/648b583f0ebaad5e3acd96782dfa6ba0.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/648b583f0ebaad5e3acd96782dfa6ba0.960x960x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 6,
+        "hot": false,
+        "pageviews": 37009
+       },
+       "title": "Non ti rivedo pi\u00f9",
+       "title_with_featured": "Non ti rivedo pi\u00f9",
+       "url": "https://genius.com/Gemitaiz-non-ti-rivedo-piu-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/32862",
+        "header_image_url": "https://images.genius.com/65aba36922c3d530b184ea0b9cef69d2.1000x667x1.jpg",
+        "id": 32862,
+        "image_url": "https://images.genius.com/41b5cfa769747228e640f9cd1c9026a6.1000x1000x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Gemitaiz",
+        "url": "https://genius.com/artists/Gemitaiz",
+        "iq": 2117
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/627151",
+     "header_image_url": "https://images.genius.com/af17cdcba8c71160cb9caa523ffa1e1a.1000x741x1.png",
+     "id": 627151,
+     "image_url": "https://images.genius.com/fee381b42a442e217342a9b8c8698e40.533x533x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pluss",
+     "url": "https://genius.com/artists/Pluss"
+    },
+    {
+     "api_path": "/artists/29978",
+     "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+     "id": 29978,
+     "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Mike WiLL Made-It",
+     "url": "https://genius.com/artists/Mike-will-made-it",
+     "iq": 485
+    },
+    {
+     "api_path": "/artists/2197",
+     "header_image_url": "https://images.genius.com/25d9e1faf213b2b3fdc1e88692b7f3bd.1000x1000x1.png",
+     "id": 2197,
+     "image_url": "https://images.genius.com/833e2b1d817f1320be26668c01b3be33.780x780x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Future",
+     "url": "https://genius.com/artists/Future",
+     "iq": 4168
+    },
+    {
+     "api_path": "/artists/130",
+     "header_image_url": "https://images.genius.com/cfdefdd9e4a9cbe3c4241f8294c3f3e0.640x352x98.gif",
+     "id": 130,
+     "image_url": "https://images.genius.com/1192119d5814b6ad2c706bd0c8488df4.999x999x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Drake",
+     "url": "https://genius.com/artists/Drake"
+    },
+    {
+     "api_path": "/artists/4",
+     "header_image_url": "https://images.genius.com/0cc2fdca3461d34878a59e3791b35e7b.500x278x13.gif",
+     "id": 4,
+     "image_url": "https://images.genius.com/b42bde67bc461dd55a00b577f33673bb.745x745x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Lil Wayne",
+     "url": "https://genius.com/artists/Lil-wayne",
+     "iq": 4066
+    }
+   ],
+   "lyrics": "[Pre-Chorus: Future]\nI'm on that good kush and alcohol (Mike WiLL Made-It)\nI got some down bitches I can call (What's happenin'?)\nI don't know what I would do without y'all\nI'ma ball 'til the day I fall (I'ma ball, ball, ball)\n\n[Chorus: Drake & Future]\nYeah, long as my bitches love me (Yeah, yeah; yeah, yeah)\nI can give a fuck 'bout no hater\nLong as my bitches love me (Yeah, yeah; yeah, yeah; yeah, yeah)\nYeah, I can give a fuck 'bout no nigga\nLong as these bitches love me\n\n[Verse 1: Lil Wayne]\nUh, pussy-ass nigga, stop hatin'\nLil Tunechi got that fire\nAnd these hoes love me like Satan, man\nYeah, fuck with me and get bodied\nAnd all she eat is dick\nShe's on a strict diet, that's my baby\nWith no makeup, she a ten\nAnd she the best with that head\nEven better than Karrine\nShe don't want money\nShe want the time that we could spend\nShe said, \"'Cause I really need somebody\nSo tell me you're that somebody\"\nGirl, I fuck who I want, and fuck who I don't\nGot that A1 credit, that's that filet mignon\nShe said, \"I never want to make you mad\nI just want to make you proud\"\nI said, \"Baby, just make me cum\nThen don't make a sound\"\nSlick Tunechi\n\n[Pre-Chorus: Future & Lil Wayne]\nI'm on that good kush and alcohol (Yeah)\nI got some down bitches I can call (What's happenin'?)\nI don't know what I would do without y'all\nI'ma ball 'til the day I fall (I'ma ball, ball, ball)\n\n[Chorus: Drake, Future, & Lil Wayne]\nYeah, long as my bitches love me (My bitches love me) (Yeah, yeah; yeah, yeah)\nI can give a fuck 'bout no hater\nLong as my bitches love me (My bitches love me, my bitches love me, my bitches love me) (Yeah, yeah; yeah, yeah; yeah, yeah)\nYeah, I can give a fuck 'bout no nigga\nLong as these bitches love me\n\n[Verse 2: Lil Wayne]\nUh, real nigga, fuck these haters\nThese hoes got pussies like craters\nCan't treat these hoes like ladies, man\nPussy, money, weed, codeine\nShe said my dick feel like morphine\nI hope my name taste like sardines to these niggas\nShe wake up, eat this dick\nCall that breakfast in bed, 69, 96\nI feel her heartbeat, I chest-to-chest with this bitch\nNow turn around, face down; I'm arrestin' this bitch\nYeah, all my bitches love me, and I love all my bitches\nBut it's like as soon as I cum, I come to my senses\nAnd I would say these hoes' names\nBut then I would be snitchin'\nAnd these haters try to knock me\nBut they can't knock me off the hinges\nLil Tunechi\n\n[Pre-Chorus: Future & Lil Wayne]\nI'm on that good kush and alcohol (Yeah)\nI got some down bitches I can call (What's happenin'?)\nI don't know what I would do without y'all (I don't know what I would do without y'all)\nI'ma ball 'til the day I fall (I'ma ball, ball, ball) (I'ma ball)\n\n[Chorus: Drake, Future, & Lil Wayne]\nYeah, long as my bitches love me (My bitches love me) (Yeah, yeah; yeah, yeah)\nI can give a fuck 'bout no hater\nLong as my bitches love me (My bitches love me, my bitches love me, my bitches love me) (Yeah, yeah; yeah, yeah; yeah, yeah)\nYeah, I can give a fuck 'bout\n\n[Bridge: Lil Wayne]\nI lost a few good bitches, met some more bad bitches\nAnd I be schooling them niggas, pose for your class picture\nNow kiss my ass if you hatin', I'm getting ass, or I'm skatin'\nI lost a few good bitches, met some more bad bitches\nAnd I be schooling them niggas, pose for your class picture\nNow kiss my ass if you hatin', I'm getting ass, or I'm skatin'\nBitch\n\n[Pre-Chorus: Future, Lil Wayne, & Both]\nI'm on that good kush and alcohol (Tunech)\nI got some down bitches I can call (What's happenin'?)\nI don't know what I would do without y'all (I don't know what I would do without y'all)\nI'ma ball 'til the day I fall (I'ma ball, ball, ball) (I'ma ball)\n\n[Chorus: Drake, Future, & Lil Wayne]\nYeah, long as my bitches love me (My bitches love) (Yeah, yeah; yeah, yeah)\nI can give a fuck 'bout no hater\nLong as my bitches love me (My bitches love me, my bitches love me, my bitches love me) (Yeah, yeah; yeah, yeah; yeah, yeah)\nYeah, I can give a fuck 'bout no nigga (Yeah)\nLong as these bitches love me"
+  },
+  {
+   "annotation_count": 34,
+   "api_path": "/songs/419570",
+   "apple_music_id": "883439326",
+   "apple_music_player_url": "https://genius.com/songs/419570/apple_music_player",
+   "description": {
+    "plain": "Floyd Mayweather Instagrammed footage of the studio session when Wayne and Drake were recording this.\n\nDrake addresses his mentor and career succession. Mostly he talks about the fact that rappers don\u2019t know his potential yet and are pushing him over the edge.\n\nWayne performed the track the night after its release at the Floyd Mayweather fight.\n\nhttps://www.youtube.com/watch?v=uiIrN24c2Xg\n\nDrake previewed a snippet of the track at a club, prior to the song\u2019s official release."
+   },
+   "embed_content": "<div id='rg_embed_link_419570' class='rg_embed_link' data-song-id='419570'>Read <a href='https://genius.com/Lil-wayne-believe-me-lyrics'>\u201cBelieve Me\u201d by Lil\u00a0Wayne</a> on Genius</div> <script crossorigin src='//genius.com/songs/419570/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Believe Me by\u00a0Lil\u00a0Wayne (Ft.\u00a0Drake)",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/8540a54d6dddddea744734f3aa5b73cc.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/8540a54d6dddddea744734f3aa5b73cc.525x525x1.jpg",
+   "id": 419570,
+   "lyrics_owner_id": 104344,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lil-wayne-believe-me-lyrics",
+   "pyongs_count": 1647,
+   "recording_location": null,
+   "release_date": "2014-05-06",
+   "release_date_for_display": "May 6, 2014",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/8540a54d6dddddea744734f3aa5b73cc.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/8540a54d6dddddea744734f3aa5b73cc.525x525x1.jpg",
+   "stats": {
+    "accepted_annotations": 33,
+    "contributors": 248,
+    "iq_earners": 248,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 2024904
+   },
+   "title": "Believe Me",
+   "title_with_featured": "Believe Me (Ft.\u00a0Drake)",
+   "url": "https://genius.com/Lil-wayne-believe-me-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/562316",
+    "cover_art_url": "https://images.genius.com/393331d8cb04d4fa610bfd6df7df1c38.550x550x1.jpg",
+    "full_title": "Tha Carter V (2014 Version) by Lil Wayne",
+    "id": 562316,
+    "name": "Tha Carter V (2014 Version)",
+    "url": "https://genius.com/albums/Lil-wayne/Tha-carter-v-2014-version",
+    "artist": {
+     "api_path": "/artists/4",
+     "header_image_url": "https://images.genius.com/0cc2fdca3461d34878a59e3791b35e7b.500x278x13.gif",
+     "id": 4,
+     "image_url": "https://images.genius.com/b42bde67bc461dd55a00b577f33673bb.745x745x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Lil Wayne",
+     "url": "https://genius.com/artists/Lil-wayne",
+     "iq": 4066
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/31842",
+       "header_image_url": "https://images.genius.com/668127843432d16b26d7a7815fceab84.1000x1000x1.png",
+       "id": 31842,
+       "image_url": "https://images.genius.com/668127843432d16b26d7a7815fceab84.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cash Money Records",
+       "url": "https://genius.com/artists/Cash-money-records"
+      },
+      {
+       "api_path": "/artists/197",
+       "header_image_url": "https://images.genius.com/87d1f55850ff46ff273909cb33bd6021.980x1000x1.jpg",
+       "id": 197,
+       "image_url": "https://images.genius.com/30308d55000064d804511897ace0482d.373x373x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Young Money",
+       "url": "https://genius.com/artists/Young-money"
+      },
+      {
+       "api_path": "/artists/1011844",
+       "header_image_url": "https://images.genius.com/d3d4fad20d9150bbcbdcf791b0532dd2.1000x1000x1.jpg",
+       "id": 1011844,
+       "image_url": "https://images.genius.com/d8ea37a285aa8bdcb0eaebb31f116529.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Republic Records",
+       "url": "https://genius.com/artists/Republic-records"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 347668,
+    "annotator_login": "Mairick",
+    "api_path": "/referents/3628152",
+    "classification": "accepted",
+    "fragment": "Believe Me",
+    "id": 3628152,
+    "is_description": true,
+    "path": "/3628152/Lil-wayne-believe-me/Believe-me",
+    "range": {
+     "content": "Believe Me"
+    },
+    "song_id": 419570,
+    "url": "https://genius.com/3628152/Lil-wayne-believe-me/Believe-me",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/419570",
+     "client_timestamps": {
+      "updated_by_human_at": 1593874833,
+      "lyrics_updated_at": 1570638636
+     },
+     "context": "Lil Wayne",
+     "id": 419570,
+     "image_url": "https://images.rapgenius.com/8540a54d6dddddea744734f3aa5b73cc.525x525x1.jpg",
+     "link_title": "Believe Me by\u00a0Lil\u00a0Wayne (Ft.\u00a0Drake)",
+     "title": "Believe Me",
+     "type": "Song",
+     "url": "https://genius.com/Lil-wayne-believe-me-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3628152",
+      "body": {
+       "plain": "Floyd Mayweather Instagrammed footage of the studio session when Wayne and Drake were recording this.\n\nDrake addresses his mentor and career succession. Mostly he talks about the fact that rappers don\u2019t know his potential yet and are pushing him over the edge.\n\nWayne performed the track the night after its release at the Floyd Mayweather fight.\n\nhttps://www.youtube.com/watch?v=uiIrN24c2Xg\n\nDrake previewed a snippet of the track at a club, prior to the song\u2019s official release."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3628152,
+      "pinned": false,
+      "share_url": "https://genius.com/3628152",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3628152/Lil-wayne-believe-me/Believe-me",
+      "verified": false,
+      "votes_total": 58,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.29411764705882354,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1070344",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/1ac8976e501ca2dc47581299faf39e9f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/1ac8976e501ca2dc47581299faf39e9f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/1ac8976e501ca2dc47581299faf39e9f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/1ac8976e501ca2dc47581299faf39e9f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/1ac8976e501ca2dc47581299faf39e9f",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1070344,
+         "iq": 2045,
+         "login": "yalnago",
+         "name": "yalnago",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/yalnago",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.2647058823529412,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/68096",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/173d64458a921e8b7d0b4d1d6e42f9ba",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/173d64458a921e8b7d0b4d1d6e42f9ba",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/173d64458a921e8b7d0b4d1d6e42f9ba",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/173d64458a921e8b7d0b4d1d6e42f9ba",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/173d64458a921e8b7d0b4d1d6e42f9ba",
+         "human_readable_role_for_display": "Contributor",
+         "id": 68096,
+         "iq": 3428,
+         "login": "vicks_vapor",
+         "name": "vicks_vapor",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/vicks_vapor",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.14705882352941177,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/200270",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/25220a9da8929022609bcb1aafc426bf",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/25220a9da8929022609bcb1aafc426bf",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/25220a9da8929022609bcb1aafc426bf",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/25220a9da8929022609bcb1aafc426bf",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/25220a9da8929022609bcb1aafc426bf",
+         "human_readable_role_for_display": "Contributor",
+         "id": 200270,
+         "iq": 1645,
+         "login": "GregRusche",
+         "name": "GregRusche",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/GregRusche",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.1372549019607843,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8117646",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/b82391d26056f643e1ca6a70231d79a8",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/b82391d26056f643e1ca6a70231d79a8",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/b82391d26056f643e1ca6a70231d79a8",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/b82391d26056f643e1ca6a70231d79a8",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/7367f5ae5b4de0f05a6ee48cc22833b7.1000x1000x8.gif",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8117646,
+         "iq": 447780,
+         "login": "TrappaChiNo",
+         "name": "TrappaChiNo",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/TrappaChiNo",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.09803921568627452,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/520224",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/e63301ff393806714fde27ca6ab3b695",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/e63301ff393806714fde27ca6ab3b695",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/e63301ff393806714fde27ca6ab3b695",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/e63301ff393806714fde27ca6ab3b695",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/e63301ff393806714fde27ca6ab3b695",
+         "human_readable_role_for_display": "Contributor",
+         "id": 520224,
+         "iq": 3649,
+         "login": "aziapd",
+         "name": "aziapd",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/aziapd",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.0392156862745098,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/114864",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/68076181c95dbd48c98ebdc4bf25d6b9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/68076181c95dbd48c98ebdc4bf25d6b9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/68076181c95dbd48c98ebdc4bf25d6b9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/68076181c95dbd48c98ebdc4bf25d6b9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/68076181c95dbd48c98ebdc4bf25d6b9",
+         "human_readable_role_for_display": "Contributor",
+         "id": 114864,
+         "iq": 6237,
+         "login": "Curiosity",
+         "name": "Curiosity",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Curiosity",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.00980392156862745,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/140605",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/d0eca2a1247d282f31bd85c32af7d561",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/d0eca2a1247d282f31bd85c32af7d561",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/d0eca2a1247d282f31bd85c32af7d561",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/d0eca2a1247d282f31bd85c32af7d561",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/d0eca2a1247d282f31bd85c32af7d561",
+         "human_readable_role_for_display": "Moderator",
+         "id": 140605,
+         "iq": 325943,
+         "login": "MrXercules",
+         "name": "MrXercules",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/MrXercules",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.00980392156862745,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/347668",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/6e017902e9f2c993c87a41d767620392",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/6e017902e9f2c993c87a41d767620392",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/6e017902e9f2c993c87a41d767620392",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/6e017902e9f2c993c87a41d767620392",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/6e017902e9f2c993c87a41d767620392",
+         "human_readable_role_for_display": "Contributor",
+         "id": 347668,
+         "iq": 17074,
+         "login": "Mairick",
+         "name": "Mairick",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Mairick",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [
+    {
+     "api_path": "/artists/130",
+     "header_image_url": "https://images.genius.com/cfdefdd9e4a9cbe3c4241f8294c3f3e0.640x352x98.gif",
+     "id": 130,
+     "image_url": "https://images.genius.com/1192119d5814b6ad2c706bd0c8488df4.999x999x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Drake",
+     "url": "https://genius.com/artists/Drake"
+    }
+   ],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:6t2eIONH4Sax3R21QWiKNp",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/6t2eIONH4Sax3R21QWiKNp"
+    },
+    {
+     "attribution": "octobersveryown",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/octobersveryown/lil-wayne-believe-me-feat-drake"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=JSOo4ULWYOA"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/4",
+    "header_image_url": "https://images.genius.com/0cc2fdca3461d34878a59e3791b35e7b.500x278x13.gif",
+    "id": 4,
+    "image_url": "https://images.genius.com/b42bde67bc461dd55a00b577f33673bb.745x745x1.jpg",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Lil Wayne",
+    "url": "https://genius.com/artists/Lil-wayne",
+    "iq": 4066
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/662",
+     "header_image_url": "https://images.genius.com/f1b95b403a63c49b2248d0e5c153092a.858x858x1.jpg",
+     "id": 662,
+     "image_url": "https://images.genius.com/f1b95b403a63c49b2248d0e5c153092a.858x858x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Boi-1da",
+     "url": "https://genius.com/artists/Boi-1da"
+    },
+    {
+     "api_path": "/artists/27616",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/1372924433_Vinylz-e1366826599913.jpg",
+     "id": 27616,
+     "image_url": "https://s3.amazonaws.com/rapgenius/1372924433_Vinylz-e1366826599913.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Vinylz",
+     "url": "https://genius.com/artists/Vinylz",
+     "iq": 100
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3201743",
+       "full_title": "Cuh Oonuh by\u00a0Reggie\u00a0Stepper",
+       "header_image_thumbnail_url": "https://images.genius.com/9e357ab919aff435417bc6a057f5cb83.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/9e357ab919aff435417bc6a057f5cb83.360x360x1.jpg",
+       "id": 3201743,
+       "lyrics_owner_id": 3024693,
+       "lyrics_state": "complete",
+       "path": "/Reggie-stepper-cuh-oonuh-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/9e357ab919aff435417bc6a057f5cb83.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/9e357ab919aff435417bc6a057f5cb83.360x360x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Cuh Oonuh",
+       "title_with_featured": "Cuh Oonuh",
+       "url": "https://genius.com/Reggie-stepper-cuh-oonuh-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/481575",
+        "header_image_url": "https://images.genius.com/f40943e6de50db31aad0c9b0420a4e45.206x206x1.jpg",
+        "id": 481575,
+        "image_url": "https://images.genius.com/f40943e6de50db31aad0c9b0420a4e45.206x206x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Reggie Stepper",
+        "url": "https://genius.com/artists/Reggie-stepper"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": [
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/514944",
+       "full_title": "Tim Westwood Crib Session Freestyle by\u00a0Freddie\u00a0Gibbs",
+       "header_image_thumbnail_url": "https://images.genius.com/c9a0de64e8b42a8635ec2fe5ddd9c41c.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/c9a0de64e8b42a8635ec2fe5ddd9c41c.899x899x1.jpg",
+       "id": 514944,
+       "lyrics_owner_id": 1023270,
+       "lyrics_state": "complete",
+       "path": "/Freddie-gibbs-tim-westwood-crib-session-freestyle-lyrics",
+       "pyongs_count": 5,
+       "song_art_image_thumbnail_url": "https://images.genius.com/c9a0de64e8b42a8635ec2fe5ddd9c41c.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c9a0de64e8b42a8635ec2fe5ddd9c41c.899x899x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Tim Westwood Crib Session Freestyle",
+       "title_with_featured": "Tim Westwood Crib Session Freestyle",
+       "url": "https://genius.com/Freddie-gibbs-tim-westwood-crib-session-freestyle-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/939",
+        "header_image_url": "https://images.genius.com/eb0f9c196fe929a248bccba2428d22a8.510x504x1.png",
+        "id": 939,
+        "image_url": "https://images.genius.com/c9a0de64e8b42a8635ec2fe5ddd9c41c.899x899x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Freddie Gibbs",
+        "url": "https://genius.com/artists/Freddie-gibbs",
+        "iq": 5359
+       }
+      },
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/637942",
+       "full_title": "Mets-les \u00e0 l'amende by\u00a0Guizmo",
+       "header_image_thumbnail_url": "https://images.genius.com/20c788b0b20a04e13e495ba569c5513a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/20c788b0b20a04e13e495ba569c5513a.1000x1000x1.jpg",
+       "id": 637942,
+       "lyrics_owner_id": 177524,
+       "lyrics_state": "complete",
+       "path": "/Guizmo-mets-les-a-lamende-lyrics",
+       "pyongs_count": 7,
+       "song_art_image_thumbnail_url": "https://images.genius.com/20c788b0b20a04e13e495ba569c5513a.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/20c788b0b20a04e13e495ba569c5513a.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Mets-les \u00e0 l\u2019amende",
+       "title_with_featured": "Mets-les \u00e0 l'amende",
+       "url": "https://genius.com/Guizmo-mets-les-a-lamende-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/13640",
+        "header_image_url": "https://images.genius.com/513daeef438e68517b22d8992448c55b.697x385x1.png",
+        "id": 13640,
+        "image_url": "https://images.genius.com/eebed6471e9476e6b982836ec2dd1b36.912x912x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Guizmo",
+        "url": "https://genius.com/artists/Guizmo",
+        "iq": 1705
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/2620067",
+       "full_title": "Attaque by\u00a0Blaiz",
+       "header_image_thumbnail_url": "https://images.genius.com/b6503e9517f82d32117d5566c8e13c5d.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b6503e9517f82d32117d5566c8e13c5d.954x954x1.jpg",
+       "id": 2620067,
+       "lyrics_owner_id": 3326324,
+       "lyrics_state": "complete",
+       "path": "/Blaiz-attaque-lyrics",
+       "pyongs_count": 1,
+       "song_art_image_thumbnail_url": "https://images.genius.com/b6503e9517f82d32117d5566c8e13c5d.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b6503e9517f82d32117d5566c8e13c5d.954x954x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Attaque",
+       "title_with_featured": "Attaque",
+       "url": "https://genius.com/Blaiz-attaque-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/793911",
+        "header_image_url": "https://images.genius.com/12b67e538e5e85108c750f54f42cf57b.1000x563x1.jpg",
+        "id": 793911,
+        "image_url": "https://images.genius.com/b6503e9517f82d32117d5566c8e13c5d.954x954x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Blaiz",
+        "url": "https://genius.com/artists/Blaiz"
+       }
+      },
+      {
+       "annotation_count": 10,
+       "api_path": "/songs/3933867",
+       "full_title": "Schnelles Geld by\u00a0Sero\u00a0El Mero",
+       "header_image_thumbnail_url": "https://images.genius.com/561d42456f198fcfe26022cefa96dea7.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/561d42456f198fcfe26022cefa96dea7.600x600x1.jpg",
+       "id": 3933867,
+       "lyrics_owner_id": 4303832,
+       "lyrics_state": "complete",
+       "path": "/Sero-el-mero-schnelles-geld-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/561d42456f198fcfe26022cefa96dea7.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/561d42456f198fcfe26022cefa96dea7.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 10,
+        "hot": false,
+        "pageviews": 19859
+       },
+       "title": "Schnelles Geld",
+       "title_with_featured": "Schnelles Geld",
+       "url": "https://genius.com/Sero-el-mero-schnelles-geld-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1536959",
+        "header_image_url": "https://images.genius.com/d26cf77a178b3ccfdc01a14b4c7a58e7.1000x1000x1.jpg",
+        "id": 1536959,
+        "image_url": "https://images.genius.com/86005c84c66cc1ff944270be763943de.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Sero El Mero",
+        "url": "https://genius.com/artists/Sero-el-mero"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 11,
+       "api_path": "/songs/447254",
+       "full_title": "Believe Me (Flockmix) by\u00a0Waka\u00a0Flocka Flame",
+       "header_image_thumbnail_url": "https://images.genius.com/615016a72f645e322ab9388f4cca0404.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/615016a72f645e322ab9388f4cca0404.500x500x1.jpg",
+       "id": 447254,
+       "lyrics_owner_id": 293302,
+       "lyrics_state": "complete",
+       "path": "/Waka-flocka-flame-believe-me-flockmix-lyrics",
+       "pyongs_count": 1,
+       "song_art_image_thumbnail_url": "https://images.genius.com/615016a72f645e322ab9388f4cca0404.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/615016a72f645e322ab9388f4cca0404.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 6,
+        "hot": false
+       },
+       "title": "Believe Me (Flockmix)",
+       "title_with_featured": "Believe Me (Flockmix)",
+       "url": "https://genius.com/Waka-flocka-flame-believe-me-flockmix-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/257",
+        "header_image_url": "https://images.genius.com/2c0ce44440f772f4cebdfb4d0195df8e.836x836x1.jpg",
+        "id": 257,
+        "image_url": "https://images.genius.com/2c0ce44440f772f4cebdfb4d0195df8e.836x836x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Waka Flocka Flame",
+        "url": "https://genius.com/artists/Waka-flocka-flame",
+        "iq": 2838
+       }
+      },
+      {
+       "annotation_count": 33,
+       "api_path": "/songs/478223",
+       "full_title": "Believe Me (Freestyle) by\u00a0Kurt\u00a0Rock",
+       "header_image_thumbnail_url": "https://images.genius.com/82a630584a02348bfc4ac3b6f72c4327.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/82a630584a02348bfc4ac3b6f72c4327.600x600x1.jpg",
+       "id": 478223,
+       "lyrics_owner_id": 832364,
+       "lyrics_state": "complete",
+       "path": "/Kurt-rock-believe-me-freestyle-lyrics",
+       "pyongs_count": 23,
+       "song_art_image_thumbnail_url": "https://images.genius.com/82a630584a02348bfc4ac3b6f72c4327.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/82a630584a02348bfc4ac3b6f72c4327.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Believe Me (Freestyle)",
+       "title_with_featured": "Believe Me (Freestyle)",
+       "url": "https://genius.com/Kurt-rock-believe-me-freestyle-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/202557",
+        "header_image_url": "https://images.genius.com/e1f2a6c4796c83744df5e119deb0f909.562x1000x1.jpg",
+        "id": 202557,
+        "image_url": "https://images.genius.com/61a02f2a9b964b6554080d7170b79c22.369x369x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Kurt Rock",
+        "url": "https://genius.com/artists/Kurt-rock",
+        "iq": 3631
+       }
+      },
+      {
+       "annotation_count": 16,
+       "api_path": "/songs/487512",
+       "full_title": "Believe Me (Freestyle) by\u00a0Ace\u00a0Hood",
+       "header_image_thumbnail_url": "https://images.rapgenius.com/fe71fd9b753a96fa27eef664c4cab0a1.300x300x1.jpg",
+       "header_image_url": "https://images.rapgenius.com/fe71fd9b753a96fa27eef664c4cab0a1.500x500x1.jpg",
+       "id": 487512,
+       "lyrics_owner_id": 1091942,
+       "lyrics_state": "complete",
+       "path": "/Ace-hood-believe-me-freestyle-lyrics",
+       "pyongs_count": 11,
+       "song_art_image_thumbnail_url": "https://images.rapgenius.com/fe71fd9b753a96fa27eef664c4cab0a1.300x300x1.jpg",
+       "song_art_image_url": "https://images.rapgenius.com/fe71fd9b753a96fa27eef664c4cab0a1.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 4,
+        "hot": false,
+        "pageviews": 15824
+       },
+       "title": "Believe Me (Freestyle)",
+       "title_with_featured": "Believe Me (Freestyle)",
+       "url": "https://genius.com/Ace-hood-believe-me-freestyle-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/460",
+        "header_image_url": "https://images.genius.com/2b8521f75a42651c7f8673b2f3f696bc.720x720x1.jpg",
+        "id": 460,
+        "image_url": "https://images.genius.com/2b8521f75a42651c7f8673b2f3f696bc.720x720x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Ace Hood",
+        "url": "https://genius.com/artists/Ace-hood",
+        "iq": 1194
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/502511",
+       "full_title": "Believe Me (Keymix) by\u00a0Troy\u00a0Ave (Ft.\u00a0Young\u00a0Lito)",
+       "header_image_thumbnail_url": "https://images.genius.com/03d124e9b9d1d122cbfd30a11bb30f12.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/03d124e9b9d1d122cbfd30a11bb30f12.500x500x1.jpg",
+       "id": 502511,
+       "lyrics_owner_id": 172030,
+       "lyrics_state": "complete",
+       "path": "/Troy-ave-believe-me-keymix-lyrics",
+       "pyongs_count": 1,
+       "song_art_image_thumbnail_url": "https://images.genius.com/03d124e9b9d1d122cbfd30a11bb30f12.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/03d124e9b9d1d122cbfd30a11bb30f12.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Believe Me (Keymix)",
+       "title_with_featured": "Believe Me (Keymix) (Ft.\u00a0Young\u00a0Lito)",
+       "url": "https://genius.com/Troy-ave-believe-me-keymix-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/20179",
+        "header_image_url": "https://images.genius.com/cac43e69ab21187c76855f78572aed52.1000x1000x1.jpg",
+        "id": 20179,
+        "image_url": "https://images.genius.com/103dc490fbf5edaa01770f78a8cc1f19.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Troy Ave",
+        "url": "https://genius.com/artists/Troy-ave",
+        "iq": 604
+       }
+      },
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/514944",
+       "full_title": "Tim Westwood Crib Session Freestyle by\u00a0Freddie\u00a0Gibbs",
+       "header_image_thumbnail_url": "https://images.genius.com/c9a0de64e8b42a8635ec2fe5ddd9c41c.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/c9a0de64e8b42a8635ec2fe5ddd9c41c.899x899x1.jpg",
+       "id": 514944,
+       "lyrics_owner_id": 1023270,
+       "lyrics_state": "complete",
+       "path": "/Freddie-gibbs-tim-westwood-crib-session-freestyle-lyrics",
+       "pyongs_count": 5,
+       "song_art_image_thumbnail_url": "https://images.genius.com/c9a0de64e8b42a8635ec2fe5ddd9c41c.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c9a0de64e8b42a8635ec2fe5ddd9c41c.899x899x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Tim Westwood Crib Session Freestyle",
+       "title_with_featured": "Tim Westwood Crib Session Freestyle",
+       "url": "https://genius.com/Freddie-gibbs-tim-westwood-crib-session-freestyle-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/939",
+        "header_image_url": "https://images.genius.com/eb0f9c196fe929a248bccba2428d22a8.510x504x1.png",
+        "id": 939,
+        "image_url": "https://images.genius.com/c9a0de64e8b42a8635ec2fe5ddd9c41c.899x899x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Freddie Gibbs",
+        "url": "https://genius.com/artists/Freddie-gibbs",
+        "iq": 5359
+       }
+      },
+      {
+       "annotation_count": 5,
+       "api_path": "/songs/527460",
+       "full_title": "Believe Me (Freestyle) by\u00a0Big\u00a0K.R.I.T.",
+       "header_image_thumbnail_url": "https://images.genius.com/c55205c8cf58b001357f72c8ec8b00fc.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/c55205c8cf58b001357f72c8ec8b00fc.500x500x1.jpg",
+       "id": 527460,
+       "lyrics_owner_id": 346222,
+       "lyrics_state": "complete",
+       "path": "/Big-krit-believe-me-freestyle-lyrics",
+       "pyongs_count": 2,
+       "song_art_image_thumbnail_url": "https://images.genius.com/c55205c8cf58b001357f72c8ec8b00fc.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c55205c8cf58b001357f72c8ec8b00fc.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false
+       },
+       "title": "Believe Me (Freestyle)",
+       "title_with_featured": "Believe Me (Freestyle)",
+       "url": "https://genius.com/Big-krit-believe-me-freestyle-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/491",
+        "header_image_url": "https://images.genius.com/c2b3ccc3cb38302640b35bf5fc795c69.564x296x1.jpg",
+        "id": 491,
+        "image_url": "https://images.genius.com/502994a09a730898aee4703439b6d8c7.750x750x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Big K.R.I.T.",
+        "url": "https://genius.com/artists/Big-krit",
+        "iq": 6135
+       }
+      },
+      {
+       "annotation_count": 12,
+       "api_path": "/songs/582706",
+       "full_title": "Believe Me (Remix) by\u00a0Gared\u00a0A.",
+       "header_image_thumbnail_url": "https://images.rapgenius.com/1647308be28db55b97c9afdf75f1b339.300x300x1.jpg",
+       "header_image_url": "https://images.rapgenius.com/1647308be28db55b97c9afdf75f1b339.960x960x1.jpg",
+       "id": 582706,
+       "lyrics_owner_id": 879608,
+       "lyrics_state": "complete",
+       "path": "/Gared-a-believe-me-remix-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.rapgenius.com/1647308be28db55b97c9afdf75f1b339.300x300x1.jpg",
+       "song_art_image_url": "https://images.rapgenius.com/1647308be28db55b97c9afdf75f1b339.960x960x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Believe Me (Remix)",
+       "title_with_featured": "Believe Me (Remix)",
+       "url": "https://genius.com/Gared-a-believe-me-remix-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/180797",
+        "header_image_url": "https://images.genius.com/cf1a1fd14bba9707a4998afcb2fe33d8.1000x333x1.png",
+        "id": 180797,
+        "image_url": "https://images.genius.com/c0f785561dab7f22614dd4275006fb6a.958x958x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Gared A.",
+        "url": "https://genius.com/artists/Gared-a",
+        "iq": 13364
+       }
+      },
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/597101",
+       "full_title": "Believe Me (Remix) by\u00a0Jake\u00a0Elation (Ft.\u00a0Joey\u00a0xDel)",
+       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1598905858",
+       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1598905858",
+       "id": 597101,
+       "lyrics_owner_id": 264548,
+       "lyrics_state": "complete",
+       "path": "/Jake-elation-believe-me-remix-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1598905858",
+       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1598905858",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false
+       },
+       "title": "Believe Me (Remix)",
+       "title_with_featured": "Believe Me (Remix) (Ft.\u00a0Joey\u00a0xDel)",
+       "url": "https://genius.com/Jake-elation-believe-me-remix-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/272293",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+        "id": 272293,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jake Elation",
+        "url": "https://genius.com/artists/Jake-elation"
+       }
+      },
+      {
+       "annotation_count": 6,
+       "api_path": "/songs/685734",
+       "full_title": "Cheese 2.0 by\u00a0Yzomandias",
+       "header_image_thumbnail_url": "https://images.genius.com/321bee06a1a65114dfdcbab65be1f387.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/321bee06a1a65114dfdcbab65be1f387.1000x1000x1.jpg",
+       "id": 685734,
+       "lyrics_owner_id": 1434869,
+       "lyrics_state": "complete",
+       "path": "/Yzomandias-cheese-20-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/321bee06a1a65114dfdcbab65be1f387.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/321bee06a1a65114dfdcbab65be1f387.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 5,
+        "hot": false
+       },
+       "title": "Cheese 2.0",
+       "title_with_featured": "Cheese 2.0",
+       "url": "https://genius.com/Yzomandias-cheese-20-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/298985",
+        "header_image_url": "https://images.genius.com/e9fad3ffade39b0ccc197630d97dd01e.1000x563x1.jpg",
+        "id": 298985,
+        "image_url": "https://images.genius.com/4c04cb4380d94a768d7accb8512524c2.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Yzomandias",
+        "url": "https://genius.com/artists/Yzomandias"
+       }
+      },
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/2383688",
+       "full_title": "Believe Me by\u00a0J.\u00a0Logan (Ft.\u00a0Sheppard\u00a0(Rapper))",
+       "header_image_thumbnail_url": "https://images.rapgenius.com/7041e6b18ad616a8acd1c4d2f762ee5d.300x300x1.jpg",
+       "header_image_url": "https://images.rapgenius.com/7041e6b18ad616a8acd1c4d2f762ee5d.500x500x1.jpg",
+       "id": 2383688,
+       "lyrics_owner_id": 2074198,
+       "lyrics_state": "complete",
+       "path": "/J-logan-believe-me-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.rapgenius.com/7041e6b18ad616a8acd1c4d2f762ee5d.300x300x1.jpg",
+       "song_art_image_url": "https://images.rapgenius.com/7041e6b18ad616a8acd1c4d2f762ee5d.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Believe Me",
+       "title_with_featured": "Believe Me (Ft.\u00a0Sheppard\u00a0(Rapper))",
+       "url": "https://genius.com/J-logan-believe-me-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/615655",
+        "header_image_url": "https://images.genius.com/6f00743af100326ca3379886f6cec895.750x1000x1.jpg",
+        "id": 615655,
+        "image_url": "https://images.genius.com/b10d57beda4304c871333eaef36c6135.482x482x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "J. Logan",
+        "url": "https://genius.com/artists/J-logan",
+        "iq": 121
+       }
+      },
+      {
+       "annotation_count": 14,
+       "api_path": "/songs/2831742",
+       "full_title": "Sway In The Morning Freestyle (Believe Me) by\u00a0Token",
+       "header_image_thumbnail_url": "https://images.genius.com/383e63783e51e437dbc0e224a890d2ad.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/383e63783e51e437dbc0e224a890d2ad.394x394x1.jpg",
+       "id": 2831742,
+       "lyrics_owner_id": 2020186,
+       "lyrics_state": "complete",
+       "path": "/Token-sway-in-the-morning-freestyle-believe-me-lyrics",
+       "pyongs_count": 3,
+       "song_art_image_thumbnail_url": "https://images.genius.com/383e63783e51e437dbc0e224a890d2ad.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/383e63783e51e437dbc0e224a890d2ad.394x394x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 10749
+       },
+       "title": "Sway In The Morning Freestyle (Believe Me)",
+       "title_with_featured": "Sway In The Morning Freestyle (Believe Me)",
+       "url": "https://genius.com/Token-sway-in-the-morning-freestyle-believe-me-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/23310",
+        "header_image_url": "https://images.genius.com/57ae9613ab82a38ca80c490bffed312c.1000x333x1.jpg",
+        "id": 23310,
+        "image_url": "https://images.genius.com/383e63783e51e437dbc0e224a890d2ad.394x394x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Token",
+        "url": "https://genius.com/artists/Token",
+        "iq": 2327
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4207079",
+       "full_title": "Believe Me by\u00a0Cliff\u00a0Stunner",
+       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1598905858",
+       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1598905858",
+       "id": 4207079,
+       "lyrics_owner_id": 6322037,
+       "lyrics_state": "complete",
+       "path": "/Cliff-stunner-believe-me-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1598905858",
+       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1598905858",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Believe Me",
+       "title_with_featured": "Believe Me",
+       "url": "https://genius.com/Cliff-stunner-believe-me-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1415158",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+        "id": 1415158,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Cliff Stunner",
+        "url": "https://genius.com/artists/Cliff-stunner"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4615868",
+       "full_title": "Intro by\u00a0Sabbath\u00a0M",
+       "header_image_thumbnail_url": "https://images.genius.com/485b97450be58759a40c2168750b3c8c.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/485b97450be58759a40c2168750b3c8c.1000x1000x1.jpg",
+       "id": 4615868,
+       "lyrics_owner_id": 4469443,
+       "lyrics_state": "complete",
+       "path": "/Sabbath-m-intro-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/485b97450be58759a40c2168750b3c8c.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/485b97450be58759a40c2168750b3c8c.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Intro",
+       "title_with_featured": "Intro",
+       "url": "https://genius.com/Sabbath-m-intro-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1849240",
+        "header_image_url": "https://images.genius.com/da7302f570dd2b2b2161f32a9d7b5851.1000x982x1.jpg",
+        "id": 1849240,
+        "image_url": "https://images.genius.com/485b97450be58759a40c2168750b3c8c.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Sabbath M",
+        "url": "https://genius.com/artists/Sabbath-m"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "lyrics"
+     ],
+     "artist": {
+      "api_path": "/artists/1462268",
+      "header_image_url": "https://images.genius.com/fd45c05e64abaad8d3358f2b3426f761.1000x578x1.jpg",
+      "id": 1462268,
+      "image_url": "https://images.genius.com/07a2299ac6e1e2d70df538ebe732b542.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Flyn Powers",
+      "url": "https://genius.com/artists/Flyn-powers",
+      "iq": 718
+     },
+     "user": {
+      "api_path": "/users/6329177",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/2771c2961d5907282ea3571de081a4aa",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/2771c2961d5907282ea3571de081a4aa",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/2771c2961d5907282ea3571de081a4aa",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/2771c2961d5907282ea3571de081a4aa",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/fd45c05e64abaad8d3358f2b3426f761.1000x578x1.jpg",
+      "human_readable_role_for_display": "Contributor",
+      "id": 6329177,
+      "iq": 718,
+      "login": "FlynPowers",
+      "name": "Flyn Powers",
+      "role_for_display": "contributor",
+      "url": "https://genius.com/FlynPowers",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [
+    {
+     "api_path": "/users/6329177",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/2771c2961d5907282ea3571de081a4aa",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/2771c2961d5907282ea3571de081a4aa",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/2771c2961d5907282ea3571de081a4aa",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/2771c2961d5907282ea3571de081a4aa",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/fd45c05e64abaad8d3358f2b3426f761.1000x578x1.jpg",
+     "human_readable_role_for_display": "Contributor",
+     "id": 6329177,
+     "iq": 718,
+     "login": "FlynPowers",
+     "name": "Flyn Powers",
+     "role_for_display": "contributor",
+     "url": "https://genius.com/FlynPowers",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "writer_artists": [
+    {
+     "api_path": "/artists/130",
+     "header_image_url": "https://images.genius.com/cfdefdd9e4a9cbe3c4241f8294c3f3e0.640x352x98.gif",
+     "id": 130,
+     "image_url": "https://images.genius.com/1192119d5814b6ad2c706bd0c8488df4.999x999x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Drake",
+     "url": "https://genius.com/artists/Drake"
+    },
+    {
+     "api_path": "/artists/4",
+     "header_image_url": "https://images.genius.com/0cc2fdca3461d34878a59e3791b35e7b.500x278x13.gif",
+     "id": 4,
+     "image_url": "https://images.genius.com/b42bde67bc461dd55a00b577f33673bb.745x745x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Lil Wayne",
+     "url": "https://genius.com/artists/Lil-wayne",
+     "iq": 4066
+    }
+   ],
+   "lyrics": "[Produced by Boi-1da and Vinylz]\n\n[Chorus: Drake]\nI'm the only one that get the job done\nI don't know a nigga that could cover for me\nYeah, got some game from my dad\nHe said she might say she love me\nShe don't love me like she say she love me\nBelieve me, believe me\nI'm that nigga, boy they love me in the streets\nI'm not tryna find nobody else to beat\nI'm the one they come to see because they all\nBelieve me\n\n[Verse 1: Drake]\nYeah, rip, rip rip\nIt's been me and Young Tune off the rip\nThat's the man that put me in this shit\nIf a nigga fuck with him, I'll put him down quick\nGot a verse for anybody wanna talk about the clique\nI've been takin' shit light, you don't wanna hear me trip\nGod damn, do y'all really know who y'all fuckin' with?\nYeah, I mean you can't blame me for wonderin'\nDoesn't matter, could be winter or the summer\nOn the road, I do One Direction numbers, I don't fuckin' miss\nYeah, Stunna and Mack know\nWhen Wayne was gone for eight months, we put this thing up on our back\nAnd I was snappin' off on every single track though\nCollect call from the boss like where we at though\nI was like, \"Hah, it's our time, nigga\"\nHe left Rikers in a Phantom, that's my nigga\nAnd I'll been rockin' with the team 'til Carter IX\nAnd we YMCMB, waitin' on somebody to try us, nigga\nYeah\n\n[Chorus: Drake]\nI'm the only one that get the job done\nI don't know a nigga that could cover for me\nYeah, got some game from my dad\nHe said she might say she love me\nShe don't love me like she say she love me\nBelieve me, believe me\nI'm that nigga, boy they love me in the streets\nI'm not tryna find nobody else to beat\nI'm the one they come to see because they all\nBelieve me\n\n[Verse 2: Lil Wayne]\nLord knows I'll murk one of these niggas, yeah\nHis and hers Ferraris, nigga\nOne for me, one for my daughter, nigga\nWaitin' for someone to test me like a Harvard nigga\nI tote a 223, two Michael Jordans, nigga\nCome on, fight these shell cases like a lawyer, nigga\nFind out where you stay, and act like we found some oil, nigga\nOut of duct tape so when he prayin' I ignore the nigga\nAll I gotta say is \"sayonara, nigga\"\nDrop dead gorgeous but the bitch ain't dyin' for a nigga\nWhere the real queens at? Shout out Capone and Noreaga\nWe can shoot it out and see who live to tell the story later\nDiamonds in my Rollie face cannot be exfoliated\nThey think I'm associated, I'm the one that orchestrated\nYayo get her ass whipped, whip that ass like horses racin'\nAin't 'bout what you walk away from, it's 'bout what you walk away with\nDead Presidents, them coffins vacant\nI must be doin' somethin'\n\n[Chorus: Drake]\nI'm the only one that get the job done\nI don't know a nigga that could cover for me\nYeah, got some game from my dad\nHe said she might say she love me\nShe don't love me like she say she love me\nBelieve me, believe me\nI'm that nigga, boy they love me in the streets\nI'm not tryna find nobody else to beat\nI'm the one they come to see because they all\nBelieve me\n\n[Verse 3: Drake]\nHad to get it poppin' off the rip\nRich young nigga that ain't never had to trick\nSlim Thug flow but you know I like 'em thick\nIf she get a job at DOA, I drop her off a tip\nI had to get it poppin' off the rip\nI'm the one they tell yah been reppin' in the 6\nCome into the city and yah niggas get to trippin'\nWe'll take yah to the Scarborough Bluff and drop you off a cliff\nWell damn, just be happy for the man\nNirvana, Coldplay, nigga got bands\nInk from the money, got it all over my hands\nGoin' out to Houston, spendin' all of my advance\nV Live just took me for a cheque\n\"Drake you know I love you, you just took me outta debt\"\nYes, right now you are lookin' at the best\nMothafuck award shows and mothafuck the press like that\n\n[Verse 4: Lil Wayne]\nMothafuck the rest\nWhen they jumped off the porch, I was stumblin' up the steps\nI'd give what I collect before I give up my connect\nIt'd be a cold day in Hell, icicles made of sweat\nOne finger, slidin' 'cross my neck\nNiggas know what that mean like they deaf\nNigga I'll fire this nina like it's her first day\nOn the job and the bitch overslept\nTune stay humble, nigga I'm a king\nNeed a horn and a drumroll\nThey throw mothafuckin' roses at my feet, nigga\nI don't step on one rose\nI'm the only one that get the job done\nI don't know a nigga that can cover for me\nTape a couple kilos to the bitch stomach\nShe look like she got a bun in the oven from me\nPreheat, believe me\nAll you gotta do is pay me every week\nI had these bitches havin' babies every week\nI'm the nigga, see me skatin' in the streets\nGone\n\n[Outro: Drake]\nRip rip, nigga"
+  },
+  {
+   "annotation_count": 25,
+   "api_path": "/songs/3075914",
+   "apple_music_id": "1437592180",
+   "apple_music_player_url": "https://genius.com/songs/3075914/apple_music_player",
+   "description": {
+    "plain": "Referencing the ambiguity of Mona Lisa\u2019s smile, this song finds Lil Wayne and Kendrick Lamar weaving a story of a deceptive woman who sets her \u201cboyfriend\u201d up for a robbery.\n\nOn \u201cMona Lisa,\u201d Weezy and Kendrick are playing two sides of the story. This gives a wider perspective to each narrative, opening for depth to each verse because you can relate not only to the narrator telling the story, but to the other guy as well.\n\nThe song was originally recorded in 2014, as it appeared on the tentative C5 tracklist that Wayne previewed in October 2014. The first snippet of the song was brought to light in 2017 when PharmaBro Martin Shkreli played part of the song live on Periscope. Shkreli acquired the album from a man who bought Lil Wayne\u2019s Bugatti (in which Wayne left a copy of Tha Carter V). The version Shkreli played in that video later leaked in 2019.\n\nThis is the third collaboration between Kendrick and Wayne, following Jay Rock\u2019s 2009 track \u201cColors\u201d and Mike WiLL Made-It\u2019s 2014 track \u201cBuy The World.\u201d"
+   },
+   "embed_content": "<div id='rg_embed_link_3075914' class='rg_embed_link' data-song-id='3075914'>Read <a href='https://genius.com/Lil-wayne-mona-lisa-lyrics'>\u201cMona Lisa\u201d by Lil\u00a0Wayne</a> on Genius</div> <script crossorigin src='//genius.com/songs/3075914/embed.js'></script>",
+   "fact_track": {
+    "provider": "spotify",
+    "external_url": "https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8",
+    "button_text": "Behind the Lyrics in Spotify",
+    "help_link_text": "What's a Fact Track?",
+    "help_link_url": "https://genius.com/a/genius-and-spotify-together"
+   },
+   "featured_video": false,
+   "full_title": "Mona Lisa by\u00a0Lil\u00a0Wayne (Ft.\u00a0Kendrick\u00a0Lamar)",
+   "header_image_thumbnail_url": "https://images.genius.com/0607dab9ef83679f9e3939ffb215a1a0.300x300x1.png",
+   "header_image_url": "https://images.genius.com/0607dab9ef83679f9e3939ffb215a1a0.1000x1000x1.png",
+   "id": 3075914,
+   "lyrics_owner_id": 3390361,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lil-wayne-mona-lisa-lyrics",
+   "pyongs_count": 173,
+   "recording_location": "YM Studios, Criteria Recording Studios, Glenwood Place Recording Studios",
+   "release_date": "2018-09-28",
+   "release_date_for_display": "September 28, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/0607dab9ef83679f9e3939ffb215a1a0.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/0607dab9ef83679f9e3939ffb215a1a0.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 24,
+    "contributors": 439,
+    "iq_earners": 438,
+    "transcribers": 4,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "concurrents": 3,
+    "hot": false,
+    "pageviews": 1888656
+   },
+   "title": "Mona Lisa",
+   "title_with_featured": "Mona Lisa (Ft.\u00a0Kendrick\u00a0Lamar)",
+   "url": "https://genius.com/Lil-wayne-mona-lisa-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "watch_fact_track",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/98888",
+    "cover_art_url": "https://images.genius.com/0607dab9ef83679f9e3939ffb215a1a0.1000x1000x1.png",
+    "full_title": "Tha Carter V by Lil Wayne",
+    "id": 98888,
+    "name": "Tha Carter V",
+    "url": "https://genius.com/albums/Lil-wayne/Tha-carter-v",
+    "artist": {
+     "api_path": "/artists/4",
+     "header_image_url": "https://images.genius.com/0cc2fdca3461d34878a59e3791b35e7b.500x278x13.gif",
+     "id": 4,
+     "image_url": "https://images.genius.com/b42bde67bc461dd55a00b577f33673bb.745x745x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Lil Wayne",
+     "url": "https://genius.com/artists/Lil-wayne",
+     "iq": 4066
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Performance Rights",
+     "artists": [
+      {
+       "api_path": "/artists/1138091",
+       "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+       "id": 1138091,
+       "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMI",
+       "url": "https://genius.com/artists/Bmi"
+      }
+     ]
+    },
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/2235632",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 2235632,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Canadiana Music",
+       "url": "https://genius.com/artists/Canadiana-music"
+      },
+      {
+       "api_path": "/artists/1100826",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1100826,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "New World Music",
+       "url": "https://genius.com/artists/New-world-music"
+      },
+      {
+       "api_path": "/artists/1112276",
+       "header_image_url": "https://images.genius.com/159917d9c26b9cfe66c0b04493a1f05a.900x900x1.png",
+       "id": 1112276,
+       "image_url": "https://images.genius.com/340e19086e9ebeae265e6e4947b0ffcb.900x900x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner Music Group",
+       "url": "https://genius.com/artists/Warner-music-group"
+      },
+      {
+       "api_path": "/artists/197",
+       "header_image_url": "https://images.genius.com/87d1f55850ff46ff273909cb33bd6021.980x1000x1.jpg",
+       "id": 197,
+       "image_url": "https://images.genius.com/30308d55000064d804511897ace0482d.373x373x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Young Money",
+       "url": "https://genius.com/artists/Young-money"
+      },
+      {
+       "api_path": "/artists/992219",
+       "header_image_url": "https://images.genius.com/a43ed819378fccdad8a80cad050f2029.768x433x1.jpg",
+       "id": 992219,
+       "image_url": "https://images.genius.com/8af7bba6ca0c481513ffe4b4ab87e347.314x314x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner-Tamerlane Publishing Corp.",
+       "url": "https://genius.com/artists/Warner-tamerlane-publishing-corp"
+      },
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      },
+      {
+       "api_path": "/artists/647220",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 647220,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Marlina Music",
+       "url": "https://genius.com/artists/Marlina-music"
+      },
+      {
+       "api_path": "/artists/977738",
+       "header_image_url": "https://images.genius.com/b008d4956c52e00d33926169f43a5b42.646x220x1.png",
+       "id": 977738,
+       "image_url": "https://images.genius.com/42609eac7f9afd416d03dd778c5f134e.165x165x1.gif",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Concord Music Group",
+       "url": "https://genius.com/artists/Concord-music-group"
+      },
+      {
+       "api_path": "/artists/2258067",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 2258067,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Angel the Truth Publishing",
+       "url": "https://genius.com/artists/Angel-the-truth-publishing"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      },
+      {
+       "api_path": "/artists/1011844",
+       "header_image_url": "https://images.genius.com/d3d4fad20d9150bbcbdcf791b0532dd2.1000x1000x1.jpg",
+       "id": 1011844,
+       "image_url": "https://images.genius.com/d8ea37a285aa8bdcb0eaebb31f116529.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Republic Records",
+       "url": "https://genius.com/artists/Republic-records"
+      },
+      {
+       "api_path": "/artists/197",
+       "header_image_url": "https://images.genius.com/87d1f55850ff46ff273909cb33bd6021.980x1000x1.jpg",
+       "id": 197,
+       "image_url": "https://images.genius.com/30308d55000064d804511897ace0482d.373x373x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Young Money",
+       "url": "https://genius.com/artists/Young-money"
+      }
+     ]
+    },
+    {
+     "label": "Assistant Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/639846",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 639846,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jeffrey Tanner",
+       "url": "https://genius.com/artists/Jeffrey-tanner"
+      },
+      {
+       "api_path": "/artists/1498284",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1498284,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jason Delattiboudere",
+       "url": "https://genius.com/artists/Jason-delattiboudere"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/640014",
+       "header_image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+       "id": 640014,
+       "image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mixed by Ali",
+       "url": "https://genius.com/artists/Mixed-by-ali"
+      },
+      {
+       "api_path": "/artists/46584",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 46584,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Angel Aponte",
+       "url": "https://genius.com/artists/Angel-aponte"
+      },
+      {
+       "api_path": "/artists/649560",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 649560,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Omar Loya",
+       "url": "https://genius.com/artists/Omar-loya"
+      },
+      {
+       "api_path": "/artists/1165727",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1165727,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Manny Galvez",
+       "url": "https://genius.com/artists/Manny-galvez"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/587689",
+       "header_image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+       "id": 587689,
+       "image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Colin Leonard",
+       "url": "https://genius.com/artists/Colin-leonard"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/638003",
+       "header_image_url": "https://images.genius.com/7ca8536b3d587f3d4adeb7562651bfe8.667x667x1.jpg",
+       "id": 638003,
+       "image_url": "https://images.genius.com/7ca8536b3d587f3d4adeb7562651bfe8.667x667x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Fabian Marasciullo",
+       "url": "https://genius.com/artists/Fabian-marasciullo"
+      }
+     ]
+    },
+    {
+     "label": "Assistant Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/655819",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 655819,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "McCoy Socalgargoyle",
+       "url": "https://genius.com/artists/Mccoy-socalgargoyle"
+      }
+     ]
+    },
+    {
+     "label": "Viola",
+     "artists": [
+      {
+       "api_path": "/artists/1619671",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1619671,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Wil Baptiste",
+       "url": "https://genius.com/artists/Wil-baptiste"
+      }
+     ]
+    },
+    {
+     "label": "Violin",
+     "artists": [
+      {
+       "api_path": "/artists/1576177",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1576177,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kev Marcus",
+       "url": "https://genius.com/artists/Kev-marcus"
+      }
+     ]
+    },
+    {
+     "label": "Clarinet",
+     "artists": [
+      {
+       "api_path": "/artists/879596",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 879596,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Keith Cooper",
+       "url": "https://genius.com/artists/Keith-cooper"
+      }
+     ]
+    },
+    {
+     "label": "Flute",
+     "artists": [
+      {
+       "api_path": "/artists/879596",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 879596,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Keith Cooper",
+       "url": "https://genius.com/artists/Keith-cooper"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/197",
+       "header_image_url": "https://images.genius.com/87d1f55850ff46ff273909cb33bd6021.980x1000x1.jpg",
+       "id": 197,
+       "image_url": "https://images.genius.com/30308d55000064d804511897ace0482d.373x373x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Young Money",
+       "url": "https://genius.com/artists/Young-money"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/197",
+       "header_image_url": "https://images.genius.com/87d1f55850ff46ff273909cb33bd6021.980x1000x1.jpg",
+       "id": 197,
+       "image_url": "https://images.genius.com/30308d55000064d804511897ace0482d.373x373x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Young Money",
+       "url": "https://genius.com/artists/Young-money"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5822340,
+    "annotator_login": "doity_sanchez",
+    "api_path": "/referents/11776622",
+    "classification": "accepted",
+    "fragment": "Mona Lisa",
+    "id": 11776622,
+    "is_description": true,
+    "path": "/11776622/Lil-wayne-mona-lisa/Mona-lisa",
+    "range": {
+     "content": "Mona Lisa"
+    },
+    "song_id": 3075914,
+    "url": "https://genius.com/11776622/Lil-wayne-mona-lisa/Mona-lisa",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3075914",
+     "client_timestamps": {
+      "updated_by_human_at": 1595446735,
+      "lyrics_updated_at": 1595446735
+     },
+     "context": "Lil Wayne",
+     "id": 3075914,
+     "image_url": "https://images.genius.com/0607dab9ef83679f9e3939ffb215a1a0.1000x1000x1.png",
+     "link_title": "Mona Lisa by\u00a0Lil\u00a0Wayne (Ft.\u00a0Kendrick\u00a0Lamar)",
+     "title": "Mona Lisa",
+     "type": "Song",
+     "url": "https://genius.com/Lil-wayne-mona-lisa-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11776622",
+      "body": {
+       "plain": "Referencing the ambiguity of Mona Lisa\u2019s smile, this song finds Lil Wayne and Kendrick Lamar weaving a story of a deceptive woman who sets her \u201cboyfriend\u201d up for a robbery.\n\nOn \u201cMona Lisa,\u201d Weezy and Kendrick are playing two sides of the story. This gives a wider perspective to each narrative, opening for depth to each verse because you can relate not only to the narrator telling the story, but to the other guy as well.\n\nThe song was originally recorded in 2014, as it appeared on the tentative C5 tracklist that Wayne previewed in October 2014. The first snippet of the song was brought to light in 2017 when PharmaBro Martin Shkreli played part of the song live on Periscope. Shkreli acquired the album from a man who bought Lil Wayne\u2019s Bugatti (in which Wayne left a copy of Tha Carter V). The version Shkreli played in that video later leaked in 2019.\n\nThis is the third collaboration between Kendrick and Wayne, following Jay Rock\u2019s 2009 track \u201cColors\u201d and Mike WiLL Made-It\u2019s 2014 track \u201cBuy The World.\u201d"
+      },
+      "comment_count": 6,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 11776622,
+      "pinned": false,
+      "share_url": "https://genius.com/11776622",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/11776622/Lil-wayne-mona-lisa/Mona-lisa",
+      "verified": false,
+      "votes_total": 406,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.2535211267605634,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5822340",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/42f4f30bbfa16f6b0fc66685b0c6d446",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/42f4f30bbfa16f6b0fc66685b0c6d446",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/42f4f30bbfa16f6b0fc66685b0c6d446",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/42f4f30bbfa16f6b0fc66685b0c6d446",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/42f4f30bbfa16f6b0fc66685b0c6d446",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5822340,
+         "iq": 1609,
+         "login": "doity_sanchez",
+         "name": "doity_sanchez",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/doity_sanchez",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.22065727699530516,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/360897",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/b861ccd1b4fe79d6506ec968fe29559e",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/b861ccd1b4fe79d6506ec968fe29559e",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/b861ccd1b4fe79d6506ec968fe29559e",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/b861ccd1b4fe79d6506ec968fe29559e",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/grh6fqtxj9q",
+         "human_readable_role_for_display": "Editor",
+         "id": 360897,
+         "iq": 59369,
+         "login": "Jafar",
+         "name": "Jafar",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Jafar",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.14084507042253522,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3956132",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1598905858",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1598905858",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1598905858",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3956132,
+         "iq": 37401,
+         "login": "aroze",
+         "name": "aroze",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/aroze",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.12206572769953052,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3390361",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/2ac8be9083be53275e54a9f89f99c9c7",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/2ac8be9083be53275e54a9f89f99c9c7",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/2ac8be9083be53275e54a9f89f99c9c7",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/2ac8be9083be53275e54a9f89f99c9c7",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/T4FnVmyAQLukRQq4Ja7E_kyliejennercomplez2016_4.PNG",
+         "human_readable_role_for_display": "Editor",
+         "id": 3390361,
+         "iq": 209321,
+         "login": "DripKxng",
+         "name": "DripKxng",
+         "role_for_display": "editor",
+         "url": "https://genius.com/DripKxng",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.06572769953051644,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/43360",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/31ed7a105dce09ba271ab868c9fda68a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/31ed7a105dce09ba271ab868c9fda68a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/31ed7a105dce09ba271ab868c9fda68a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/31ed7a105dce09ba271ab868c9fda68a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/31ed7a105dce09ba271ab868c9fda68a",
+         "human_readable_role_for_display": "Editor",
+         "id": 43360,
+         "iq": 31239,
+         "login": "sabsad",
+         "name": "sabsad",
+         "role_for_display": "editor",
+         "url": "https://genius.com/sabsad",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.05164319248826291,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/427740",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/98da1237cc15b84540a205c92d1c849d.1000x1000x1.png",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/98da1237cc15b84540a205c92d1c849d.1000x1000x1.png",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/98da1237cc15b84540a205c92d1c849d.1000x1000x1.png",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/98da1237cc15b84540a205c92d1c849d.1000x1000x1.png",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/07830534fd792498abeaa68622ca801c.1000x223x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 427740,
+         "iq": 221668,
+         "login": "yxng-nate",
+         "name": "Nathaniel Hall",
+         "role_for_display": "editor",
+         "url": "https://genius.com/yxng-nate",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.04225352112676056,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4742957",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8e94a190dab09a3057540719167b3589",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8e94a190dab09a3057540719167b3589",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8e94a190dab09a3057540719167b3589",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8e94a190dab09a3057540719167b3589",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/8e94a190dab09a3057540719167b3589",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4742957,
+         "iq": 1438,
+         "login": "baereilon11",
+         "name": "baereilon11",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/baereilon11",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.04225352112676056,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1601923",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/de986012fd0fa77ce09ed0b02d60cc43",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/de986012fd0fa77ce09ed0b02d60cc43",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/de986012fd0fa77ce09ed0b02d60cc43",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/de986012fd0fa77ce09ed0b02d60cc43",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/mtrsxfpq3p",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1601923,
+         "iq": 2897,
+         "login": "thecreativekiddrob",
+         "name": "thecreativekiddrob",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/thecreativekiddrob",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.02347417840375587,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3464805",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/f959a06ad7a6c3372942dc276fcfed74",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/f959a06ad7a6c3372942dc276fcfed74",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/f959a06ad7a6c3372942dc276fcfed74",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/f959a06ad7a6c3372942dc276fcfed74",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/RNcSNyXPR0iaebzdvGdS_nature-forest-trees-fog.jpeg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3464805,
+         "iq": 7640,
+         "login": "CartmansSon",
+         "name": "CartmansSon",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/CartmansSon",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.02347417840375587,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/330106",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/085e9167c28fe7009964d4476a6b6622",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/085e9167c28fe7009964d4476a6b6622",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/085e9167c28fe7009964d4476a6b6622",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/085e9167c28fe7009964d4476a6b6622",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/085e9167c28fe7009964d4476a6b6622",
+         "human_readable_role_for_display": "Contributor",
+         "id": 330106,
+         "iq": 29851,
+         "login": "yungjon",
+         "name": "Yvngj0n",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/yungjon",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.009389671361502348,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4837420",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/184ad6280fcbb838628225171928464c",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/184ad6280fcbb838628225171928464c",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/184ad6280fcbb838628225171928464c",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/184ad6280fcbb838628225171928464c",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/184ad6280fcbb838628225171928464c",
+         "human_readable_role_for_display": "Editor",
+         "id": 4837420,
+         "iq": 33876,
+         "login": "R2D2C",
+         "name": "R2D2C",
+         "role_for_display": "editor",
+         "url": "https://genius.com/R2D2C",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.004694835680751174,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4367769",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/6a4bc2df11daf0d0cdd5e2b03047b9ca",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/6a4bc2df11daf0d0cdd5e2b03047b9ca",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/6a4bc2df11daf0d0cdd5e2b03047b9ca",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/6a4bc2df11daf0d0cdd5e2b03047b9ca",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/GeFGqYQSi7wtCAoyJfGw_15726531_10206401869600690_5052452915934290621_n.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 4367769,
+         "iq": 99066,
+         "login": "lawrenceskm",
+         "name": "lawrenceskm",
+         "role_for_display": "editor",
+         "url": "https://genius.com/lawrenceskm",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [
+    {
+     "api_path": "/artists/1421",
+     "header_image_url": "https://images.genius.com/f3a1149475f2406582e3531041680a3c.1000x800x1.jpg",
+     "id": 1421,
+     "image_url": "https://images.genius.com/25d8a9c93ab97e9e6d5d1d9d36e64a53.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Kendrick Lamar",
+     "url": "https://genius.com/artists/Kendrick-lamar",
+     "iq": 42928
+    }
+   ],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:0dbTQYW3Ad1FTzIA9t90E8",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8"
+    },
+    {
+     "attribution": "lilwayne",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/lilwayne/mona-lisa-feat-kendrick-lamar"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=EmOoJme-uGQ"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/4",
+    "header_image_url": "https://images.genius.com/0cc2fdca3461d34878a59e3791b35e7b.500x278x13.gif",
+    "id": 4,
+    "image_url": "https://images.genius.com/b42bde67bc461dd55a00b577f33673bb.745x745x1.jpg",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Lil Wayne",
+    "url": "https://genius.com/artists/Lil-wayne",
+    "iq": 4066
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/27681",
+     "header_image_url": "https://images.genius.com/43b4d927274de93a1302c16efaaf439d.313x313x1.png",
+     "id": 27681,
+     "image_url": "https://images.genius.com/43b4d927274de93a1302c16efaaf439d.313x313x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ONHEL",
+     "url": "https://genius.com/artists/Onhel"
+    },
+    {
+     "api_path": "/artists/195546",
+     "header_image_url": "https://images.genius.com/8a69bdbdea3d17ce7f90099dc32bc46b.145x145x1.png",
+     "id": 195546,
+     "image_url": "https://images.genius.com/8a69bdbdea3d17ce7f90099dc32bc46b.145x145x1.png",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Infamous",
+     "url": "https://genius.com/artists/Infamous",
+     "iq": 100
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": [
+      {
+       "annotation_count": 23,
+       "api_path": "/songs/1780282",
+       "full_title": "Psycho Bitch III by\u00a0Tech\u00a0N9ne (Ft.\u00a0Hopsin)",
+       "header_image_thumbnail_url": "https://images.genius.com/edd99f73805809fd6bac9dda75c9e951.300x300x1.png",
+       "header_image_url": "https://images.genius.com/edd99f73805809fd6bac9dda75c9e951.550x550x1.png",
+       "id": 1780282,
+       "lyrics_owner_id": 278163,
+       "lyrics_state": "complete",
+       "path": "/Tech-n9ne-psycho-bitch-iii-lyrics",
+       "pyongs_count": 16,
+       "song_art_image_thumbnail_url": "https://images.genius.com/edd99f73805809fd6bac9dda75c9e951.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/edd99f73805809fd6bac9dda75c9e951.550x550x1.png",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 31365
+       },
+       "title": "Psycho Bitch III",
+       "title_with_featured": "Psycho Bitch III (Ft.\u00a0Hopsin)",
+       "url": "https://genius.com/Tech-n9ne-psycho-bitch-iii-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/506",
+        "header_image_url": "https://images.genius.com/1cd52301aa960753a72020620ca518d0.1000x609x1.jpg",
+        "id": 506,
+        "image_url": "https://images.genius.com/ea417a62cc4e48aba86c9d2a626c952d.406x373x1.png",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Tech N9ne",
+        "url": "https://genius.com/artists/Tech-n9ne",
+        "iq": 1623
+       }
+      },
+      {
+       "annotation_count": 12,
+       "api_path": "/songs/1524",
+       "full_title": "Lollipop by\u00a0Lil\u00a0Wayne (Ft.\u00a0Static\u00a0Major)",
+       "header_image_thumbnail_url": "https://images.genius.com/70a7ef69242915a9cd1c3f68031e4c0a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/70a7ef69242915a9cd1c3f68031e4c0a.1000x1000x1.jpg",
+       "id": 1524,
+       "lyrics_owner_id": 7,
+       "lyrics_state": "complete",
+       "path": "/Lil-wayne-lollipop-lyrics",
+       "pyongs_count": 46,
+       "song_art_image_thumbnail_url": "https://images.genius.com/2f804c15768aacef44222931411e4779.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/2f804c15768aacef44222931411e4779.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 424591
+       },
+       "title": "Lollipop",
+       "title_with_featured": "Lollipop (Ft.\u00a0Static\u00a0Major)",
+       "url": "https://genius.com/Lil-wayne-lollipop-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/4",
+        "header_image_url": "https://images.genius.com/0cc2fdca3461d34878a59e3791b35e7b.500x278x13.gif",
+        "id": 4,
+        "image_url": "https://images.genius.com/b42bde67bc461dd55a00b577f33673bb.745x745x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Lil Wayne",
+        "url": "https://genius.com/artists/Lil-wayne",
+        "iq": 4066
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": [
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/3991671",
+       "full_title": "Left To Right by\u00a0Lupe\u00a0Fiasco",
+       "header_image_thumbnail_url": "https://images.genius.com/d3f275e0801f5a00b53a9a27e6c26558.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/d3f275e0801f5a00b53a9a27e6c26558.1000x564x1.jpg",
+       "id": 3991671,
+       "lyrics_owner_id": 88410,
+       "lyrics_state": "complete",
+       "path": "/Lupe-fiasco-left-to-right-lyrics",
+       "pyongs_count": 5,
+       "song_art_image_thumbnail_url": "https://images.genius.com/d3f275e0801f5a00b53a9a27e6c26558.300x169x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d3f275e0801f5a00b53a9a27e6c26558.1000x564x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Left To Right",
+       "title_with_featured": "Left To Right",
+       "url": "https://genius.com/Lupe-fiasco-left-to-right-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/147",
+        "header_image_url": "https://images.genius.com/59f14535353c7f9ba11a29c3143ad450.580x386x1.jpg",
+        "id": 147,
+        "image_url": "https://images.genius.com/b67b7f5bfbd7eb8c5c334fa8b05a2432.400x400x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Lupe Fiasco",
+        "url": "https://genius.com/artists/Lupe-fiasco",
+        "iq": 1609
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": [
+      {
+       "annotation_count": 11,
+       "api_path": "/songs/4866102",
+       "full_title": "Mona Lisa (Demo) by\u00a0Lil\u00a0Wayne (Ft.\u00a0Kendrick\u00a0Lamar)",
+       "header_image_thumbnail_url": "https://images.genius.com/393331d8cb04d4fa610bfd6df7df1c38.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/393331d8cb04d4fa610bfd6df7df1c38.550x550x1.jpg",
+       "id": 4866102,
+       "lyrics_owner_id": 2962216,
+       "lyrics_state": "complete",
+       "path": "/Lil-wayne-mona-lisa-demo-lyrics",
+       "pyongs_count": 3,
+       "song_art_image_thumbnail_url": "https://images.genius.com/393331d8cb04d4fa610bfd6df7df1c38.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/393331d8cb04d4fa610bfd6df7df1c38.550x550x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Mona Lisa (Demo)",
+       "title_with_featured": "Mona Lisa (Demo) (Ft.\u00a0Kendrick\u00a0Lamar)",
+       "url": "https://genius.com/Lil-wayne-mona-lisa-demo-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/4",
+        "header_image_url": "https://images.genius.com/0cc2fdca3461d34878a59e3791b35e7b.500x278x13.gif",
+        "id": 4,
+        "image_url": "https://images.genius.com/b42bde67bc461dd55a00b577f33673bb.745x745x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Lil Wayne",
+        "url": "https://genius.com/artists/Lil-wayne",
+        "iq": 4066
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 30,
+       "api_path": "/songs/4108952",
+       "full_title": "BLACKOUT by\u00a0Valid\u00a0The Vulgar",
+       "header_image_thumbnail_url": "https://mail.google.com/mail/u/1?ui=2&ik=d4923f5ddf&attid=0.1&permmsgid=msg-a:r4740165153306437111&th=167bb59057885ce4&view=att&disp=safe&realattid=f_jps2sq850",
+       "header_image_url": "https://mail.google.com/mail/u/1?ui=2&ik=d4923f5ddf&attid=0.1&permmsgid=msg-a:r4740165153306437111&th=167bb59057885ce4&view=att&disp=safe&realattid=f_jps2sq850",
+       "id": 4108952,
+       "lyrics_owner_id": 7419252,
+       "lyrics_state": "complete",
+       "path": "/Valid-the-vulgar-blackout-lyrics",
+       "pyongs_count": 2,
+       "song_art_image_thumbnail_url": "https://mail.google.com/mail/u/1?ui=2&ik=d4923f5ddf&attid=0.1&permmsgid=msg-a:r4740165153306437111&th=167bb59057885ce4&view=att&disp=safe&realattid=f_jps2sq850",
+       "song_art_image_url": "https://mail.google.com/mail/u/1?ui=2&ik=d4923f5ddf&attid=0.1&permmsgid=msg-a:r4740165153306437111&th=167bb59057885ce4&view=att&disp=safe&realattid=f_jps2sq850",
+       "stats": {
+        "unreviewed_annotations": 30,
+        "hot": false
+       },
+       "title": "BLACKOUT",
+       "title_with_featured": "BLACKOUT",
+       "url": "https://genius.com/Valid-the-vulgar-blackout-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1645905",
+        "header_image_url": "https://images.genius.com/f91cbcbc36d377fda7cfb31bb8670fc7.750x422x1.jpg",
+        "id": 1645905,
+        "image_url": "https://images.genius.com/37f66f8a5714a4ed008bd82f01d8a282.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Valid The Vulgar",
+        "url": "https://genius.com/artists/Valid-the-vulgar"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "answers"
+     ],
+     "artist": {
+      "api_path": "/artists/195546",
+      "header_image_url": "https://images.genius.com/8a69bdbdea3d17ce7f90099dc32bc46b.145x145x1.png",
+      "id": 195546,
+      "image_url": "https://images.genius.com/8a69bdbdea3d17ce7f90099dc32bc46b.145x145x1.png",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Infamous",
+      "url": "https://genius.com/artists/Infamous",
+      "iq": 100
+     },
+     "user": {
+      "api_path": "/users/1655912",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/4a32aa7421321c5b968d49fd6db391e5",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/4a32aa7421321c5b968d49fd6db391e5",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/4a32aa7421321c5b968d49fd6db391e5",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/4a32aa7421321c5b968d49fd6db391e5",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/avatars/medium/4a32aa7421321c5b968d49fd6db391e5",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 1655912,
+      "iq": 100,
+      "login": "IAmInfamous",
+      "name": "Infamous",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/IAmInfamous",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/27681",
+     "header_image_url": "https://images.genius.com/43b4d927274de93a1302c16efaaf439d.313x313x1.png",
+     "id": 27681,
+     "image_url": "https://images.genius.com/43b4d927274de93a1302c16efaaf439d.313x313x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ONHEL",
+     "url": "https://genius.com/artists/Onhel"
+    },
+    {
+     "api_path": "/artists/195546",
+     "header_image_url": "https://images.genius.com/8a69bdbdea3d17ce7f90099dc32bc46b.145x145x1.png",
+     "id": 195546,
+     "image_url": "https://images.genius.com/8a69bdbdea3d17ce7f90099dc32bc46b.145x145x1.png",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Infamous",
+     "url": "https://genius.com/artists/Infamous",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/1421",
+     "header_image_url": "https://images.genius.com/f3a1149475f2406582e3531041680a3c.1000x800x1.jpg",
+     "id": 1421,
+     "image_url": "https://images.genius.com/25d8a9c93ab97e9e6d5d1d9d36e64a53.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Kendrick Lamar",
+     "url": "https://genius.com/artists/Kendrick-lamar",
+     "iq": 42928
+    },
+    {
+     "api_path": "/artists/4",
+     "header_image_url": "https://images.genius.com/0cc2fdca3461d34878a59e3791b35e7b.500x278x13.gif",
+     "id": 4,
+     "image_url": "https://images.genius.com/b42bde67bc461dd55a00b577f33673bb.745x745x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Lil Wayne",
+     "url": "https://genius.com/artists/Lil-wayne",
+     "iq": 4066
+    }
+   ],
+   "lyrics": "[Intro: Kendrick Lamar]\nI got a story to tell, you know that I cherish thee\nHope it ain't too many feelings involved\n\n[Chorus: Lil Wayne]\nI see niggas in this bitch\nStuntin', poppin' bottles\nGettin' drunk with these bitches\nAnd when they leave they get followed\nFall asleep with that bitch\nAnd really don't know much about her\nThen she let us in, we take all of your shit\nAnd when you wake up, she help you try to find it, I love it\n\n[Verse 1: Lil Wayne]\nI be with bitches that be with bitches\nThat be with niggas with riches\nI tell her, \"Get him,\" she say, \"I got you\"\nI say, \"No, bitch, I said get him\"\nAnd they so pretty, and they hair lengthy\nHe hit it and sleep on her titties\nThen she give us the word, we come through with AKs\nIt's a stick-up, she scream like a victim\nNow you feelin' so silly\nI smoke color purple, I'm up in here feelin' like Celie (Ooh)\nNappy-ass dreads, what's that you say?\nWatch your mouth, Milli Vanilli (Ooh)\nYou can get snaked, you can get faked\nOut by the bitch that you feelin'\n'Cause you thought that she was an angel\nThat bitch ain't no angel, I treat her halo like a frisbee\nAnd you tellin' your business, she tell me your business\nYou tell that bitch what you feelin'\nAll of the beans you be spillin'\nTo you, she lie through her teeth cavities, fillin's\nShe know where you hide it tell me where it's hidden\nShe know when you're gone, tell me when to visit\nWe break in your home and take the specifics\nAnd meanwhile, the bitch is on vacation with him\nSo she don't get blamed, we don't snatch chains\nWe find out addresses, and we don't leave messes\nYou'll only know that it's gone when you check it\nThen your first thought is to start second guessin'\nShe say, \"What's wrong?\" He say, \"Nothin', keep restin'\"\nShe say, \"What's missin'?\", \"How you know somethin' missin'?\"\nHe scratch his head, she say, \"Get back in bed\"\nAnd she gave him some head\nBoy, you can't trust them bitches, and then she say\u2014ooh\n\n[Chorus: Lil Wayne]\nI see niggas in this bitch\nStuntin', poppin' bottles\nGettin' drunk with these bitches\nThen when they leave they get followed\nI be with bitches that know the bitches\nThat's with the niggas we followin'\nGet them on the line, stay two cars behind\nAnd tell them hoes, \"Don't be so obvious!\"\nMona Lisa, long hair, don't care\nShe handle the business and don't ever tell\nShe bite the bullet and cough up the shells\nShe tell 'em, \"Ooh, daddy, let's go to your place!\"\nAnd if he say yeah, then we meet him there\nShe feed him lies with his silverware\nShe don't want love, she just want her share\n\n[Verse 2: Lil Wayne]\nI know a bitch named Liz\nThis nigga think she his 'cause she tell him that it is\nSo he tell her all his secrets, he tell her all his fears\nAnd then she tell me and I be all ears\nAnd then I go and tell my people and they already know him\nAnd then I call Liz and she say he comin' over\nI say, \"Good girl, just remember what I told ya\"\nShe gave me the salute, I say, \"Girl, you're a soldier\"\nWe're waitin' outside, watch him pull up\nWalk up to the door and right before he knock\nShe open the door naked, she left it unlocked\nThey started French kissin' so he didn't see moi\nAnd then she let him in, they stopped on the couch\nMusic up loud with his head in the clouds\nTurn that shit down and I scared the piss out of him\nPiss a nigga off, put a gun to his frown\nNigga, turn around, I ain't here to fuck around\nI ain't here to fuck around, caught you wit' your pants down\nYou know what it is, put your fuckin' hands up\nLiz, that's enough, you can put your hands down\nAnd then he looked dead at her and he shook his head at her\nShe a good actress and you a dead actor\nYou'll be dead after we get what we're after\nIf Liz call you daddy, she about to be a bastard, oh\nI got way too many bitches that do anything for me, nigga\nBut think for me, nigga\nSend her to you like she ain't for me, nigga\nI hope you alone like bankruptcy, nigga\nShe pour you a drink, that drank on me, nigga\nShe slip somethin' in it, now faint for me, nigga\nMona Lisa, I done painted the picture\nMo-Mona Lisa, out the frame on these niggas\nPussy got you out of character, nigga\nYou fall for these hoes off your ladder, my nigga\nTake everythin' that you have 'til you don't even have an opinion\nWe have your attention\nAnd now you're lookin' down a barrel though, nigga\nNow she lookin' for her pantyhose, nigga\nWe just lookin' for the casserole, nigga\nBut she gon' show us where you stash it though, nigga (Mona)\n\n[Verse 3: Kendrick Lamar]\nAh, every day she wake up with a different color makeup\nAnd a promise he gone take her to the movie and the mall\nChillin' with the Laker, on the floor, fourth quarter\nFour minute on the clock, Black Mamba with the ball\nPaparazzi lookin' at 'em both poppin' up and take a picture, uh\nProbably on a Internet blog\nIn a minute, he gon' be admittin' that he love her on his mother\nMan, he want to meet her mother by tomorrow\nMona Lisa\nPussy good enough, it got him sinnin' in the walls\nAnd he diggin' in it like he livin' in it\nMake a new religion with it, man a nigga 'bout to go against God\nPoetry in a pear tree\nSweet tone like a hummingbird when she asked him\nDid he want to make love in a yellow taxi\nNever gave two fucks, jumped in the backseat\nWoke up in the mornin' to The Great Gatsby\nThen he dogged it again like the bitch Lassie\nI'm a dog in the wind, I'm a pit laughin'\nI'ma call up again like I did last week\nMake good with the friend and I'm all jazzy\nBritney with the twin and the girl Ashley\nFound out that I fucked, he was unhappy\nBitch, I never let the bullshit get past me\nBetter yet, I wanna break up, don't you ask me\n'Bout a motherfuckin' double standard, actin'\nFuckin' on another nigga, that's a negative alone\nBut you sucked his dick? That's just nasty\nMatter of fact, bitch, gimme your phone! (No!)\nYou fuckin' with Wayne's? (No!)\nBitch, gimme your phone! (No!)\nLet me, let me take this call real quick\n(\u2026 lick me like a lollipop) He on your fuckin' ringtone?\nIs that the shit that you do? [sniffing]\nTouchin' yourself, lookin' at Kendrick videos\nJump on the internet, watchin' his interviews\nI don't know what the fuck lately got into you\nTell me who love you, I bet I love harder\nForgot all the shit that I did for your daughter?\nThe Pampers, the Pedialyte and my momma\nDaycare after school and she never did charge ya\nYou scandalous as fuck and I hope you blow up\nYou know what? I give up, let me go get my gun\nI got one in the chamber I'm plannin' on aimin'\nGoddammit, you know that the damage is done\nBitch I'm emotional 'cause I'm in stress\nI'm not supposed to go through this, I guess\nSo in conclusion, since you like rappers that's killin' that pussy\nI'm killin' myself\n\n[Outro: Lil Wayne]\nShe say, ooh, Daddy, ooh, Mona Lisa, Mona Lisa\nOoh, fake smile, Mona Lisa, Mona Lisa\nShe say, ooh, no emotion, Mona Lisa, Mona Lisa\nNow he get the picture, Mona Lisa, Mona Lisa, yeah"
+  }
+ ]
+}

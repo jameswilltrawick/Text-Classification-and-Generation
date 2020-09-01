@@ -1,0 +1,1347 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/224456",
+ "description": {
+  "plain": "An American country singer from Michigan who has released three studio albums: Frankie Ballard (2011), Sunshine & Whiskey (2014), and El Rio (2016)."
+ },
+ "facebook_name": null,
+ "followers_count": 6,
+ "header_image_url": "https://images.genius.com/ba4ea19ef2c6e5e8fece4f923e56e471.435x435x1.jpg",
+ "id": 224456,
+ "image_url": "https://images.genius.com/ba4ea19ef2c6e5e8fece4f923e56e471.435x435x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Frankie Ballard",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Frankie-ballard",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 2349910,
+  "annotator_login": "Xissoric",
+  "api_path": "/referents/7036853",
+  "classification": "accepted",
+  "fragment": "Frankie Ballard",
+  "id": 7036853,
+  "is_description": true,
+  "path": "/7036853/Frankie-ballard/Frankie-ballard",
+  "range": {
+   "content": "Frankie Ballard"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7036853/Frankie-ballard/Frankie-ballard",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/224456",
+   "context": null,
+   "id": 224456,
+   "image_url": "https://images.genius.com/ba4ea19ef2c6e5e8fece4f923e56e471.435x435x1.jpg",
+   "link_title": "Frankie Ballard",
+   "title": "Frankie Ballard",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Frankie-ballard"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7036853",
+    "body": {
+     "plain": "An American country singer from Michigan who has released three studio albums: Frankie Ballard (2011), Sunshine & Whiskey (2014), and El Rio (2016)."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 7036853,
+    "pinned": false,
+    "share_url": "https://genius.com/7036853",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/7036853/Frankie-ballard/Frankie-ballard",
+    "verified": false,
+    "votes_total": 1,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2349910",
+       "avatar": {
+        "tiny": {
+         "url": "https://i.genius.com/5eacdb41c17ed8ca3f37df61a6b7a1807c470d4f?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FL64WcaBSviaLLvCAuZCC%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://i.genius.com/5eacdb41c17ed8ca3f37df61a6b7a1807c470d4f?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FL64WcaBSviaLLvCAuZCC%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://i.genius.com/5eacdb41c17ed8ca3f37df61a6b7a1807c470d4f?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FL64WcaBSviaLLvCAuZCC%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://i.genius.com/5eacdb41c17ed8ca3f37df61a6b7a1807c470d4f?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FL64WcaBSviaLLvCAuZCC%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/v83qemuuiv",
+       "human_readable_role_for_display": "Contributor",
+       "id": 2349910,
+       "iq": 37989,
+       "login": "Xissoric",
+       "name": "Xissoric",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Xissoric",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 9,
+   "api_path": "/songs/510949",
+   "apple_music_id": "792892086",
+   "apple_music_player_url": "https://genius.com/songs/510949/apple_music_player",
+   "description": {
+    "plain": "Sunshine & Whiskey is the second studio album by American country music artist Frankie Ballard. It was released on February 11, 2014 via Warner Bros. Records. The album includes Ballard\u2019s debut single \u201cTell Me You Get Lonely\u201d and \u201cHelluva Life,\u201d which became Ballard\u2019s first number one hit.\n\n(Reference: Wikipedia)"
+   },
+   "embed_content": "<div id='rg_embed_link_510949' class='rg_embed_link' data-song-id='510949'>Read <a href='https://genius.com/Frankie-ballard-sunshine-and-whiskey-lyrics'>\u201cSunshine & Whiskey\u201d by Frankie\u00a0Ballard</a> on Genius</div> <script crossorigin src='//genius.com/songs/510949/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Sunshine & Whiskey by\u00a0Frankie\u00a0Ballard",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/5aa491a4495c358af952550353b877ba.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/5aa491a4495c358af952550353b877ba.1000x1000x1.jpg",
+   "id": 510949,
+   "lyrics_owner_id": 272373,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Frankie-ballard-sunshine-and-whiskey-lyrics",
+   "pyongs_count": 6,
+   "recording_location": null,
+   "release_date": "2014-04-14",
+   "release_date_for_display": "April 14, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/5c98b857f41d68c778de96b9b0d121b8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/5c98b857f41d68c778de96b9b0d121b8.750x750x1.jpg",
+   "stats": {
+    "accepted_annotations": 4,
+    "contributors": 15,
+    "iq_earners": 14,
+    "transcribers": 2,
+    "unreviewed_annotations": 5,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 6132
+   },
+   "title": "Sunshine & Whiskey",
+   "title_with_featured": "Sunshine & Whiskey",
+   "url": "https://genius.com/Frankie-ballard-sunshine-and-whiskey-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/114940",
+    "cover_art_url": "https://images.genius.com/386991265a7cda3d2d57fdadd33c1983.640x640x1.jpg",
+    "full_title": "Sunshine & Whiskey by Frankie Ballard",
+    "id": 114940,
+    "name": "Sunshine & Whiskey",
+    "url": "https://genius.com/albums/Frankie-ballard/Sunshine-whiskey",
+    "artist": {
+     "api_path": "/artists/224456",
+     "header_image_url": "https://images.genius.com/ba4ea19ef2c6e5e8fece4f923e56e471.435x435x1.jpg",
+     "id": 224456,
+     "image_url": "https://images.genius.com/ba4ea19ef2c6e5e8fece4f923e56e471.435x435x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Frankie Ballard",
+     "url": "https://genius.com/artists/Frankie-ballard"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1112276",
+       "header_image_url": "https://images.genius.com/159917d9c26b9cfe66c0b04493a1f05a.900x900x1.png",
+       "id": 1112276,
+       "image_url": "https://images.genius.com/340e19086e9ebeae265e6e4947b0ffcb.900x900x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner Music Group",
+       "url": "https://genius.com/artists/Warner-music-group"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1618598,
+    "annotator_login": "PsionicMusicGenius",
+    "api_path": "/referents/14246860",
+    "classification": "unreviewed",
+    "fragment": "Sunshine & Whiskey",
+    "id": 14246860,
+    "is_description": true,
+    "path": "/14246860/Frankie-ballard-sunshine-and-whiskey/Sunshine-and-whiskey",
+    "range": {
+     "content": "Sunshine & Whiskey"
+    },
+    "song_id": 510949,
+    "url": "https://genius.com/14246860/Frankie-ballard-sunshine-and-whiskey/Sunshine-and-whiskey",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/510949",
+     "client_timestamps": {
+      "updated_by_human_at": 1581555831,
+      "lyrics_updated_at": 1577252637
+     },
+     "context": "Frankie Ballard",
+     "id": 510949,
+     "image_url": "https://images.genius.com/5c98b857f41d68c778de96b9b0d121b8.750x750x1.jpg",
+     "link_title": "Sunshine & Whiskey by\u00a0Frankie\u00a0Ballard",
+     "title": "Sunshine & Whiskey",
+     "type": "Song",
+     "url": "https://genius.com/Frankie-ballard-sunshine-and-whiskey-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14246860",
+      "body": {
+       "plain": "Sunshine & Whiskey is the second studio album by American country music artist Frankie Ballard. It was released on February 11, 2014 via Warner Bros. Records. The album includes Ballard\u2019s debut single \u201cTell Me You Get Lonely\u201d and \u201cHelluva Life,\u201d which became Ballard\u2019s first number one hit.\n\n(Reference: Wikipedia)"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14246860,
+      "pinned": false,
+      "share_url": "https://genius.com/14246860",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/14246860/Frankie-ballard-sunshine-and-whiskey/Sunshine-and-whiskey",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1618598",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/r726k5p33m",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/r726k5p33m",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/r726k5p33m",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/r726k5p33m",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/o9se5c5z51a",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1618598,
+         "iq": 554,
+         "login": "PsionicMusicGenius",
+         "name": "PsionicMusicGenius",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/PsionicMusicGenius",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:6aNwDe5YH5YUPlpHkku52w",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/6aNwDe5YH5YUPlpHkku52w"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=_MckE13kvX4"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/224456",
+    "header_image_url": "https://images.genius.com/ba4ea19ef2c6e5e8fece4f923e56e471.435x435x1.jpg",
+    "id": 224456,
+    "image_url": "https://images.genius.com/ba4ea19ef2c6e5e8fece4f923e56e471.435x435x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Frankie Ballard",
+    "url": "https://genius.com/artists/Frankie-ballard"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/131279",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "id": 131279,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marshall Altman",
+     "url": "https://genius.com/artists/Marshall-altman"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/511393",
+     "header_image_url": "https://images.genius.com/dfa9bcc8ad5e64f859db8858342dfbe7.190x190x1.png",
+     "id": 511393,
+     "image_url": "https://images.genius.com/dfa9bcc8ad5e64f859db8858342dfbe7.190x190x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jaren Johnston",
+     "url": "https://genius.com/artists/Jaren-johnston"
+    },
+    {
+     "api_path": "/artists/66352",
+     "header_image_url": "https://images.genius.com/d657ede13e8f9b47c5100d712f8b0cf0.400x400x1.jpg",
+     "id": 66352,
+     "image_url": "https://images.genius.com/d657ede13e8f9b47c5100d712f8b0cf0.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Luke Laird",
+     "url": "https://genius.com/artists/Luke-laird"
+    }
+   ],
+   "lyrics": "Every time you kiss me it's like sunshine and whiskey\n\n[Verse 1]\nChilling on a beach with my sweet Georgia peach\nNot a care in the world, just trying to beat the heat\nBody like an hourglass, sand on her feet\nI can't help but stare cause I got the best seat\nJust when I thought it couldn't get any hotter you slid on in\nSaid, \"I'm a little hot and bothered, if you know what I mean\nLet's crank it up to a hundred degrees\"\n\n[Refrain]\nYou hit me like fire, shot me like a bullet\nBurned me up and down, no way to cool it\nBut every time you kiss me it's like sunshine and whiskey\nLike a bottle of Jack straight to the head\nOne shot, two shot, Coppertone red\nEvery time you kiss me it's like sunshine and whiskey\n\n[Verse 2]\nI was slow driving south with the top drop down\nHer hair in the wind, Tom Petty up loud\nYou gave me that look, you licked them lips\nI said, \"Hang on baby, better pull over for this\"\nI don't wanna get DWK, driving while kissing they'll put you away\n\n[Refrain]\nYou hit me like fire, shot me like a bullet\nBurned me up and down, no way to cool it\nBut every time you kiss me it's like sunshine and whiskey\nIt's like a bottle of Jack straight to the head\nOne shot, two shot, Coppertone red\nEvery time you kiss me it's like sunshine and whiskey\nEvery time you kiss me it's like sunshine and whiskey\nEvery time you kiss me it's like sunshine and whiskey"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2515526",
+   "apple_music_id": "1104511566",
+   "apple_music_player_url": "https://genius.com/songs/2515526/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2515526' class='rg_embed_link' data-song-id='2515526'>Read <a href='https://genius.com/Frankie-ballard-youll-accompny-me-lyrics'>\u201cYou'll Accomp'ny Me\u201d by Frankie\u00a0Ballard</a> on Genius</div> <script crossorigin src='//genius.com/songs/2515526/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "You'll Accomp'ny Me by\u00a0Frankie\u00a0Ballard",
+   "header_image_thumbnail_url": "https://images.genius.com/5ff4b348a65378e939b6b1eb4fceb032.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/5ff4b348a65378e939b6b1eb4fceb032.960x960x1.jpg",
+   "id": 2515526,
+   "lyrics_owner_id": 1581363,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Frankie-ballard-youll-accompny-me-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2016-06-10",
+   "release_date_for_display": "June 10, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/dd8c0211f32ad0387cf93fb1eda83c27.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/dd8c0211f32ad0387cf93fb1eda83c27.980x980x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "You\u2019ll Accomp\u2019ny Me",
+   "title_with_featured": "You'll Accomp'ny Me",
+   "url": "https://genius.com/Frankie-ballard-youll-accompny-me-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/149439",
+    "cover_art_url": "https://images.genius.com/bba27571eea814c55b6adf482183e8b5.1000x1000x1.jpg",
+    "full_title": "El Rio by Frankie Ballard",
+    "id": 149439,
+    "name": "El Rio",
+    "url": "https://genius.com/albums/Frankie-ballard/El-rio",
+    "artist": {
+     "api_path": "/artists/224456",
+     "header_image_url": "https://images.genius.com/ba4ea19ef2c6e5e8fece4f923e56e471.435x435x1.jpg",
+     "id": 224456,
+     "image_url": "https://images.genius.com/ba4ea19ef2c6e5e8fece4f923e56e471.435x435x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Frankie Ballard",
+     "url": "https://genius.com/artists/Frankie-ballard"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1112276",
+       "header_image_url": "https://images.genius.com/159917d9c26b9cfe66c0b04493a1f05a.900x900x1.png",
+       "id": 1112276,
+       "image_url": "https://images.genius.com/340e19086e9ebeae265e6e4947b0ffcb.900x900x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner Music Group",
+       "url": "https://genius.com/artists/Warner-music-group"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2937273,
+    "annotator_login": "geniusbot",
+    "api_path": "/referents/11820439",
+    "classification": "needs_exegesis",
+    "fragment": "You\u2019ll Accomp\u2019ny Me",
+    "id": 11820439,
+    "is_description": true,
+    "path": "/11820439/Frankie-ballard-youll-accompny-me/Youll-accompny-me",
+    "range": {
+     "content": "You'll Accomp'ny Me"
+    },
+    "song_id": 2515526,
+    "url": "https://genius.com/11820439/Frankie-ballard-youll-accompny-me/Youll-accompny-me",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2515526",
+     "client_timestamps": {
+      "updated_by_human_at": 1581555696,
+      "lyrics_updated_at": 1465913845
+     },
+     "context": "Frankie Ballard",
+     "id": 2515526,
+     "image_url": "https://images.genius.com/dd8c0211f32ad0387cf93fb1eda83c27.980x980x1.jpg",
+     "link_title": "You\u2019ll Accomp\u2019ny Me by\u00a0Frankie\u00a0Ballard",
+     "title": "You'll Accomp'ny Me",
+     "type": "Song",
+     "url": "https://genius.com/Frankie-ballard-youll-accompny-me-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11820439",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11820439,
+      "pinned": false,
+      "share_url": "https://genius.com/11820439",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11820439/Frankie-ballard-youll-accompny-me/Youll-accompny-me",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2937273",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/d8178e34dd5f45daf6e9cb62f8e3b996",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/d8178e34dd5f45daf6e9cb62f8e3b996",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/d8178e34dd5f45daf6e9cb62f8e3b996",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/d8178e34dd5f45daf6e9cb62f8e3b996",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/d8178e34dd5f45daf6e9cb62f8e3b996",
+         "human_readable_role_for_display": "Staff",
+         "id": 2937273,
+         "iq": 0,
+         "login": "geniusbot",
+         "name": "geniusbot",
+         "role_for_display": "staff",
+         "url": "https://genius.com/geniusbot",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=N-K1OME7f_4"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/224456",
+    "header_image_url": "https://images.genius.com/ba4ea19ef2c6e5e8fece4f923e56e471.435x435x1.jpg",
+    "id": 224456,
+    "image_url": "https://images.genius.com/ba4ea19ef2c6e5e8fece4f923e56e471.435x435x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Frankie Ballard",
+    "url": "https://genius.com/artists/Frankie-ballard"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/131279",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "id": 131279,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marshall Altman",
+     "url": "https://genius.com/artists/Marshall-altman"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/1157081",
+       "full_title": "You'll Accomp'ny Me by\u00a0Bob\u00a0Seger (Ft.\u00a0The\u00a0Silver Bullet Band)",
+       "header_image_thumbnail_url": "https://images.genius.com/543b375a3e485c8263621b0bd29b5281.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/543b375a3e485c8263621b0bd29b5281.600x600x1.jpg",
+       "id": 1157081,
+       "lyrics_owner_id": 5288406,
+       "lyrics_state": "complete",
+       "path": "/Bob-seger-youll-accompny-me-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/543b375a3e485c8263621b0bd29b5281.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/543b375a3e485c8263621b0bd29b5281.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 37355
+       },
+       "title": "You\u2019ll Accomp\u2019ny Me",
+       "title_with_featured": "You'll Accomp'ny Me (Ft.\u00a0The\u00a0Silver Bullet Band)",
+       "url": "https://genius.com/Bob-seger-youll-accompny-me-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/38157",
+        "header_image_url": "https://images.genius.com/cc89ccba278fa11a5e8f586da9673617.1000x602x1.jpg",
+        "id": 38157,
+        "image_url": "https://images.genius.com/b34f514b4ad2cb7d0a92a7502a262ee1.420x420x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Bob Seger",
+        "url": "https://genius.com/artists/Bob-seger"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/38157",
+     "header_image_url": "https://images.genius.com/cc89ccba278fa11a5e8f586da9673617.1000x602x1.jpg",
+     "id": 38157,
+     "image_url": "https://images.genius.com/b34f514b4ad2cb7d0a92a7502a262ee1.420x420x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bob Seger",
+     "url": "https://genius.com/artists/Bob-seger"
+    }
+   ],
+   "lyrics": "A gypsy wind is blowing warm tonight\nThe sky is starlit and the time is right\nStill you're telling me you have to go\nBefore you leave there's\nSomething you should know\nYeah, something you should know baby\n\nI've seen you smiling in the summer sun\nI've seen your long hair flying when you run\nI've made my mind up that it's meant to be\nSomeday baby you'll accomp'ny me\n\nSomeday baby you'll accomp'ny me\nWhere the rivers meet the sound and sea\nYou're high above me now\nYou're wild and free\nOh yeah, someday baby you accomp'ny me\nSomeday baby you'll accomp'ny me\n\nOoo-ooo\nSome people say that love's a losing game\nYou start with fire but you lose the flame\nThe ashes smolder but the wants so gone\nYou end up cold and lonely on your own\nI'll take the chances babe, I'll risk it all\nTo win your love or I'll take the fall\nI've made my mind up girl it's meant to be\nSomeday baby you'll accomp'ny me, yeah\n\nSomeday baby you'll accomp'ny me\nIt's written down somewhere it's got to be\nYou're high above me now you're wild and free\nSomeday baby you'll accomp'ny me\nSomeday baby you'll accomp'ny me\nYou'll accomp'ny me\nYeah, yeah\n\nA gypsy wind is blowing warm tonight\nThe sky is starlit and the time is right\nBut still you're telling me you have to go\nBefore you leave there's\nSomething you should know\n\nSomeday baby you'll accomp'ny me\nWhere the rivers meet the sound and sea\nI feel it in my soul it's meant to be, oh\nSomeday baby you'll accomp'ny me\nYeah, someday baby you'll accomp'ny me\nIt's written down somewhere it's got to be\nYou're high above me now you're wild and free\nSomeday baby you'll accomp'ny me\nOh, someday baby you'll accomp'ny me\nYou'll accomp'ny me, yeah\n\nSomeday baby (someday baby)\nYou'll accomp'ny me\n(You will accomp'ny me)\nYeah, someday baby\n(Someday baby)\nYou will accomp'ny me\n(You will accomp'ny me)\nYeah, woah, someday baby\n(Someday baby)\nYeah"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/587658",
+   "apple_music_id": "792892085",
+   "apple_music_player_url": "https://genius.com/songs/587658/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_587658' class='rg_embed_link' data-song-id='587658'>Read <a href='https://genius.com/Frankie-ballard-young-and-crazy-lyrics'>\u201cYoung & Crazy\u201d by Frankie\u00a0Ballard</a> on Genius</div> <script crossorigin src='//genius.com/songs/587658/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Young & Crazy by\u00a0Frankie\u00a0Ballard",
+   "header_image_thumbnail_url": "https://images.genius.com/39fd3c8ec66e3b096ebb3a785949da12.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/39fd3c8ec66e3b096ebb3a785949da12.1000x1000x1.jpg",
+   "id": 587658,
+   "lyrics_owner_id": 1278001,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Frankie-ballard-young-and-crazy-lyrics",
+   "pyongs_count": 2,
+   "recording_location": null,
+   "release_date": "2014-02-11",
+   "release_date_for_display": "February 11, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/d858af637c371988861bd5ba22e090ac.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/d858af637c371988861bd5ba22e090ac.980x980x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 5,
+    "iq_earners": 4,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Young & Crazy",
+   "title_with_featured": "Young & Crazy",
+   "url": "https://genius.com/Frankie-ballard-young-and-crazy-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/114940",
+    "cover_art_url": "https://images.genius.com/386991265a7cda3d2d57fdadd33c1983.640x640x1.jpg",
+    "full_title": "Sunshine & Whiskey by Frankie Ballard",
+    "id": 114940,
+    "name": "Sunshine & Whiskey",
+    "url": "https://genius.com/albums/Frankie-ballard/Sunshine-whiskey",
+    "artist": {
+     "api_path": "/artists/224456",
+     "header_image_url": "https://images.genius.com/ba4ea19ef2c6e5e8fece4f923e56e471.435x435x1.jpg",
+     "id": 224456,
+     "image_url": "https://images.genius.com/ba4ea19ef2c6e5e8fece4f923e56e471.435x435x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Frankie Ballard",
+     "url": "https://genius.com/artists/Frankie-ballard"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1112276",
+       "header_image_url": "https://images.genius.com/159917d9c26b9cfe66c0b04493a1f05a.900x900x1.png",
+       "id": 1112276,
+       "image_url": "https://images.genius.com/340e19086e9ebeae265e6e4947b0ffcb.900x900x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner Music Group",
+       "url": "https://genius.com/artists/Warner-music-group"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4733728,
+    "annotator_login": "JJEvans",
+    "api_path": "/referents/14246869",
+    "classification": "needs_exegesis",
+    "fragment": "Young & Crazy",
+    "id": 14246869,
+    "is_description": true,
+    "path": "/14246869/Frankie-ballard-young-and-crazy/Young-and-crazy",
+    "range": {
+     "content": "Young & Crazy"
+    },
+    "song_id": 587658,
+    "url": "https://genius.com/14246869/Frankie-ballard-young-and-crazy/Young-and-crazy",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/587658",
+     "client_timestamps": {
+      "updated_by_human_at": 1581555846,
+      "lyrics_updated_at": 1522906975
+     },
+     "context": "Frankie Ballard",
+     "id": 587658,
+     "image_url": "https://images.genius.com/d858af637c371988861bd5ba22e090ac.980x980x1.jpg",
+     "link_title": "Young & Crazy by\u00a0Frankie\u00a0Ballard",
+     "title": "Young & Crazy",
+     "type": "Song",
+     "url": "https://genius.com/Frankie-ballard-young-and-crazy-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14246869",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14246869,
+      "pinned": false,
+      "share_url": "https://genius.com/14246869",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14246869/Frankie-ballard-young-and-crazy/Young-and-crazy",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4733728",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/fc34b0eced744b7e89dda2ccf2bf804d.480x270x20.gif",
+         "human_readable_role_for_display": "Moderator",
+         "id": 4733728,
+         "iq": 500160,
+         "login": "JJEvans",
+         "name": "Jay Evans",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/JJEvans",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:6ll39ALTlddWWQZLjSFlwM",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/6ll39ALTlddWWQZLjSFlwM"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Ur8ya_M-gxM"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/224456",
+    "header_image_url": "https://images.genius.com/ba4ea19ef2c6e5e8fece4f923e56e471.435x435x1.jpg",
+    "id": 224456,
+    "image_url": "https://images.genius.com/ba4ea19ef2c6e5e8fece4f923e56e471.435x435x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Frankie Ballard",
+    "url": "https://genius.com/artists/Frankie-ballard"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "One day, I'll slow and lay down\nSpend my weekends in a swing out on the wraparound\nOh but these days, I'm on a mission\nTo get these wild oats out of my system\nYeah, I might stay out all night\nI've gotta do a little wrong so I know what's right\n\nI wanna sit out on the porch\nTelling stories 'bout my glory days when I'm pushing eighty\nHow am I ever gonna get to be old and wise\nIf I ain't ever young and crazy?\n\nNow, I might have to kiss no telling how many lips\nBefore I ever really figure out what love is\nGo through some heartbreaks, wake up with headaches\nDon't learn nothing 'til you make a lot of mistakes\nHow will I know where to draw the line\nIf I don't cross it a few hundred times?\n\nI wanna sit out on the porch\nTelling stories 'bout my glory days when I'm pushing eighty\nHow am I ever gonna get to be old and wise\nIf I ain't ever young and crazy?\n\nYeah, I'm gonna stay out all night\nI've gotta do a little wrong so I know what's right\nI've gotta live a lot of life if I'm gonna give good advice\nWhen I'm talking to my grand-babies\nHow am I ever gonna get to be old and wise\nIf I ain't ever young and crazy?\n\nYeah, I wanna sit out on the porch\nTelling stories 'bout my glory days when I'm pushing eighty\nHow am I ever gonna get to be old and wise\nIf I ain't ever young and crazy?\nIf I ain't ever young and crazy?\n\nYoung and crazy\nYoung, young and crazy\nYoung and crazy"
+  }
+ ]
+}

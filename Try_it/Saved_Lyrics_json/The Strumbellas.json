@@ -1,0 +1,1746 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/379348",
+ "description": {
+  "plain": "The Strumbellas were founded in 2008 by head songwriter, vocalist, and guitarist Simon Ward, keyboardist/vocalist David Ritter, lead guitarist Jon Hembrey, violinist Isabel Ritchie, bass player Darryl James, and drummer Jeremy Drury. Invoking names like the Lumineers and Mumford & Sons, the group issued their eponymous debut EP in 2009, followed by a series of high-profile shows and festival gigs. Their first full-length outing, 2013\u2019s My Father and the Hunter, landed a Juno nomination in the Roots & Traditional Album of the Year category, and their Six Shooter Records-issued sophomore long player, We Still Move on Dance Floors, earned a second nomination in the category, as well as their first win. Led by the Billboard Alternative Songs chart-topper \u201cSpirits,\u201d their third LP, Hope, arrived in spring of 2016."
+ },
+ "facebook_name": null,
+ "followers_count": 24,
+ "header_image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+ "id": 379348,
+ "image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "The Strumbellas",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/The-strumbellas",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 701,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 277465,
+  "annotator_login": "Re-G-23",
+  "api_path": "/referents/7096319",
+  "classification": "unreviewed",
+  "fragment": "The Strumbellas",
+  "id": 7096319,
+  "is_description": true,
+  "path": "/7096319/The-strumbellas/The-strumbellas",
+  "range": {
+   "content": "The Strumbellas"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7096319/The-strumbellas/The-strumbellas",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/379348",
+   "context": null,
+   "id": 379348,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1598905858",
+   "link_title": "The Strumbellas",
+   "title": "The Strumbellas",
+   "type": "Artist",
+   "url": "https://genius.com/artists/The-strumbellas"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7096319",
+    "body": {
+     "plain": "The Strumbellas were founded in 2008 by head songwriter, vocalist, and guitarist Simon Ward, keyboardist/vocalist David Ritter, lead guitarist Jon Hembrey, violinist Isabel Ritchie, bass player Darryl James, and drummer Jeremy Drury. Invoking names like the Lumineers and Mumford & Sons, the group issued their eponymous debut EP in 2009, followed by a series of high-profile shows and festival gigs. Their first full-length outing, 2013\u2019s My Father and the Hunter, landed a Juno nomination in the Roots & Traditional Album of the Year category, and their Six Shooter Records-issued sophomore long player, We Still Move on Dance Floors, earned a second nomination in the category, as well as their first win. Led by the Billboard Alternative Songs chart-topper \u201cSpirits,\u201d their third LP, Hope, arrived in spring of 2016."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 7096319,
+    "pinned": false,
+    "share_url": "https://genius.com/7096319",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/7096319/The-strumbellas/The-strumbellas",
+    "verified": false,
+    "votes_total": 3,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/277465",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/129eb349904358f7cb210fb449bda820",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/129eb349904358f7cb210fb449bda820",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/129eb349904358f7cb210fb449bda820",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/129eb349904358f7cb210fb449bda820",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/129eb349904358f7cb210fb449bda820",
+       "human_readable_role_for_display": "Contributor",
+       "id": 277465,
+       "iq": 22706,
+       "login": "Re-G-23",
+       "name": "Re-G-23",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Re-G-23",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/3131844",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.rapgenius.com/avatars/tiny/5b29a148b93cd156b7e73354f9a9912e",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.rapgenius.com/avatars/thumb/5b29a148b93cd156b7e73354f9a9912e",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.rapgenius.com/avatars/small/5b29a148b93cd156b7e73354f9a9912e",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 3131844,
+  "iq": 701,
+  "login": "TheStrumbellas",
+  "name": "The Strumbellas",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/TheStrumbellas",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 11,
+   "api_path": "/songs/2409812",
+   "apple_music_id": "1451008599",
+   "apple_music_player_url": "https://genius.com/songs/2409812/apple_music_player",
+   "description": {
+    "plain": "\u201cSpirits\u201d is the first single off The Strumbellas' first album on Glassnote Records, Hope. Lead singer Simon Ward described the song to Riff You, saying:\n\n\u201cBasically the song is about fighting your inner demons. Trying to change and become a better person in life. I write songs to reflect where I\u2019m at in life, and this song is me saying to the world that I\u2019m doing my absolute best right now to be a good person.\u201d\n\nWard also talked to Billboard about what they want from their goal was for their new album saying, \u201cThe strategy for this record, as opposed to the other records, was that we were really looking for a bigger sound.\u201d"
+   },
+   "embed_content": "<div id='rg_embed_link_2409812' class='rg_embed_link' data-song-id='2409812'>Read <a href='https://genius.com/The-strumbellas-spirits-lyrics'>\u201cSpirits\u201d by The\u00a0Strumbellas</a> on Genius</div> <script crossorigin src='//genius.com/songs/2409812/embed.js'></script>",
+   "fact_track": {
+    "provider": "spotify",
+    "external_url": "https://open.spotify.com/track/0VhDlpezWuAgOnfOCx2fRv",
+    "button_text": "Behind the Lyrics in Spotify",
+    "help_link_text": "What's a Fact Track?",
+    "help_link_url": "https://genius.com/a/genius-and-spotify-together"
+   },
+   "featured_video": false,
+   "full_title": "Spirits by\u00a0The\u00a0Strumbellas",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/9c026bb03280f7e142bdf271065066fb.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/9c026bb03280f7e142bdf271065066fb.591x591x1.jpg",
+   "id": 2409812,
+   "lyrics_owner_id": 104344,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/The-strumbellas-spirits-lyrics",
+   "pyongs_count": 20,
+   "recording_location": null,
+   "release_date": "2015-08-21",
+   "release_date_for_display": "August 21, 2015",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/9c026bb03280f7e142bdf271065066fb.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/9c026bb03280f7e142bdf271065066fb.591x591x1.jpg",
+   "stats": {
+    "accepted_annotations": 4,
+    "contributors": 40,
+    "iq_earners": 40,
+    "transcribers": 1,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 4,
+    "hot": false,
+    "pageviews": 281246
+   },
+   "title": "Spirits",
+   "title_with_featured": "Spirits",
+   "url": "https://genius.com/The-strumbellas-spirits-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "watch_fact_track",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/145859",
+    "cover_art_url": "https://images.genius.com/69ba54859a419c72a793b3890c0319dc.999x999x1.jpg",
+    "full_title": "Hope by The Strumbellas",
+    "id": 145859,
+    "name": "Hope",
+    "url": "https://genius.com/albums/The-strumbellas/Hope",
+    "artist": {
+     "api_path": "/artists/379348",
+     "header_image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+     "id": 379348,
+     "image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "The Strumbellas",
+     "url": "https://genius.com/artists/The-strumbellas",
+     "iq": 701
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/664764",
+       "header_image_url": "https://images.genius.com/fbcfd8ef5f5f966572cd31f8bf7964f9.611x611x1.png",
+       "id": 664764,
+       "image_url": "https://images.genius.com/fbcfd8ef5f5f966572cd31f8bf7964f9.611x611x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Isabel Ritchie",
+       "url": "https://genius.com/artists/Isabel-ritchie"
+      },
+      {
+       "api_path": "/artists/1747358",
+       "header_image_url": "https://images.genius.com/b20d1dda5bda9fc8786b4d2083be27bc.400x400x1.png",
+       "id": 1747358,
+       "image_url": "https://images.genius.com/b20d1dda5bda9fc8786b4d2083be27bc.400x400x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Ritter",
+       "url": "https://genius.com/artists/David-ritter"
+      }
+     ]
+    },
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/1747358",
+       "header_image_url": "https://images.genius.com/b20d1dda5bda9fc8786b4d2083be27bc.400x400x1.png",
+       "id": 1747358,
+       "image_url": "https://images.genius.com/b20d1dda5bda9fc8786b4d2083be27bc.400x400x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Ritter",
+       "url": "https://genius.com/artists/David-ritter"
+      }
+     ]
+    },
+    {
+     "label": "Electric Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/664542",
+       "header_image_url": "https://images.genius.com/fb3cc7bf9ca7eb2ee9dd8150deb08d85.574x574x1.png",
+       "id": 664542,
+       "image_url": "https://images.genius.com/fb3cc7bf9ca7eb2ee9dd8150deb08d85.574x574x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jon Hembrey",
+       "url": "https://genius.com/artists/Jon-hembrey"
+      }
+     ]
+    },
+    {
+     "label": "Violin",
+     "artists": [
+      {
+       "api_path": "/artists/664764",
+       "header_image_url": "https://images.genius.com/fbcfd8ef5f5f966572cd31f8bf7964f9.611x611x1.png",
+       "id": 664764,
+       "image_url": "https://images.genius.com/fbcfd8ef5f5f966572cd31f8bf7964f9.611x611x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Isabel Ritchie",
+       "url": "https://genius.com/artists/Isabel-ritchie"
+      }
+     ]
+    },
+    {
+     "label": "Percussion",
+     "artists": [
+      {
+       "api_path": "/artists/1747358",
+       "header_image_url": "https://images.genius.com/b20d1dda5bda9fc8786b4d2083be27bc.400x400x1.png",
+       "id": 1747358,
+       "image_url": "https://images.genius.com/b20d1dda5bda9fc8786b4d2083be27bc.400x400x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Ritter",
+       "url": "https://genius.com/artists/David-ritter"
+      },
+      {
+       "api_path": "/artists/664541",
+       "header_image_url": "https://images.genius.com/b9b8d7a7516ee340f27d5d32d7036ca8.969x969x1.png",
+       "id": 664541,
+       "image_url": "https://images.genius.com/b9b8d7a7516ee340f27d5d32d7036ca8.969x969x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jeremy Drury",
+       "url": "https://genius.com/artists/Jeremy-drury"
+      }
+     ]
+    },
+    {
+     "label": "Lead Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/634274",
+       "header_image_url": "https://images.genius.com/5645b379cb3d2be6dfc891dbb92046d2.780x439x1.jpg",
+       "id": 634274,
+       "image_url": "https://images.genius.com/fe22ba07ac4154fbb0e7c998b059ebaa.439x439x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Simon Ward",
+       "url": "https://genius.com/artists/Simon-ward"
+      }
+     ]
+    },
+    {
+     "label": "Acoustic Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/634274",
+       "header_image_url": "https://images.genius.com/5645b379cb3d2be6dfc891dbb92046d2.780x439x1.jpg",
+       "id": 634274,
+       "image_url": "https://images.genius.com/fe22ba07ac4154fbb0e7c998b059ebaa.439x439x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Simon Ward",
+       "url": "https://genius.com/artists/Simon-ward"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/664541",
+       "header_image_url": "https://images.genius.com/b9b8d7a7516ee340f27d5d32d7036ca8.969x969x1.png",
+       "id": 664541,
+       "image_url": "https://images.genius.com/b9b8d7a7516ee340f27d5d32d7036ca8.969x969x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jeremy Drury",
+       "url": "https://genius.com/artists/Jeremy-drury"
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/664543",
+       "header_image_url": "https://images.genius.com/b049888bbb4eebd5f47454efdb7b267f.546x546x1.png",
+       "id": 664543,
+       "image_url": "https://images.genius.com/b049888bbb4eebd5f47454efdb7b267f.546x546x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Darryl James",
+       "url": "https://genius.com/artists/Darryl-james"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 325189,
+    "annotator_login": "Incilin",
+    "api_path": "/referents/8544247",
+    "classification": "accepted",
+    "fragment": "Spirits",
+    "id": 8544247,
+    "is_description": true,
+    "path": "/8544247/The-strumbellas-spirits/Spirits",
+    "range": {
+     "content": "Spirits"
+    },
+    "song_id": 2409812,
+    "url": "https://genius.com/8544247/The-strumbellas-spirits/Spirits",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2409812",
+     "client_timestamps": {
+      "updated_by_human_at": 1562440338,
+      "lyrics_updated_at": 1532165404
+     },
+     "context": "The Strumbellas",
+     "id": 2409812,
+     "image_url": "https://images.rapgenius.com/9c026bb03280f7e142bdf271065066fb.591x591x1.jpg",
+     "link_title": "Spirits by\u00a0The\u00a0Strumbellas",
+     "title": "Spirits",
+     "type": "Song",
+     "url": "https://genius.com/The-strumbellas-spirits-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8544247",
+      "body": {
+       "plain": "\u201cSpirits\u201d is the first single off The Strumbellas' first album on Glassnote Records, Hope. Lead singer Simon Ward described the song to Riff You, saying:\n\n\u201cBasically the song is about fighting your inner demons. Trying to change and become a better person in life. I write songs to reflect where I\u2019m at in life, and this song is me saying to the world that I\u2019m doing my absolute best right now to be a good person.\u201d\n\nWard also talked to Billboard about what they want from their goal was for their new album saying, \u201cThe strategy for this record, as opposed to the other records, was that we were really looking for a bigger sound.\u201d"
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 8544247,
+      "pinned": false,
+      "share_url": "https://genius.com/8544247",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/8544247/The-strumbellas-spirits/Spirits",
+      "verified": false,
+      "votes_total": 39,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/325189",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/e4c300054daec5c64f107d687e2b5648",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/e4c300054daec5c64f107d687e2b5648",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/e4c300054daec5c64f107d687e2b5648",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/e4c300054daec5c64f107d687e2b5648",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/e4c300054daec5c64f107d687e2b5648",
+         "human_readable_role_for_display": "Staff",
+         "id": 325189,
+         "iq": 75449,
+         "login": "Incilin",
+         "name": "Insanul Ahmed",
+         "role_for_display": "staff",
+         "url": "https://genius.com/Incilin",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:0VhDlpezWuAgOnfOCx2fRv",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/0VhDlpezWuAgOnfOCx2fRv"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=F9kXstb9FF4"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/379348",
+    "header_image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+    "id": 379348,
+    "image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "The Strumbellas",
+    "url": "https://genius.com/artists/The-strumbellas",
+    "iq": 701
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/189041",
+     "header_image_url": "https://images.genius.com/03ec67f56fb94fded9b12b4db626248d.800x450x1.jpg",
+     "id": 189041,
+     "image_url": "https://images.genius.com/204a16134e443813e93bce80fa5b5cc7.450x450x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Schiffman",
+     "url": "https://genius.com/artists/Dave-schiffman"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1834990",
+       "full_title": "Spirits by\u00a0Nicole\u00a0Milik",
+       "header_image_thumbnail_url": "https://images.genius.com/3dfda93a6b00617bfb98dbd44552c502.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3dfda93a6b00617bfb98dbd44552c502.450x450x1.jpg",
+       "id": 1834990,
+       "lyrics_owner_id": 269182,
+       "lyrics_state": "complete",
+       "path": "/Nicole-milik-spirits-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/3dfda93a6b00617bfb98dbd44552c502.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3dfda93a6b00617bfb98dbd44552c502.450x450x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Spirits",
+       "title_with_featured": "Spirits",
+       "url": "https://genius.com/Nicole-milik-spirits-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/394217",
+        "header_image_url": "https://images.genius.com/af76c3207538b586254be0fe070b0173.600x338x1.jpg",
+        "id": 394217,
+        "image_url": "https://images.genius.com/3dfda93a6b00617bfb98dbd44552c502.450x450x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Nicole Milik",
+        "url": "https://genius.com/artists/Nicole-milik"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/3131844",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.rapgenius.com/avatars/tiny/5b29a148b93cd156b7e73354f9a9912e",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.rapgenius.com/avatars/thumb/5b29a148b93cd156b7e73354f9a9912e",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.rapgenius.com/avatars/small/5b29a148b93cd156b7e73354f9a9912e",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 3131844,
+     "iq": 701,
+     "login": "TheStrumbellas",
+     "name": "The Strumbellas",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/TheStrumbellas",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations"
+     ],
+     "artist": {
+      "api_path": "/artists/379348",
+      "header_image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+      "id": 379348,
+      "image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "The Strumbellas",
+      "url": "https://genius.com/artists/The-strumbellas",
+      "iq": 701
+     },
+     "user": {
+      "api_path": "/users/3131844",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.rapgenius.com/avatars/tiny/5b29a148b93cd156b7e73354f9a9912e",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.rapgenius.com/avatars/thumb/5b29a148b93cd156b7e73354f9a9912e",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.rapgenius.com/avatars/small/5b29a148b93cd156b7e73354f9a9912e",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 3131844,
+      "iq": 701,
+      "login": "TheStrumbellas",
+      "name": "The Strumbellas",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/TheStrumbellas",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/634274",
+     "header_image_url": "https://images.genius.com/5645b379cb3d2be6dfc891dbb92046d2.780x439x1.jpg",
+     "id": 634274,
+     "image_url": "https://images.genius.com/fe22ba07ac4154fbb0e7c998b059ebaa.439x439x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Simon Ward",
+     "url": "https://genius.com/artists/Simon-ward"
+    },
+    {
+     "api_path": "/artists/1747359",
+     "header_image_url": "https://images.genius.com/2071dd215471876e69c44c27bf5cd6bf.267x267x1.png",
+     "id": 1747359,
+     "image_url": "https://images.genius.com/2071dd215471876e69c44c27bf5cd6bf.267x267x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joanne Setterington",
+     "url": "https://genius.com/artists/Joanne-setterington"
+    },
+    {
+     "api_path": "/artists/1747358",
+     "header_image_url": "https://images.genius.com/b20d1dda5bda9fc8786b4d2083be27bc.400x400x1.png",
+     "id": 1747358,
+     "image_url": "https://images.genius.com/b20d1dda5bda9fc8786b4d2083be27bc.400x400x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Ritter",
+     "url": "https://genius.com/artists/David-ritter"
+    },
+    {
+     "api_path": "/artists/664764",
+     "header_image_url": "https://images.genius.com/fbcfd8ef5f5f966572cd31f8bf7964f9.611x611x1.png",
+     "id": 664764,
+     "image_url": "https://images.genius.com/fbcfd8ef5f5f966572cd31f8bf7964f9.611x611x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Isabel Ritchie",
+     "url": "https://genius.com/artists/Isabel-ritchie"
+    },
+    {
+     "api_path": "/artists/1401045",
+     "header_image_url": "https://images.genius.com/18e8c470a0928b402b44511b14d3d65e.585x585x1.png",
+     "id": 1401045,
+     "image_url": "https://images.genius.com/18e8c470a0928b402b44511b14d3d65e.585x585x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brian Pickett",
+     "url": "https://genius.com/artists/Brian-pickett"
+    },
+    {
+     "api_path": "/artists/664543",
+     "header_image_url": "https://images.genius.com/b049888bbb4eebd5f47454efdb7b267f.546x546x1.png",
+     "id": 664543,
+     "image_url": "https://images.genius.com/b049888bbb4eebd5f47454efdb7b267f.546x546x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Darryl James",
+     "url": "https://genius.com/artists/Darryl-james"
+    },
+    {
+     "api_path": "/artists/664542",
+     "header_image_url": "https://images.genius.com/fb3cc7bf9ca7eb2ee9dd8150deb08d85.574x574x1.png",
+     "id": 664542,
+     "image_url": "https://images.genius.com/fb3cc7bf9ca7eb2ee9dd8150deb08d85.574x574x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jon Hembrey",
+     "url": "https://genius.com/artists/Jon-hembrey"
+    },
+    {
+     "api_path": "/artists/664541",
+     "header_image_url": "https://images.genius.com/b9b8d7a7516ee340f27d5d32d7036ca8.969x969x1.png",
+     "id": 664541,
+     "image_url": "https://images.genius.com/b9b8d7a7516ee340f27d5d32d7036ca8.969x969x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jeremy Drury",
+     "url": "https://genius.com/artists/Jeremy-drury"
+    }
+   ],
+   "lyrics": "[Chorus]\nI got guns in my head and they won't go\nSpirits in my head and they won't go\nI got guns in my head and they won't go\nSpirits in my head and they won't\n\n[Verse 1]\nI been looking at the stars tonight\nAnd I think oh, how I miss that bright sun\nI'll be a dreamer 'til the day I die\nBut they say oh, how the good die young\nBut we're all strange\nAnd maybe we don't wanna change\n\n[Chorus]\nI got guns in my head and they won't go\nSpirits in my head and they won't go\nI got guns in my head and they won't go\nSpirits in my head and they won't go\nBut the gun still rattles\nThe gun still rattles, oh\nI got guns in my head and they won't go\nSpirits in my head and they won't go\n\n[Verse 2]\nI spent a lot of nights on the run\nAnd I think oh, like I'm lost and can't be found\nI'm just waiting for my day to come\nAnd I think oh, I don't wanna let you down\n'Cause something inside has changed\nAnd maybe we don't wanna stay the same\n\n[Chorus]\nI got guns in my head and they won't go\nSpirits in my head and they won't go\nI got guns in my head and they won't go\nSpirits in my head and they won't go\nBut the gun still rattles\nThe gun still rattles, oh\nBut the gun still rattles\nThe gun still rattles, oh\n\n[Bridge]\nAnd I don't want a never-ending life\nI just want to be alive while I'm here\nAnd I don't want a never-ending life\nI just want to be alive while I'm here\nAnd I don't want to see another night\nLost inside a lonely life while I'm here\n\n[Chorus]\nI got guns in my head and they won't go\nSpirits in my head and they won't go\nI got guns in my head and they won't go\nSpirits in my head and they won't go\nBut the gun still rattles\nThe gun still rattles, oh\nBut the gun still rattles\nThe gun still rattles, oh"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2462934",
+   "apple_music_id": "1451008602",
+   "apple_music_player_url": "https://genius.com/songs/2462934/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2462934' class='rg_embed_link' data-song-id='2462934'>Read <a href='https://genius.com/The-strumbellas-we-dont-know-lyrics'>\u201cWe Don't Know\u201d by The\u00a0Strumbellas</a> on Genius</div> <script crossorigin src='//genius.com/songs/2462934/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "We Don't Know by\u00a0The\u00a0Strumbellas",
+   "header_image_thumbnail_url": "https://images.genius.com/c38cd47007fff647db8c0922e2d162dc.220x220x1.jpg",
+   "header_image_url": "https://images.genius.com/c38cd47007fff647db8c0922e2d162dc.220x220x1.jpg",
+   "id": 2462934,
+   "lyrics_owner_id": 175962,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/The-strumbellas-we-dont-know-lyrics",
+   "pyongs_count": null,
+   "recording_location": "Lincoln County Social Club",
+   "release_date": "2016-04-22",
+   "release_date_for_display": "April 22, 2016",
+   "song_art_image_thumbnail_url": "https://t2.genius.com/unsafe/220x0/https:%2F%2Fimages.genius.com%2F2a066f7177b913504b5723e4d463e812.600x600x1.jpg",
+   "song_art_image_url": "https://t2.genius.com/unsafe/220x0/https:%2F%2Fimages.genius.com%2F2a066f7177b913504b5723e4d463e812.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 10,
+    "iq_earners": 10,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 21691
+   },
+   "title": "We Don\u2019t Know",
+   "title_with_featured": "We Don't Know",
+   "url": "https://genius.com/The-strumbellas-we-dont-know-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/145859",
+    "cover_art_url": "https://images.genius.com/69ba54859a419c72a793b3890c0319dc.999x999x1.jpg",
+    "full_title": "Hope by The Strumbellas",
+    "id": 145859,
+    "name": "Hope",
+    "url": "https://genius.com/albums/The-strumbellas/Hope",
+    "artist": {
+     "api_path": "/artists/379348",
+     "header_image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+     "id": 379348,
+     "image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "The Strumbellas",
+     "url": "https://genius.com/artists/The-strumbellas",
+     "iq": 701
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/664541",
+       "header_image_url": "https://images.genius.com/b9b8d7a7516ee340f27d5d32d7036ca8.969x969x1.png",
+       "id": 664541,
+       "image_url": "https://images.genius.com/b9b8d7a7516ee340f27d5d32d7036ca8.969x969x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jeremy Drury",
+       "url": "https://genius.com/artists/Jeremy-drury"
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/664543",
+       "header_image_url": "https://images.genius.com/b049888bbb4eebd5f47454efdb7b267f.546x546x1.png",
+       "id": 664543,
+       "image_url": "https://images.genius.com/b049888bbb4eebd5f47454efdb7b267f.546x546x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Darryl James",
+       "url": "https://genius.com/artists/Darryl-james"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 930466,
+    "annotator_login": "MCSMeister",
+    "api_path": "/referents/20194633",
+    "classification": "needs_exegesis",
+    "fragment": "We Don\u2019t Know",
+    "id": 20194633,
+    "is_description": true,
+    "path": "/20194633/The-strumbellas-we-dont-know/We-dont-know",
+    "range": {
+     "content": "We Don't Know"
+    },
+    "song_id": 2462934,
+    "url": "https://genius.com/20194633/The-strumbellas-we-dont-know/We-dont-know",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2462934",
+     "client_timestamps": {
+      "updated_by_human_at": 1594161620,
+      "lyrics_updated_at": 1593122836
+     },
+     "context": "The Strumbellas",
+     "id": 2462934,
+     "image_url": "https://t2.genius.com/unsafe/220x0/https:%2F%2Fimages.genius.com%2F2a066f7177b913504b5723e4d463e812.600x600x1.jpg",
+     "link_title": "We Don\u2019t Know by\u00a0The\u00a0Strumbellas",
+     "title": "We Don't Know",
+     "type": "Song",
+     "url": "https://genius.com/The-strumbellas-we-dont-know-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20194633",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20194633,
+      "pinned": false,
+      "share_url": "https://genius.com/20194633",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20194633/The-strumbellas-we-dont-know/We-dont-know",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/930466",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/9fa6c2fb22fbd3b2e74ab0633abb9730",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/9fa6c2fb22fbd3b2e74ab0633abb9730",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/9fa6c2fb22fbd3b2e74ab0633abb9730",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/9fa6c2fb22fbd3b2e74ab0633abb9730",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/9fa6c2fb22fbd3b2e74ab0633abb9730",
+         "human_readable_role_for_display": "Editor",
+         "id": 930466,
+         "iq": 682097,
+         "login": "MCSMeister",
+         "name": "MCSMeister",
+         "role_for_display": "editor",
+         "url": "https://genius.com/MCSMeister",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=UqDfscH3TQQ"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/379348",
+    "header_image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+    "id": 379348,
+    "image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "The Strumbellas",
+    "url": "https://genius.com/artists/The-strumbellas",
+    "iq": 701
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/189041",
+     "header_image_url": "https://images.genius.com/03ec67f56fb94fded9b12b4db626248d.800x450x1.jpg",
+     "id": 189041,
+     "image_url": "https://images.genius.com/204a16134e443813e93bce80fa5b5cc7.450x450x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Schiffman",
+     "url": "https://genius.com/artists/Dave-schiffman"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/379348",
+     "header_image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+     "id": 379348,
+     "image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "The Strumbellas",
+     "url": "https://genius.com/artists/The-strumbellas",
+     "iq": 701
+    }
+   ],
+   "lyrics": "[Verse 1]\nWell I know it gets harder every single day\nAnd I know my darkness will never go away\n\n[Pre-Chorus]\nIt's hard when you're living and you don't feel much\nAnd you're down and you're hoping that things are gonna change\n\n[Chorus]\nOh, we don't know the roads that we're heading down\nBut we all know if we're lost, then we'll find a way\nWe don't know if we leave, will we make it home\nBut we all know, if there's hope, then we'll be okay\n\n[Verse 2]\nAnd some say it gets brighter\nWe just have to wait\nMother, mother, I can feel your heart break\nBurning through me every single day\n\n[Pre-Chorus]\nIt's hard when you're living and you don't feel much\nAnd you're down and you're hurting 'cause you don't feel loved\nIt's hard when you're living and you don't feel much\nAnd you're down and you're hoping that things are gonna change\n\n[Chorus]\nOh, we don't know the roads that we're heading down\nBut we all know if we're lost, then we'll find a way\nWe don't know if we leave, will we make it home\nBut we all know, there's hope and we'll be okay\nOh, we don't know the roads that we're heading down\nBut we all know if we're lost, then we'll find a way\nWe don't know if we leave, will we make it home\nBut we all know, if there's hope, then we'll be okay\n\n[Bridge]\nOh, there's something in my mind that's killing me\nThere's something that this life's not giving me\nWould you say\nThere's something in my mind that's killing me\nThere's something that this life's not giving me\nWould you say\n\n[Chorus]\nOh, we don't know the roads that we're heading down\nBut we all know if we're lost, then we'll find a way\nWe don't know if we leave, will we make it home\nBut we all know, if there's hope, then we'll be okay\nOh, we don't know the roads that we're heading down\nBut we all know know if we're lost, then we'll find a way\nWe don't know if we leave, will we make it home\nBut we all know, if there's hope, then we'll be okay"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2469726",
+   "apple_music_id": "1451008610",
+   "apple_music_player_url": "https://genius.com/songs/2469726/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2469726' class='rg_embed_link' data-song-id='2469726'>Read <a href='https://genius.com/The-strumbellas-young-and-wild-lyrics'>\u201cYoung & Wild\u201d by The\u00a0Strumbellas</a> on Genius</div> <script crossorigin src='//genius.com/songs/2469726/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Young & Wild by\u00a0The\u00a0Strumbellas",
+   "header_image_thumbnail_url": "https://images.genius.com/69ba54859a419c72a793b3890c0319dc.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/69ba54859a419c72a793b3890c0319dc.999x999x1.jpg",
+   "id": 2469726,
+   "lyrics_owner_id": 2807469,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/The-strumbellas-young-and-wild-lyrics",
+   "pyongs_count": null,
+   "recording_location": "Lincoln County Social Club",
+   "release_date": "2016-04-22",
+   "release_date_for_display": "April 22, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/69ba54859a419c72a793b3890c0319dc.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/69ba54859a419c72a793b3890c0319dc.999x999x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 14435
+   },
+   "title": "Young & Wild",
+   "title_with_featured": "Young & Wild",
+   "url": "https://genius.com/The-strumbellas-young-and-wild-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/145859",
+    "cover_art_url": "https://images.genius.com/69ba54859a419c72a793b3890c0319dc.999x999x1.jpg",
+    "full_title": "Hope by The Strumbellas",
+    "id": 145859,
+    "name": "Hope",
+    "url": "https://genius.com/albums/The-strumbellas/Hope",
+    "artist": {
+     "api_path": "/artists/379348",
+     "header_image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+     "id": 379348,
+     "image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "The Strumbellas",
+     "url": "https://genius.com/artists/The-strumbellas",
+     "iq": 701
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2937273,
+    "annotator_login": "geniusbot",
+    "api_path": "/referents/11819480",
+    "classification": "needs_exegesis",
+    "fragment": "Young & Wild",
+    "id": 11819480,
+    "is_description": true,
+    "path": "/11819480/The-strumbellas-young-and-wild/Young-and-wild",
+    "range": {
+     "content": "Young & Wild"
+    },
+    "song_id": 2469726,
+    "url": "https://genius.com/11819480/The-strumbellas-young-and-wild/Young-and-wild",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2469726",
+     "client_timestamps": {
+      "updated_by_human_at": 1562440617,
+      "lyrics_updated_at": 1562440617
+     },
+     "context": "The Strumbellas",
+     "id": 2469726,
+     "image_url": "https://images.genius.com/69ba54859a419c72a793b3890c0319dc.999x999x1.jpg",
+     "link_title": "Young & Wild by\u00a0The\u00a0Strumbellas",
+     "title": "Young & Wild",
+     "type": "Song",
+     "url": "https://genius.com/The-strumbellas-young-and-wild-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11819480",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11819480,
+      "pinned": false,
+      "share_url": "https://genius.com/11819480",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11819480/The-strumbellas-young-and-wild/Young-and-wild",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2937273",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/d8178e34dd5f45daf6e9cb62f8e3b996",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/d8178e34dd5f45daf6e9cb62f8e3b996",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/d8178e34dd5f45daf6e9cb62f8e3b996",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/d8178e34dd5f45daf6e9cb62f8e3b996",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/d8178e34dd5f45daf6e9cb62f8e3b996",
+         "human_readable_role_for_display": "Staff",
+         "id": 2937273,
+         "iq": 0,
+         "login": "geniusbot",
+         "name": "geniusbot",
+         "role_for_display": "staff",
+         "url": "https://genius.com/geniusbot",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=jVC9GXHp68o"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/379348",
+    "header_image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+    "id": 379348,
+    "image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "The Strumbellas",
+    "url": "https://genius.com/artists/The-strumbellas",
+    "iq": 701
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/189041",
+     "header_image_url": "https://images.genius.com/03ec67f56fb94fded9b12b4db626248d.800x450x1.jpg",
+     "id": 189041,
+     "image_url": "https://images.genius.com/204a16134e443813e93bce80fa5b5cc7.450x450x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Schiffman",
+     "url": "https://genius.com/artists/Dave-schiffman"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/379348",
+     "header_image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+     "id": 379348,
+     "image_url": "https://images.rapgenius.com/avatars/medium/5b29a148b93cd156b7e73354f9a9912e",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "The Strumbellas",
+     "url": "https://genius.com/artists/The-strumbellas",
+     "iq": 701
+    }
+   ],
+   "lyrics": "[Chorus]\nAnd there's a ghost, ghost, ghost\nLiving in my head\nAnd there's a hope, hope, hope\nBurning my bed\nI'm young and wild\nI'm young and wild\n\n[Verse 1]\nI jump off from an airplane\nTo see if I can fly\nI lit a house on fire\nJust to see a painted sky\nDid you know, did you know?\nI've been running all my life\n\n[Verse 2]\nSometimes I say you're crazy\nSometimes I'll think you're strange\nMaybe you're the one who found a way out of this cage\nHere we go, here we go\nLet's go take apart this night\n\n[Pre-Chorus]\nAnd it goes on and on and on and on\nAnd it goes on and on and on and on\nAnd it goes on and on and on and on\nAnd it goes on and on and on and on\n\n[Chorus]\nAnd there's a ghost, ghost, ghost\nLiving in my head\nAnd there's a hope, hope, hope\nBurning my bed\nI'm young and wild\nI'm young and wild\n\n[Chorus]\nAnd there's a ghost, ghost, ghost\nLiving in my head\nAnd there's a hope, hope, hope\nBurning my bed\nI'm young and wild\nI'm young and wild\n\n[Verse 3]\nI walk the lines they made me\nJust to make them smile\n'Cause every monster they make\nWas once a happy child\nDid you know, did you know?\nWe won't go with out a fight\n\n[Verse 4]\nThey said that you'd be nothing\nThey said these dreams will die\nBut I stood strong and worked too hard to keep this hope alive\nHere we go, here we go\nI'm going to write my name in lights\n\n[Pre-Chorus]\nAnd it goes on and on and on and on\nAnd it goes on and on and on and on\nAnd it goes on and on and on and on\nAnd it goes on and on and on and on\n\n[Chorus]\nAnd there's a ghost, ghost, ghost\nLiving in my head\nAnd there's a hope, hope, hope\nBurning my bed\nI'm young and wild\nI'm young and wild\n\n[Chorus]\nAnd there's a ghost, ghost, ghost\nLiving in my head\nAnd there's a hope, hope, hope\nBurning my bed\nI'm young and wild\nI'm young and wild\n\n[Bridge]\nWhen I go, I'll go as you'll never know\nWhen I go, I'll go as you'll never know\nI can feel the mountain's burning sun\nWhen I go, I'll go as you'll never know\nWhen I go, I'll go as you'll never know\nI can feel the mountain's burning sun\n\n[Chorus]\nAnd there's a ghost, ghost, ghost\nLiving in my head\nAnd there's a hope, hope, hope\nBurning my bed\nI'm young and wild\nI'm young and wild\n\n[Chorus]\nAnd there's a ghost, ghost, ghost\nLiving in my head\nAnd there's a hope, hope, hope\nBurning my bed\nI'm young and wild\nI'm young and wild\n\n[Outro]\nI'm young and wild\nI'm young and wild\nI'm young and wild\nI'm young and wild"
+  }
+ ]
+}

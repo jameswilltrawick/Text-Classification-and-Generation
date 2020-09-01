@@ -1,0 +1,3098 @@
+{
+ "alternate_names": [
+  "George E. Barnett",
+  "George Ezra Barnett"
+ ],
+ "api_path": "/artists/133122",
+ "description": {
+  "plain": "George Ezra (born 7 June 1993) is an English singer-songwriter. After releasing two EPs\u2013\u2013Did You Hear the Rain? in October 2013 and Cassy O' in March 2014\u2013\u2013Ezra rose to prominence with the release of his hit single \u201cBudapest\u201d, which reached the top ten in numerous countries around the world, reaching number one in Austria, New Zealand and the Czech Republic.\n\nEzra\u2019s debut studio album Wanted on Voyage was released on 30 June 2014 and reached number one in the UK and the top ten in seven other countries. It was also the third best-selling album of 2014 in the UK. Zane Lowe, a DJ on BBC\u2019s Radio One, called him \u201cone of the most compelling and powerful new vocalists around.\u201d\n\nIn 2017, Ezra released a single \u201cDon\u2019t Matter Now\u201d, a fun song, going in a different direction. His long-awaited sophomore album Staying at Tamara\u2019s was released on March 23, 2018. The album includes the singles \u201cParadise\u201d and \u201cShotgun,\u201d which peaked at #2 and #1 on the UK Singles Chart, respectively. Interestingly, the latter was a last-minute addition to the record.\n\nGeorge Ezra launched a podcast \u2018George Ezra & Friends\u2019 in 2018. Some of the guests on the podcast were Ed Sheeran, Rag'n'Bone Man, Sam Smith, Elton John and Niall Horan. It won Bronze at the British Podcast Awards in the Listener\u2019s Choice Category."
+ },
+ "facebook_name": "georgeezramusic",
+ "followers_count": 117,
+ "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+ "id": 133122,
+ "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+ "instagram_name": "",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "George Ezra",
+ "translation_artist": false,
+ "twitter_name": "george_ezra",
+ "url": "https://genius.com/artists/George-ezra",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 112,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 139715,
+  "annotator_login": "J_Zims",
+  "api_path": "/referents/7000744",
+  "classification": "accepted",
+  "fragment": "George Ezra",
+  "id": 7000744,
+  "is_description": true,
+  "path": "/7000744/George-ezra/George-ezra",
+  "range": {
+   "content": "George Ezra"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7000744/George-ezra/George-ezra",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/133122",
+   "context": null,
+   "id": 133122,
+   "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+   "link_title": "George Ezra",
+   "title": "George Ezra",
+   "type": "Artist",
+   "url": "https://genius.com/artists/George-ezra"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7000744",
+    "body": {
+     "plain": "George Ezra (born 7 June 1993) is an English singer-songwriter. After releasing two EPs\u2013\u2013Did You Hear the Rain? in October 2013 and Cassy O' in March 2014\u2013\u2013Ezra rose to prominence with the release of his hit single \u201cBudapest\u201d, which reached the top ten in numerous countries around the world, reaching number one in Austria, New Zealand and the Czech Republic.\n\nEzra\u2019s debut studio album Wanted on Voyage was released on 30 June 2014 and reached number one in the UK and the top ten in seven other countries. It was also the third best-selling album of 2014 in the UK. Zane Lowe, a DJ on BBC\u2019s Radio One, called him \u201cone of the most compelling and powerful new vocalists around.\u201d\n\nIn 2017, Ezra released a single \u201cDon\u2019t Matter Now\u201d, a fun song, going in a different direction. His long-awaited sophomore album Staying at Tamara\u2019s was released on March 23, 2018. The album includes the singles \u201cParadise\u201d and \u201cShotgun,\u201d which peaked at #2 and #1 on the UK Singles Chart, respectively. Interestingly, the latter was a last-minute addition to the record.\n\nGeorge Ezra launched a podcast \u2018George Ezra & Friends\u2019 in 2018. Some of the guests on the podcast were Ed Sheeran, Rag'n'Bone Man, Sam Smith, Elton John and Niall Horan. It won Bronze at the British Podcast Awards in the Listener\u2019s Choice Category."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 7000744,
+    "pinned": false,
+    "share_url": "https://genius.com/7000744",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/7000744/George-ezra/George-ezra",
+    "verified": false,
+    "votes_total": 25,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.5446428571428572,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1448826",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/744bc3b7bd77206b4c768fadc9911a25",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/744bc3b7bd77206b4c768fadc9911a25",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/744bc3b7bd77206b4c768fadc9911a25",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/744bc3b7bd77206b4c768fadc9911a25",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/427478c68f285fc5e038b6995aabbbb9.600x600x1.png",
+       "human_readable_role_for_display": "Moderator",
+       "id": 1448826,
+       "iq": 173379,
+       "login": "babuc",
+       "name": "Babu Chatterjee",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/babuc",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.45535714285714285,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6372521",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/xeym9bgr5me",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/xeym9bgr5me",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/xeym9bgr5me",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/xeym9bgr5me",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/488qe4b16hx",
+       "human_readable_role_for_display": "Editor",
+       "id": 6372521,
+       "iq": 179926,
+       "login": "aronquemarr",
+       "name": "aronquemarr",
+       "role_for_display": "editor",
+       "url": "https://genius.com/aronquemarr",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/5127880",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 5127880,
+  "iq": 112,
+  "login": "georgeezra",
+  "name": "George Ezra",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/georgeezra",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 14,
+   "api_path": "/songs/3446712",
+   "apple_music_id": "1331589486",
+   "apple_music_player_url": "https://genius.com/songs/3446712/apple_music_player",
+   "description": {
+    "plain": "\u201cShotgun\u201d was one of the first songs Ezra wrote for his second album, but the last song to be included in it. He penned the track after spending time on top of the mountain Montju\u00efc in Barcelona.\n\n\n\nThe lyrics also make reference to Australia and George\u2019s experience of the country. The colours \u201cyellow and green,\u201d refer to the national colours of Australia.\n\nThe song has performed well on charts worldwide, peaking at #1 on the UK Singles Chart. The song was used in RT\u00c9\u2019s advertising campaign for the 2018 Galway Races. It is also used in a Commonwealth Bank commercial in Australia for their sponsorship of Women\u2019s Cricket called \u201c20 Not Out.\u201d"
+   },
+   "embed_content": "<div id='rg_embed_link_3446712' class='rg_embed_link' data-song-id='3446712'>Read <a href='https://genius.com/George-ezra-shotgun-lyrics'>\u201cShotgun\u201d by George\u00a0Ezra</a> on Genius</div> <script crossorigin src='//genius.com/songs/3446712/embed.js'></script>",
+   "fact_track": {
+    "provider": "spotify",
+    "external_url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC",
+    "button_text": "Behind the Lyrics in Spotify",
+    "help_link_text": "What's a Fact Track?",
+    "help_link_url": "https://genius.com/a/genius-and-spotify-together"
+   },
+   "featured_video": false,
+   "full_title": "Shotgun by\u00a0George\u00a0Ezra",
+   "header_image_thumbnail_url": "https://images.genius.com/f1f78d0edb4ad34c789bc98bc4af2965.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f1f78d0edb4ad34c789bc98bc4af2965.1000x1000x1.jpg",
+   "id": 3446712,
+   "lyrics_owner_id": 3628738,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/George-ezra-shotgun-lyrics",
+   "pyongs_count": 17,
+   "recording_location": null,
+   "release_date": "2018-03-23",
+   "release_date_for_display": "March 23, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/f1f78d0edb4ad34c789bc98bc4af2965.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f1f78d0edb4ad34c789bc98bc4af2965.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 11,
+    "contributors": 76,
+    "iq_earners": 76,
+    "transcribers": 4,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 418709
+   },
+   "title": "Shotgun",
+   "title_with_featured": "Shotgun",
+   "url": "https://genius.com/George-ezra-shotgun-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "watch_fact_track",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/350492",
+    "cover_art_url": "https://images.genius.com/9f677eeb02af78c02102861f3a7c0753.1000x1000x1.jpg",
+    "full_title": "Staying at Tamara's by George Ezra",
+    "id": 350492,
+    "name": "Staying at Tamara\u2019s",
+    "url": "https://genius.com/albums/George-ezra/Staying-at-tamara-s",
+    "artist": {
+     "api_path": "/artists/133122",
+     "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+     "id": 133122,
+     "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "George Ezra",
+     "url": "https://genius.com/artists/George-ezra",
+     "iq": 112
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/2051921",
+       "header_image_url": "https://images.genius.com/5a8096248bb335ec188cc106848e2571.500x500x1.jpg",
+       "id": 2051921,
+       "image_url": "https://images.genius.com/5a8096248bb335ec188cc106848e2571.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Fred again..",
+       "url": "https://genius.com/artists/Fred-again"
+      },
+      {
+       "api_path": "/artists/1325600",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1325600,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Matthew Racher",
+       "url": "https://genius.com/artists/Matthew-racher"
+      },
+      {
+       "api_path": "/artists/1410489",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1410489,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jaleesa Gemerts",
+       "url": "https://genius.com/artists/Jaleesa-gemerts"
+      }
+     ]
+    },
+    {
+     "label": "Bass,",
+     "artists": [
+      {
+       "api_path": "/artists/2051921",
+       "header_image_url": "https://images.genius.com/5a8096248bb335ec188cc106848e2571.500x500x1.jpg",
+       "id": 2051921,
+       "image_url": "https://images.genius.com/5a8096248bb335ec188cc106848e2571.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Fred again..",
+       "url": "https://genius.com/artists/Fred-again"
+      },
+      {
+       "api_path": "/artists/133122",
+       "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+       "id": 133122,
+       "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "George Ezra",
+       "url": "https://genius.com/artists/George-ezra",
+       "iq": 112
+      }
+     ]
+    },
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/2051921",
+       "header_image_url": "https://images.genius.com/5a8096248bb335ec188cc106848e2571.500x500x1.jpg",
+       "id": 2051921,
+       "image_url": "https://images.genius.com/5a8096248bb335ec188cc106848e2571.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Fred again..",
+       "url": "https://genius.com/artists/Fred-again"
+      },
+      {
+       "api_path": "/artists/133122",
+       "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+       "id": 133122,
+       "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "George Ezra",
+       "url": "https://genius.com/artists/George-ezra",
+       "iq": 112
+      }
+     ]
+    },
+    {
+     "label": "Horns",
+     "artists": [
+      {
+       "api_path": "/artists/1791024",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1791024,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "The Atlantic Brass Quintet",
+       "url": "https://genius.com/artists/The-atlantic-brass-quintet"
+      }
+     ]
+    },
+    {
+     "label": "Brass",
+     "artists": [
+      {
+       "api_path": "/artists/1791024",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1791024,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "The Atlantic Brass Quintet",
+       "url": "https://genius.com/artists/The-atlantic-brass-quintet"
+      },
+      {
+       "api_path": "/artists/1410488",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1410488,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Emma Corby",
+       "url": "https://genius.com/artists/Emma-corby"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/641341",
+       "header_image_url": "https://images.genius.com/f883736541eabbfb08e6d079a720db9f.1000x535x1.jpg",
+       "id": 641341,
+       "image_url": "https://images.genius.com/d448111887d2b34267df1ca916335210.299x255x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dave Kutch",
+       "url": "https://genius.com/artists/Dave-kutch"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/59634",
+       "header_image_url": "https://images.genius.com/cd447300aedfd239e402271175407857.700x466x1.jpg",
+       "id": 59634,
+       "image_url": "https://images.genius.com/ecc250ea803de1650dd872cc283edc9a.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dan Grech-Marguerat",
+       "url": "https://genius.com/artists/Dan-grech-marguerat"
+      }
+     ]
+    },
+    {
+     "label": "Organ",
+     "artists": [
+      {
+       "api_path": "/artists/1182160",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1182160,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "James Wyatt",
+       "url": "https://genius.com/artists/James-wyatt"
+      }
+     ]
+    },
+    {
+     "label": "Synthesizer",
+     "artists": [
+      {
+       "api_path": "/artists/416958",
+       "header_image_url": "https://images.genius.com/9fd94681619ae56f7fa0585e75a4b56a.1000x667x1.jpg",
+       "id": 416958,
+       "image_url": "https://images.genius.com/23418370da5ffae7ea6e412bf9415cd7.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cam Blackwood",
+       "url": "https://genius.com/artists/Cam-blackwood"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/416958",
+       "header_image_url": "https://images.genius.com/9fd94681619ae56f7fa0585e75a4b56a.1000x667x1.jpg",
+       "id": 416958,
+       "image_url": "https://images.genius.com/23418370da5ffae7ea6e412bf9415cd7.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cam Blackwood",
+       "url": "https://genius.com/artists/Cam-blackwood"
+      },
+      {
+       "api_path": "/artists/133122",
+       "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+       "id": 133122,
+       "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "George Ezra",
+       "url": "https://genius.com/artists/George-ezra",
+       "iq": 112
+      }
+     ]
+    },
+    {
+     "label": "Percussion",
+     "artists": [
+      {
+       "api_path": "/artists/1325601",
+       "header_image_url": "https://images.genius.com/ebc41ded5172aacd85978eb7d8bea6de.750x1000x1.jpg",
+       "id": 1325601,
+       "image_url": "https://images.genius.com/b28ff31d2da3ec791c9077174914a3eb.575x575x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Liam Thorne",
+       "url": "https://genius.com/artists/Liam-thorne"
+      },
+      {
+       "api_path": "/artists/1325600",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1325600,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Matthew Racher",
+       "url": "https://genius.com/artists/Matthew-racher"
+      }
+     ]
+    },
+    {
+     "label": "Programming",
+     "artists": [
+      {
+       "api_path": "/artists/59634",
+       "header_image_url": "https://images.genius.com/cd447300aedfd239e402271175407857.700x466x1.jpg",
+       "id": 59634,
+       "image_url": "https://images.genius.com/ecc250ea803de1650dd872cc283edc9a.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dan Grech-Marguerat",
+       "url": "https://genius.com/artists/Dan-grech-marguerat"
+      },
+      {
+       "api_path": "/artists/416958",
+       "header_image_url": "https://images.genius.com/9fd94681619ae56f7fa0585e75a4b56a.1000x667x1.jpg",
+       "id": 416958,
+       "image_url": "https://images.genius.com/23418370da5ffae7ea6e412bf9415cd7.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cam Blackwood",
+       "url": "https://genius.com/artists/Cam-blackwood"
+      },
+      {
+       "api_path": "/artists/1325601",
+       "header_image_url": "https://images.genius.com/ebc41ded5172aacd85978eb7d8bea6de.750x1000x1.jpg",
+       "id": 1325601,
+       "image_url": "https://images.genius.com/b28ff31d2da3ec791c9077174914a3eb.575x575x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Liam Thorne",
+       "url": "https://genius.com/artists/Liam-thorne"
+      },
+      {
+       "api_path": "/artists/1325600",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1325600,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Matthew Racher",
+       "url": "https://genius.com/artists/Matthew-racher"
+      }
+     ]
+    },
+    {
+     "label": "Background Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/271741",
+       "header_image_url": "https://images.genius.com/452540d18ef14b7b88477cd2bbecea92.1000x364x1.jpg",
+       "id": 271741,
+       "image_url": "https://images.genius.com/77d164bd51455c11aa941f298bd09506.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Florrie",
+       "url": "https://genius.com/artists/Florrie"
+      },
+      {
+       "api_path": "/artists/416959",
+       "header_image_url": "https://images.genius.com/3e570c32c82cf2bb32ac7aa9ab242fdd.1000x667x1.jpg",
+       "id": 416959,
+       "image_url": "https://images.genius.com/712a920de17655b4037d1c06cfde1312.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joel Pott",
+       "url": "https://genius.com/artists/Joel-pott"
+      },
+      {
+       "api_path": "/artists/416958",
+       "header_image_url": "https://images.genius.com/9fd94681619ae56f7fa0585e75a4b56a.1000x667x1.jpg",
+       "id": 416958,
+       "image_url": "https://images.genius.com/23418370da5ffae7ea6e412bf9415cd7.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cam Blackwood",
+       "url": "https://genius.com/artists/Cam-blackwood"
+      },
+      {
+       "api_path": "/artists/1410491",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1410491,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ollie Hodge",
+       "url": "https://genius.com/artists/Ollie-hodge"
+      }
+     ]
+    },
+    {
+     "label": "Assistant Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/485258",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 485258,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joel Davies",
+       "url": "https://genius.com/artists/Joel-davies"
+      },
+      {
+       "api_path": "/artists/1410477",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1410477,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Charles Hicks",
+       "url": "https://genius.com/artists/Charles-hicks"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1325601",
+       "header_image_url": "https://images.genius.com/ebc41ded5172aacd85978eb7d8bea6de.750x1000x1.jpg",
+       "id": 1325601,
+       "image_url": "https://images.genius.com/b28ff31d2da3ec791c9077174914a3eb.575x575x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Liam Thorne",
+       "url": "https://genius.com/artists/Liam-thorne"
+      },
+      {
+       "api_path": "/artists/1410490",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1410490,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dan Trachtenberg",
+       "url": "https://genius.com/artists/Dan-trachtenberg"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4558333,
+    "annotator_login": "retopic",
+    "api_path": "/referents/14595353",
+    "classification": "accepted",
+    "fragment": "Shotgun",
+    "id": 14595353,
+    "is_description": true,
+    "path": "/14595353/George-ezra-shotgun/Shotgun",
+    "range": {
+     "content": "Shotgun"
+    },
+    "song_id": 3446712,
+    "url": "https://genius.com/14595353/George-ezra-shotgun/Shotgun",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3446712",
+     "client_timestamps": {
+      "updated_by_human_at": 1597512326,
+      "lyrics_updated_at": 1597512325
+     },
+     "context": "George Ezra",
+     "id": 3446712,
+     "image_url": "https://images.genius.com/f1f78d0edb4ad34c789bc98bc4af2965.1000x1000x1.jpg",
+     "link_title": "Shotgun by\u00a0George\u00a0Ezra",
+     "title": "Shotgun",
+     "type": "Song",
+     "url": "https://genius.com/George-ezra-shotgun-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14595353",
+      "body": {
+       "plain": "\u201cShotgun\u201d was one of the first songs Ezra wrote for his second album, but the last song to be included in it. He penned the track after spending time on top of the mountain Montju\u00efc in Barcelona.\n\n\n\nThe lyrics also make reference to Australia and George\u2019s experience of the country. The colours \u201cyellow and green,\u201d refer to the national colours of Australia.\n\nThe song has performed well on charts worldwide, peaking at #1 on the UK Singles Chart. The song was used in RT\u00c9\u2019s advertising campaign for the 2018 Galway Races. It is also used in a Commonwealth Bank commercial in Australia for their sponsorship of Women\u2019s Cricket called \u201c20 Not Out.\u201d"
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 14595353,
+      "pinned": false,
+      "share_url": "https://genius.com/14595353",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/14595353/George-ezra-shotgun/Shotgun",
+      "verified": false,
+      "votes_total": 44,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.4672131147540983,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6372521",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/xeym9bgr5me",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/xeym9bgr5me",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/xeym9bgr5me",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/xeym9bgr5me",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/488qe4b16hx",
+         "human_readable_role_for_display": "Editor",
+         "id": 6372521,
+         "iq": 179926,
+         "login": "aronquemarr",
+         "name": "aronquemarr",
+         "role_for_display": "editor",
+         "url": "https://genius.com/aronquemarr",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.3442622950819672,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4558333",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/c47a4410e73f367d2bbce0aa411c35c4",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/c47a4410e73f367d2bbce0aa411c35c4",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/c47a4410e73f367d2bbce0aa411c35c4",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/c47a4410e73f367d2bbce0aa411c35c4",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/JMlieZxbTXSiHLwvLPGq_Waveforms.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 4558333,
+         "iq": 7414,
+         "login": "retopic",
+         "name": "retopic",
+         "role_for_display": "editor",
+         "url": "https://genius.com/retopic",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.1885245901639344,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6353121",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/676804d2eebcebd4bf41947332f9ba51",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/676804d2eebcebd4bf41947332f9ba51",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/676804d2eebcebd4bf41947332f9ba51",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/676804d2eebcebd4bf41947332f9ba51",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/676804d2eebcebd4bf41947332f9ba51",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6353121,
+         "iq": 11852,
+         "login": "mrjohnnymac18",
+         "name": "mrjohnnymac18",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/mrjohnnymac18",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:4ofwffwvvnbSkrMSCKQDaC",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
+    },
+    {
+     "attribution": "george ezra",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/george-ezra/shotgun"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=aAiVsqfbn5g"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/133122",
+    "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+    "id": 133122,
+    "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "George Ezra",
+    "url": "https://genius.com/artists/George-ezra",
+    "iq": 112
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/416958",
+     "header_image_url": "https://images.genius.com/9fd94681619ae56f7fa0585e75a4b56a.1000x667x1.jpg",
+     "id": 416958,
+     "image_url": "https://images.genius.com/23418370da5ffae7ea6e412bf9415cd7.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cam Blackwood",
+     "url": "https://genius.com/artists/Cam-blackwood"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4055639",
+       "full_title": "Shotgun by\u00a0Momentz\u00a0Notice",
+       "header_image_thumbnail_url": "https://images.genius.com/7240b2befd47c933c9729e1e6e9d0377.300x300x1.png",
+       "header_image_url": "https://images.genius.com/7240b2befd47c933c9729e1e6e9d0377.1000x1000x1.png",
+       "id": 4055639,
+       "lyrics_owner_id": 6939549,
+       "lyrics_state": "complete",
+       "path": "/Momentz-notice-shotgun-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/7240b2befd47c933c9729e1e6e9d0377.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/7240b2befd47c933c9729e1e6e9d0377.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Shotgun",
+       "title_with_featured": "Shotgun",
+       "url": "https://genius.com/Momentz-notice-shotgun-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1569988",
+        "header_image_url": "https://images.genius.com/0b2ad4bf20a02d213527ebf85513ec21.1000x1000x1.png",
+        "id": 1569988,
+        "image_url": "https://images.genius.com/7240b2befd47c933c9729e1e6e9d0377.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Momentz Notice",
+        "url": "https://genius.com/artists/Momentz-notice"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4113763",
+       "full_title": "Shotgun (BBC Radio 1 Live Lounge) by\u00a0The\u00a0Vamps",
+       "header_image_thumbnail_url": "https://images.genius.com/273e3e7ba162aac4cc89aca43c16a444.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/273e3e7ba162aac4cc89aca43c16a444.300x300x1.jpg",
+       "id": 4113763,
+       "lyrics_owner_id": 6372521,
+       "lyrics_state": "complete",
+       "path": "/The-vamps-shotgun-bbc-radio-1-live-lounge-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/273e3e7ba162aac4cc89aca43c16a444.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/273e3e7ba162aac4cc89aca43c16a444.300x300x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Shotgun (BBC Radio 1 Live Lounge)",
+       "title_with_featured": "Shotgun (BBC Radio 1 Live Lounge)",
+       "url": "https://genius.com/The-vamps-shotgun-bbc-radio-1-live-lounge-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/72916",
+        "header_image_url": "https://images.genius.com/d5886ac52af2073350d4b386a4d1258d.900x480x1.jpg",
+        "id": 72916,
+        "image_url": "https://images.genius.com/1410f728f9c37518915bdf0b580a2aff.512x512x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "The Vamps",
+        "url": "https://genius.com/artists/The-vamps",
+        "iq": 604
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4519012",
+       "full_title": "Shotgun by\u00a0Lewis\u00a0Capaldi",
+       "header_image_thumbnail_url": "https://images.genius.com/81608900c659454241c7bb63dc28f217.300x300x1.png",
+       "header_image_url": "https://images.genius.com/81608900c659454241c7bb63dc28f217.400x400x1.png",
+       "id": 4519012,
+       "lyrics_owner_id": 6372521,
+       "lyrics_state": "complete",
+       "path": "/Lewis-capaldi-shotgun-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/81608900c659454241c7bb63dc28f217.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/81608900c659454241c7bb63dc28f217.400x400x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Shotgun",
+       "title_with_featured": "Shotgun",
+       "url": "https://genius.com/Lewis-capaldi-shotgun-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1111338",
+        "header_image_url": "https://images.genius.com/5c84e36a294302ca5612ec8a241556eb.1000x398x1.jpg",
+        "id": 1111338,
+        "image_url": "https://images.genius.com/81608900c659454241c7bb63dc28f217.400x400x1.png",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Lewis Capaldi",
+        "url": "https://genius.com/artists/Lewis-capaldi",
+        "iq": 4048
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4569037",
+       "full_title": "Shotgun by\u00a0Us\u00a0The Duo",
+       "header_image_thumbnail_url": "https://images.genius.com/1d78f8f1bd736f1e2e8bb9d49d84e431.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/1d78f8f1bd736f1e2e8bb9d49d84e431.640x640x1.jpg",
+       "id": 4569037,
+       "lyrics_owner_id": 5876075,
+       "lyrics_state": "complete",
+       "path": "/Us-the-duo-shotgun-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/1d78f8f1bd736f1e2e8bb9d49d84e431.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/1d78f8f1bd736f1e2e8bb9d49d84e431.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Shotgun",
+       "title_with_featured": "Shotgun",
+       "url": "https://genius.com/Us-the-duo-shotgun-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/215393",
+        "header_image_url": "https://images.genius.com/68d067be13b83e7fcbc954d46a65f761.1000x429x1.jpg",
+        "id": 215393,
+        "image_url": "https://images.genius.com/1348fd3550dc5561c2726e64e26d8008.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Us The Duo",
+        "url": "https://genius.com/artists/Us-the-duo"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5208520",
+       "full_title": "Shotgun by\u00a0Operaci\u00f3n\u00a0Triunfo 2020 (Ft.\u00a0Flavio\u00a0Fern\u00e1ndez)",
+       "header_image_thumbnail_url": "https://images.genius.com/71523bb4661b626f7ba642467c450e69.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/71523bb4661b626f7ba642467c450e69.1000x1000x1.jpg",
+       "id": 5208520,
+       "lyrics_owner_id": 7062311,
+       "lyrics_state": "complete",
+       "path": "/Operacion-triunfo-2020-shotgun-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/71523bb4661b626f7ba642467c450e69.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/71523bb4661b626f7ba642467c450e69.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Shotgun",
+       "title_with_featured": "Shotgun (Ft.\u00a0Flavio\u00a0Fern\u00e1ndez)",
+       "url": "https://genius.com/Operacion-triunfo-2020-shotgun-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/2074357",
+        "header_image_url": "https://images.genius.com/91a6ad3cda5bd42b495825bb8f1b34c2.620x349x1.jpg",
+        "id": 2074357,
+        "image_url": "https://images.genius.com/f3dd2b5bdb90732115147c52976c96a7.480x480x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Operaci\u00f3n Triunfo 2020",
+        "url": "https://genius.com/artists/Operacion-triunfo-2020"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3935129",
+       "full_title": "Shotgun (The Wild Remix) by\u00a0George\u00a0Ezra",
+       "header_image_thumbnail_url": "https://images.genius.com/464b39452fe1468a728817a1ac1f438c.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/464b39452fe1468a728817a1ac1f438c.300x300x1.jpg",
+       "id": 3935129,
+       "lyrics_owner_id": 6372521,
+       "lyrics_state": "complete",
+       "path": "/George-ezra-shotgun-the-wild-remix-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/464b39452fe1468a728817a1ac1f438c.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/464b39452fe1468a728817a1ac1f438c.300x300x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Shotgun (The Wild Remix)",
+       "title_with_featured": "Shotgun (The Wild Remix)",
+       "url": "https://genius.com/George-ezra-shotgun-the-wild-remix-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/133122",
+        "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+        "id": 133122,
+        "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "George Ezra",
+        "url": "https://genius.com/artists/George-ezra",
+        "iq": 112
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3935134",
+       "full_title": "Shotgun (KVR Remix) by\u00a0George\u00a0Ezra",
+       "header_image_thumbnail_url": "https://images.genius.com/f4bb3dc8cd8335455a0ca6640f0a4040.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/f4bb3dc8cd8335455a0ca6640f0a4040.300x300x1.jpg",
+       "id": 3935134,
+       "lyrics_owner_id": 6372521,
+       "lyrics_state": "complete",
+       "path": "/George-ezra-shotgun-kvr-remix-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/f4bb3dc8cd8335455a0ca6640f0a4040.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/f4bb3dc8cd8335455a0ca6640f0a4040.300x300x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Shotgun (KVR Remix)",
+       "title_with_featured": "Shotgun (KVR Remix)",
+       "url": "https://genius.com/George-ezra-shotgun-kvr-remix-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/133122",
+        "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+        "id": 133122,
+        "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "George Ezra",
+        "url": "https://genius.com/artists/George-ezra",
+        "iq": 112
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3935144",
+       "full_title": "Shotgun (Gerd Janson Remix) by\u00a0George\u00a0Ezra",
+       "header_image_thumbnail_url": "https://images.genius.com/2bb33fda701a56eb36336fd43a16730b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/2bb33fda701a56eb36336fd43a16730b.300x300x1.jpg",
+       "id": 3935144,
+       "lyrics_owner_id": 6372521,
+       "lyrics_state": "complete",
+       "path": "/George-ezra-shotgun-gerd-janson-remix-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/2bb33fda701a56eb36336fd43a16730b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/2bb33fda701a56eb36336fd43a16730b.300x300x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Shotgun (Gerd Janson Remix)",
+       "title_with_featured": "Shotgun (Gerd Janson Remix)",
+       "url": "https://genius.com/George-ezra-shotgun-gerd-janson-remix-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/133122",
+        "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+        "id": 133122,
+        "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "George Ezra",
+        "url": "https://genius.com/artists/George-ezra",
+        "iq": 112
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3935150",
+       "full_title": "Shotgun (Acoustic) by\u00a0George\u00a0Ezra",
+       "header_image_thumbnail_url": "https://images.genius.com/32d7a637ee17d7ae73bd40575086e7c3.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/32d7a637ee17d7ae73bd40575086e7c3.300x300x1.jpg",
+       "id": 3935150,
+       "lyrics_owner_id": 6372521,
+       "lyrics_state": "complete",
+       "path": "/George-ezra-shotgun-acoustic-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/32d7a637ee17d7ae73bd40575086e7c3.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/32d7a637ee17d7ae73bd40575086e7c3.300x300x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Shotgun (Acoustic)",
+       "title_with_featured": "Shotgun (Acoustic)",
+       "url": "https://genius.com/George-ezra-shotgun-acoustic-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/133122",
+        "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+        "id": 133122,
+        "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "George Ezra",
+        "url": "https://genius.com/artists/George-ezra",
+        "iq": 112
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2051921",
+     "header_image_url": "https://images.genius.com/5a8096248bb335ec188cc106848e2571.500x500x1.jpg",
+     "id": 2051921,
+     "image_url": "https://images.genius.com/5a8096248bb335ec188cc106848e2571.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Fred again..",
+     "url": "https://genius.com/artists/Fred-again"
+    },
+    {
+     "api_path": "/artists/416959",
+     "header_image_url": "https://images.genius.com/3e570c32c82cf2bb32ac7aa9ab242fdd.1000x667x1.jpg",
+     "id": 416959,
+     "image_url": "https://images.genius.com/712a920de17655b4037d1c06cfde1312.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joel Pott",
+     "url": "https://genius.com/artists/Joel-pott"
+    },
+    {
+     "api_path": "/artists/133122",
+     "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+     "id": 133122,
+     "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "George Ezra",
+     "url": "https://genius.com/artists/George-ezra",
+     "iq": 112
+    }
+   ],
+   "lyrics": "[Verse 1]\nHome grown alligator, see you later\nGotta hit the road, gotta hit the road\nSomething changed in the atmosphere\nArchitecture unfamiliar\nI could get used to this\n\n[Pre-Chorus]\nTime flies by in the yellow and green\nStick around and you'll see what I mean\nThere's a mountain-top that I'm dreamin' of\nIf you need me you know where I'll be\n\n[Chorus]\nI'll be ridin' shotgun underneath the hot sun\nFeelin' like a someone\nI'll be ridin' shotgun underneath the hot sun\nFeelin' like a someone\n\n[Verse 2]\nSouth of the Equator, navigator\nGotta hit the road, gotta hit the road\nDeep sea divin' 'round the clock\nBikini bottoms, lager tops\nI could get used to this\n\n[Pre-Chorus]\nTime flies by in the yellow and green\nStick around and you'll see what I mean\nThere's a mountain-top that I'm dreamin' of\nIf you need me you know where I'll be\n\n[Chorus]\nI'll be ridin' shotgun underneath the hot sun\nFeelin' like a someone\nI'll be ridin' shotgun underneath the hot sun\nFeelin' like a someone\n\n[Bridge]\nWe got two in the front\nTwo in the back\nSailin' along\nAnd we don't look back\n(Back, back, back-back-back-back...)\n\n[Pre-Chorus]\nTime flies by in the yellow and green\nStick around and you'll see what I mean\nThere's a mountain-top that I'm dreamin' of\nIf you need me you know where I'll be\n\n[Chorus]\nI'll be ridin' shotgun underneath the hot sun\nFeelin' like a someone\nI'll be ridin' shotgun underneath the hot sun\nFeelin' like a someone\nI'll be ridin' shotgun underneath the hot sun\nFeelin' like a someone\nI'll be ridin' shotgun underneath the hot sun\nFeelin' like a someone\nI'll be ridin' shotgun underneath the hot sun\nFeelin' like a someone\nI'll be ridin' shotgun underneath the hot sun\nFeelin' like a someone, a someone, a someone, a someone..."
+  },
+  {
+   "annotation_count": 6,
+   "api_path": "/songs/344880",
+   "apple_music_id": "947999963",
+   "apple_music_player_url": "https://genius.com/songs/344880/apple_music_player",
+   "description": {
+    "plain": "\u201cBudapest\u201d is George Ezra\u2019s lead single from his debut album Wanted on Voyage. The song was released in Italy on 13 December 2013, in the UK 18 April 2014, and in the US on 23 September 2014.\n\n\u201cBudapest\u201d is basically Ezra\u2019s declaration that nothing matters as much as his love. According to himself, he originally conceived the idea for the song by imagining giving up all the things he didn\u2019t have for this girl, as opposed to the usual love songs where people fuss about giving this and that up for each other. Ezra doesn\u2019t have any of these things."
+   },
+   "embed_content": "<div id='rg_embed_link_344880' class='rg_embed_link' data-song-id='344880'>Read <a href='https://genius.com/George-ezra-budapest-lyrics'>\u201cBudapest\u201d by George\u00a0Ezra</a> on Genius</div> <script crossorigin src='//genius.com/songs/344880/embed.js'></script>",
+   "fact_track": {
+    "provider": "spotify",
+    "external_url": "https://open.spotify.com/track/7q0aQpiLv5tIsupcgQ3Ny4",
+    "button_text": "Behind the Lyrics in Spotify",
+    "help_link_text": "What's a Fact Track?",
+    "help_link_url": "https://genius.com/a/genius-and-spotify-together"
+   },
+   "featured_video": false,
+   "full_title": "Budapest by\u00a0George\u00a0Ezra",
+   "header_image_thumbnail_url": "https://images.genius.com/513c25142908d6485f01401224b7c2f9.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/513c25142908d6485f01401224b7c2f9.730x730x1.jpg",
+   "id": 344880,
+   "lyrics_owner_id": 139715,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/George-ezra-budapest-lyrics",
+   "pyongs_count": 97,
+   "recording_location": null,
+   "release_date": "2013-10-25",
+   "release_date_for_display": "October 25, 2013",
+   "song_art_image_thumbnail_url": "https://images.genius.com/49301f39948a8d9b1df4a05a911409ae.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/49301f39948a8d9b1df4a05a911409ae.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 3,
+    "contributors": 48,
+    "iq_earners": 46,
+    "transcribers": 4,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 249030
+   },
+   "title": "Budapest",
+   "title_with_featured": "Budapest",
+   "url": "https://genius.com/George-ezra-budapest-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "watch_fact_track",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/121438",
+    "cover_art_url": "https://images.genius.com/fcc0c69984452459dfaf55aa4f6fab7d.1000x1000x1.jpg",
+    "full_title": "Wanted on Voyage by George Ezra",
+    "id": 121438,
+    "name": "Wanted on Voyage",
+    "url": "https://genius.com/albums/George-ezra/Wanted-on-voyage",
+    "artist": {
+     "api_path": "/artists/133122",
+     "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+     "id": 133122,
+     "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "George Ezra",
+     "url": "https://genius.com/artists/George-ezra",
+     "iq": 112
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Record Label",
+     "artists": [
+      {
+       "api_path": "/artists/30372",
+       "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+       "id": 30372,
+       "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Columbia Records",
+       "url": "https://genius.com/artists/Columbia-records",
+       "iq": 127
+      }
+     ]
+    },
+    {
+     "label": "Assistant Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/999609",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 999609,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sean Julliard",
+       "url": "https://genius.com/artists/Sean-julliard"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/88279",
+       "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+       "id": 88279,
+       "image_url": "https://images.genius.com/0c08c4ece96137daf0dd3c76a663918b.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cenzo Townshend",
+       "url": "https://genius.com/artists/Cenzo-townshend"
+      }
+     ]
+    },
+    {
+     "label": "Assistant Producer",
+     "artists": [
+      {
+       "api_path": "/artists/1325601",
+       "header_image_url": "https://images.genius.com/ebc41ded5172aacd85978eb7d8bea6de.750x1000x1.jpg",
+       "id": 1325601,
+       "image_url": "https://images.genius.com/b28ff31d2da3ec791c9077174914a3eb.575x575x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Liam Thorne",
+       "url": "https://genius.com/artists/Liam-thorne"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1325601",
+       "header_image_url": "https://images.genius.com/ebc41ded5172aacd85978eb7d8bea6de.750x1000x1.jpg",
+       "id": 1325601,
+       "image_url": "https://images.genius.com/b28ff31d2da3ec791c9077174914a3eb.575x575x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Liam Thorne",
+       "url": "https://genius.com/artists/Liam-thorne"
+      },
+      {
+       "api_path": "/artists/416958",
+       "header_image_url": "https://images.genius.com/9fd94681619ae56f7fa0585e75a4b56a.1000x667x1.jpg",
+       "id": 416958,
+       "image_url": "https://images.genius.com/23418370da5ffae7ea6e412bf9415cd7.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cam Blackwood",
+       "url": "https://genius.com/artists/Cam-blackwood"
+      }
+     ]
+    },
+    {
+     "label": "Programmer",
+     "artists": [
+      {
+       "api_path": "/artists/416958",
+       "header_image_url": "https://images.genius.com/9fd94681619ae56f7fa0585e75a4b56a.1000x667x1.jpg",
+       "id": 416958,
+       "image_url": "https://images.genius.com/23418370da5ffae7ea6e412bf9415cd7.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cam Blackwood",
+       "url": "https://genius.com/artists/Cam-blackwood"
+      }
+     ]
+    },
+    {
+     "label": "Organ",
+     "artists": [
+      {
+       "api_path": "/artists/416958",
+       "header_image_url": "https://images.genius.com/9fd94681619ae56f7fa0585e75a4b56a.1000x667x1.jpg",
+       "id": 416958,
+       "image_url": "https://images.genius.com/23418370da5ffae7ea6e412bf9415cd7.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cam Blackwood",
+       "url": "https://genius.com/artists/Cam-blackwood"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/416958",
+       "header_image_url": "https://images.genius.com/9fd94681619ae56f7fa0585e75a4b56a.1000x667x1.jpg",
+       "id": 416958,
+       "image_url": "https://images.genius.com/23418370da5ffae7ea6e412bf9415cd7.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cam Blackwood",
+       "url": "https://genius.com/artists/Cam-blackwood"
+      },
+      {
+       "api_path": "/artists/133122",
+       "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+       "id": 133122,
+       "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "George Ezra",
+       "url": "https://genius.com/artists/George-ezra",
+       "iq": 112
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/416958",
+       "header_image_url": "https://images.genius.com/9fd94681619ae56f7fa0585e75a4b56a.1000x667x1.jpg",
+       "id": 416958,
+       "image_url": "https://images.genius.com/23418370da5ffae7ea6e412bf9415cd7.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cam Blackwood",
+       "url": "https://genius.com/artists/Cam-blackwood"
+      }
+     ]
+    },
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/133122",
+       "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+       "id": 133122,
+       "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "George Ezra",
+       "url": "https://genius.com/artists/George-ezra",
+       "iq": 112
+      }
+     ]
+    },
+    {
+     "label": "Associated Performer",
+     "artists": [
+      {
+       "api_path": "/artists/133122",
+       "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+       "id": 133122,
+       "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "George Ezra",
+       "url": "https://genius.com/artists/George-ezra",
+       "iq": 112
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 11884,
+    "annotator_login": "frasierfonzie",
+    "api_path": "/referents/3736156",
+    "classification": "accepted",
+    "fragment": "Budapest",
+    "id": 3736156,
+    "is_description": true,
+    "path": "/3736156/George-ezra-budapest/Budapest",
+    "range": {
+     "content": "Budapest"
+    },
+    "song_id": 344880,
+    "url": "https://genius.com/3736156/George-ezra-budapest/Budapest",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/344880",
+     "client_timestamps": {
+      "updated_by_human_at": 1576727056,
+      "lyrics_updated_at": 1576727056
+     },
+     "context": "George Ezra",
+     "id": 344880,
+     "image_url": "https://images.genius.com/49301f39948a8d9b1df4a05a911409ae.1000x1000x1.jpg",
+     "link_title": "Budapest by\u00a0George\u00a0Ezra",
+     "title": "Budapest",
+     "type": "Song",
+     "url": "https://genius.com/George-ezra-budapest-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3736156",
+      "body": {
+       "plain": "\u201cBudapest\u201d is George Ezra\u2019s lead single from his debut album Wanted on Voyage. The song was released in Italy on 13 December 2013, in the UK 18 April 2014, and in the US on 23 September 2014.\n\n\u201cBudapest\u201d is basically Ezra\u2019s declaration that nothing matters as much as his love. According to himself, he originally conceived the idea for the song by imagining giving up all the things he didn\u2019t have for this girl, as opposed to the usual love songs where people fuss about giving this and that up for each other. Ezra doesn\u2019t have any of these things."
+      },
+      "comment_count": 3,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3736156,
+      "pinned": false,
+      "share_url": "https://genius.com/3736156",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3736156/George-ezra-budapest/Budapest",
+      "verified": false,
+      "votes_total": 44,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.5,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/11884",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/b2a219db40d418e63867a2d474fbd6c1",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/b2a219db40d418e63867a2d474fbd6c1",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/b2a219db40d418e63867a2d474fbd6c1",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/b2a219db40d418e63867a2d474fbd6c1",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/b2a219db40d418e63867a2d474fbd6c1",
+         "human_readable_role_for_display": "Contributor",
+         "id": 11884,
+         "iq": 1254,
+         "login": "frasierfonzie",
+         "name": "frasierfonzie",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/frasierfonzie",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.4,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/164289",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/5b8288767a8eb566183f6b31f6c44bf3",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/5b8288767a8eb566183f6b31f6c44bf3",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/5b8288767a8eb566183f6b31f6c44bf3",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/5b8288767a8eb566183f6b31f6c44bf3",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/5b8288767a8eb566183f6b31f6c44bf3",
+         "human_readable_role_for_display": "Contributor",
+         "id": 164289,
+         "iq": 1133,
+         "login": "johnsonthezhird",
+         "name": "johnsonthezhird",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/johnsonthezhird",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.1,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1649950",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/4215a86aeccabcaeee3b9295c32ab96b",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/4215a86aeccabcaeee3b9295c32ab96b",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/4215a86aeccabcaeee3b9295c32ab96b",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/4215a86aeccabcaeee3b9295c32ab96b",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/4215a86aeccabcaeee3b9295c32ab96b",
+         "human_readable_role_for_display": null,
+         "id": 1649950,
+         "iq": 173,
+         "login": "MichFox",
+         "name": "MichFox",
+         "role_for_display": null,
+         "url": "https://genius.com/MichFox",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:7q0aQpiLv5tIsupcgQ3Ny4",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/7q0aQpiLv5tIsupcgQ3Ny4"
+    },
+    {
+     "attribution": "george ezra",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/george-ezra/budapest-1"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=VHrLPs3_1Fs"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/133122",
+    "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+    "id": 133122,
+    "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "George Ezra",
+    "url": "https://genius.com/artists/George-ezra",
+    "iq": 112
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/416958",
+     "header_image_url": "https://images.genius.com/9fd94681619ae56f7fa0585e75a4b56a.1000x667x1.jpg",
+     "id": 416958,
+     "image_url": "https://images.genius.com/23418370da5ffae7ea6e412bf9415cd7.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cam Blackwood",
+     "url": "https://genius.com/artists/Cam-blackwood"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/4031999",
+       "full_title": "Mashup! by\u00a0\u200bdodie",
+       "header_image_thumbnail_url": "https://images.genius.com/bc1850fd8acbe72139d684c23ec12b58.268x268x1.jpg",
+       "header_image_url": "https://images.genius.com/bc1850fd8acbe72139d684c23ec12b58.268x268x1.jpg",
+       "id": 4031999,
+       "lyrics_owner_id": 5640709,
+       "lyrics_state": "complete",
+       "path": "/Dodie-mashup-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/bc1850fd8acbe72139d684c23ec12b58.268x268x1.jpg",
+       "song_art_image_url": "https://images.genius.com/bc1850fd8acbe72139d684c23ec12b58.268x268x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Mashup!",
+       "title_with_featured": "Mashup!",
+       "url": "https://genius.com/Dodie-mashup-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/338841",
+        "header_image_url": "https://images.genius.com/0ca53f1e862fe819596603923d659107.1000x331x1.jpg",
+        "id": 338841,
+        "image_url": "https://images.genius.com/f40c56791d836d0d312540cf4443a216.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "\u200bdodie",
+        "url": "https://genius.com/artists/Dodie",
+        "iq": 1689
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4219666",
+       "full_title": "Budapest by\u00a0Sigrid",
+       "header_image_thumbnail_url": "https://images.genius.com/4f1799ace0394d3086807c83675df3a4.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/4f1799ace0394d3086807c83675df3a4.976x976x1.jpg",
+       "id": 4219666,
+       "lyrics_owner_id": 6372521,
+       "lyrics_state": "complete",
+       "path": "/Sigrid-budapest-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/4f1799ace0394d3086807c83675df3a4.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4f1799ace0394d3086807c83675df3a4.976x976x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Budapest",
+       "title_with_featured": "Budapest",
+       "url": "https://genius.com/Sigrid-budapest-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1073175",
+        "header_image_url": "https://images.genius.com/40256b5f4c06fb478d82b7f57be6217f.1000x370x1.png",
+        "id": 1073175,
+        "image_url": "https://images.genius.com/4f1799ace0394d3086807c83675df3a4.976x976x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Sigrid",
+        "url": "https://genius.com/artists/Sigrid",
+        "iq": 792
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2044618",
+       "full_title": "Budapest (Blondee & Hagen Remix) by\u00a0Blondee\u00a0& Hagen",
+       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1598905858",
+       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1598905858",
+       "id": 2044618,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Blondee-and-hagen-budapest-blondee-and-hagen-remix-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1598905858",
+       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1598905858",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Budapest (Blondee & Hagen Remix)",
+       "title_with_featured": "Budapest (Blondee & Hagen Remix)",
+       "url": "https://genius.com/Blondee-and-hagen-budapest-blondee-and-hagen-remix-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1843827",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+        "id": 1843827,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Blondee & Hagen",
+        "url": "https://genius.com/artists/Blondee-and-hagen"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/416959",
+     "header_image_url": "https://images.genius.com/3e570c32c82cf2bb32ac7aa9ab242fdd.1000x667x1.jpg",
+     "id": 416959,
+     "image_url": "https://images.genius.com/712a920de17655b4037d1c06cfde1312.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joel Pott",
+     "url": "https://genius.com/artists/Joel-pott"
+    },
+    {
+     "api_path": "/artists/133122",
+     "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+     "id": 133122,
+     "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "George Ezra",
+     "url": "https://genius.com/artists/George-ezra",
+     "iq": 112
+    }
+   ],
+   "lyrics": "[Hook]\nMy house in Budapest, my\nMy hidden treasure chest\nGolden grand piano\nMy beautiful Castillo\n\n[Refrain]\nYou, ooh, you, ooh\nI'd leave it all\n\n[Verse 1]\nMy acres of a land\nI have achieved\nIt may be hard for you to\nStop and believe\n\n[Refrain]\nBut for you, ooh, you, ooh\nI'd leave it all\nOh, for you, ooh, you, ooh\nI'd leave it all\n\n[Chorus]\nGive me one good reason\nWhy I should never make a change\nAnd baby, if you hold me\nThen all of this will go away\n\n[Verse 2]\nMy many artifacts\nThe list goes on\nIf you just say the words, I'll\nI'll up and run\n\n[Refrain]\nOh, to you, ooh, you, ooh\nI'd leave it all\nOh, for you, ooh, ooh\nI'd leave it all\n\n[Chorus]\nGive me one good reason\nWhy I should never make a change\nAnd baby, if you hold me\nThen all of this will go away\nGive me one good reason\nWhy I should never make a change\nAnd baby, if you hold me\nThen all of this will go away\n\n[Post-Chorus]\nA-ooh\nA-ooh\n\n[Verse 3]\nMy friends and family\nThey, don't understand\nThey fear they'll lose so much\nIf you take my hand\n\n[Refrain]\nBut for you, ooh, you, ooh\nI'd lose it all\nOh, for you, ooh, you, ooh\nI'd lose it all\n\n[Chorus]\nGive me one good reason\nWhy I should never make a change\nAnd baby, if you hold me\nThen all of this will go away\nGive me one good reason\nWhy I should never make a change\nAnd baby, if you hold me\nThen all of this will go away\n\n[Hook]\nMy house in Budapest, my\nMy hidden treasure chest\nGolden grand piano\nMy beautiful Castillo\n\n[Refrain]\nYou, ooh, you, ooh\nI'd leave it all\nOh, for you, ooh, you, ooh\nI'd leave it all"
+  },
+  {
+   "annotation_count": 4,
+   "api_path": "/songs/3444501",
+   "apple_music_id": "1331589488",
+   "apple_music_player_url": "https://genius.com/songs/3444501/apple_music_player",
+   "description": {
+    "plain": "\u201cParadise\u201d is the second single for George Ezra\u2019s sophomore album Staying at Tamara\u2019s.  In the song, Ezra sings about someone who has obviously stolen his heart, and equatesnthe feeling of being with her to a feeling of being in paradise.\n\nIn an interview Ezra explains that this song isn\u2019t directed at any particular love story, but the effect falling in love has on one\u2019s psyche.  The upbeat tempo of the song helps to covey this feeling effectively."
+   },
+   "embed_content": "<div id='rg_embed_link_3444501' class='rg_embed_link' data-song-id='3444501'>Read <a href='https://genius.com/George-ezra-paradise-lyrics'>\u201cParadise\u201d by George\u00a0Ezra</a> on Genius</div> <script crossorigin src='//genius.com/songs/3444501/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Paradise by\u00a0George\u00a0Ezra",
+   "header_image_thumbnail_url": "https://images.genius.com/9f677eeb02af78c02102861f3a7c0753.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/9f677eeb02af78c02102861f3a7c0753.1000x1000x1.jpg",
+   "id": 3444501,
+   "lyrics_owner_id": 3628738,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/George-ezra-paradise-lyrics",
+   "pyongs_count": 10,
+   "recording_location": null,
+   "release_date": "2018-01-19",
+   "release_date_for_display": "January 19, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8325c405f0bc9d821dcdad1851de3a25.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8325c405f0bc9d821dcdad1851de3a25.700x700x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 24,
+    "iq_earners": 24,
+    "transcribers": 2,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 208127
+   },
+   "title": "Paradise",
+   "title_with_featured": "Paradise",
+   "url": "https://genius.com/George-ezra-paradise-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/350492",
+    "cover_art_url": "https://images.genius.com/9f677eeb02af78c02102861f3a7c0753.1000x1000x1.jpg",
+    "full_title": "Staying at Tamara's by George Ezra",
+    "id": 350492,
+    "name": "Staying at Tamara\u2019s",
+    "url": "https://genius.com/albums/George-ezra/Staying-at-tamara-s",
+    "artist": {
+     "api_path": "/artists/133122",
+     "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+     "id": 133122,
+     "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "George Ezra",
+     "url": "https://genius.com/artists/George-ezra",
+     "iq": 112
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1325601",
+       "header_image_url": "https://images.genius.com/ebc41ded5172aacd85978eb7d8bea6de.750x1000x1.jpg",
+       "id": 1325601,
+       "image_url": "https://images.genius.com/b28ff31d2da3ec791c9077174914a3eb.575x575x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Liam Thorne",
+       "url": "https://genius.com/artists/Liam-thorne"
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/133122",
+       "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+       "id": 133122,
+       "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "George Ezra",
+       "url": "https://genius.com/artists/George-ezra",
+       "iq": 112
+      }
+     ]
+    },
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/133122",
+       "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+       "id": 133122,
+       "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "George Ezra",
+       "url": "https://genius.com/artists/George-ezra",
+       "iq": 112
+      }
+     ]
+    },
+    {
+     "label": "Synthesizer",
+     "artists": [
+      {
+       "api_path": "/artists/416958",
+       "header_image_url": "https://images.genius.com/9fd94681619ae56f7fa0585e75a4b56a.1000x667x1.jpg",
+       "id": 416958,
+       "image_url": "https://images.genius.com/23418370da5ffae7ea6e412bf9415cd7.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cam Blackwood",
+       "url": "https://genius.com/artists/Cam-blackwood"
+      }
+     ]
+    },
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/416958",
+       "header_image_url": "https://images.genius.com/9fd94681619ae56f7fa0585e75a4b56a.1000x667x1.jpg",
+       "id": 416958,
+       "image_url": "https://images.genius.com/23418370da5ffae7ea6e412bf9415cd7.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cam Blackwood",
+       "url": "https://genius.com/artists/Cam-blackwood"
+      }
+     ]
+    },
+    {
+     "label": "Percussion",
+     "artists": [
+      {
+       "api_path": "/artists/1325600",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1325600,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Matthew Racher",
+       "url": "https://genius.com/artists/Matthew-racher"
+      },
+      {
+       "api_path": "/artists/416958",
+       "header_image_url": "https://images.genius.com/9fd94681619ae56f7fa0585e75a4b56a.1000x667x1.jpg",
+       "id": 416958,
+       "image_url": "https://images.genius.com/23418370da5ffae7ea6e412bf9415cd7.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cam Blackwood",
+       "url": "https://genius.com/artists/Cam-blackwood"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/133122",
+       "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+       "id": 133122,
+       "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "George Ezra",
+       "url": "https://genius.com/artists/George-ezra",
+       "iq": 112
+      },
+      {
+       "api_path": "/artists/416958",
+       "header_image_url": "https://images.genius.com/9fd94681619ae56f7fa0585e75a4b56a.1000x667x1.jpg",
+       "id": 416958,
+       "image_url": "https://images.genius.com/23418370da5ffae7ea6e412bf9415cd7.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cam Blackwood",
+       "url": "https://genius.com/artists/Cam-blackwood"
+      }
+     ]
+    },
+    {
+     "label": "Programming",
+     "artists": [
+      {
+       "api_path": "/artists/1325600",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1325600,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Matthew Racher",
+       "url": "https://genius.com/artists/Matthew-racher"
+      },
+      {
+       "api_path": "/artists/1325601",
+       "header_image_url": "https://images.genius.com/ebc41ded5172aacd85978eb7d8bea6de.750x1000x1.jpg",
+       "id": 1325601,
+       "image_url": "https://images.genius.com/b28ff31d2da3ec791c9077174914a3eb.575x575x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Liam Thorne",
+       "url": "https://genius.com/artists/Liam-thorne"
+      },
+      {
+       "api_path": "/artists/416958",
+       "header_image_url": "https://images.genius.com/9fd94681619ae56f7fa0585e75a4b56a.1000x667x1.jpg",
+       "id": 416958,
+       "image_url": "https://images.genius.com/23418370da5ffae7ea6e412bf9415cd7.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cam Blackwood",
+       "url": "https://genius.com/artists/Cam-blackwood"
+      },
+      {
+       "api_path": "/artists/59634",
+       "header_image_url": "https://images.genius.com/cd447300aedfd239e402271175407857.700x466x1.jpg",
+       "id": 59634,
+       "image_url": "https://images.genius.com/ecc250ea803de1650dd872cc283edc9a.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dan Grech-Marguerat",
+       "url": "https://genius.com/artists/Dan-grech-marguerat"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/1325600",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1325600,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Matthew Racher",
+       "url": "https://genius.com/artists/Matthew-racher"
+      },
+      {
+       "api_path": "/artists/271741",
+       "header_image_url": "https://images.genius.com/452540d18ef14b7b88477cd2bbecea92.1000x364x1.jpg",
+       "id": 271741,
+       "image_url": "https://images.genius.com/77d164bd51455c11aa941f298bd09506.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Florrie",
+       "url": "https://genius.com/artists/Florrie"
+      }
+     ]
+    },
+    {
+     "label": "Background Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/271741",
+       "header_image_url": "https://images.genius.com/452540d18ef14b7b88477cd2bbecea92.1000x364x1.jpg",
+       "id": 271741,
+       "image_url": "https://images.genius.com/77d164bd51455c11aa941f298bd09506.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Florrie",
+       "url": "https://genius.com/artists/Florrie"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/641341",
+       "header_image_url": "https://images.genius.com/f883736541eabbfb08e6d079a720db9f.1000x535x1.jpg",
+       "id": 641341,
+       "image_url": "https://images.genius.com/d448111887d2b34267df1ca916335210.299x255x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dave Kutch",
+       "url": "https://genius.com/artists/Dave-kutch"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1156812",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1156812,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Charles Haydon Hicks",
+       "url": "https://genius.com/artists/Charles-haydon-hicks"
+      },
+      {
+       "api_path": "/artists/59634",
+       "header_image_url": "https://images.genius.com/cd447300aedfd239e402271175407857.700x466x1.jpg",
+       "id": 59634,
+       "image_url": "https://images.genius.com/ecc250ea803de1650dd872cc283edc9a.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dan Grech-Marguerat",
+       "url": "https://genius.com/artists/Dan-grech-marguerat"
+      },
+      {
+       "api_path": "/artists/485258",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 485258,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joel Davies",
+       "url": "https://genius.com/artists/Joel-davies"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3628738,
+    "annotator_login": "DeviantDevi",
+    "api_path": "/referents/13550907",
+    "classification": "accepted",
+    "fragment": "Paradise",
+    "id": 13550907,
+    "is_description": true,
+    "path": "/13550907/George-ezra-paradise/Paradise",
+    "range": {
+     "content": "Paradise"
+    },
+    "song_id": 3444501,
+    "url": "https://genius.com/13550907/George-ezra-paradise/Paradise",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3444501",
+     "client_timestamps": {
+      "updated_by_human_at": 1585738243,
+      "lyrics_updated_at": 1585738243
+     },
+     "context": "George Ezra",
+     "id": 3444501,
+     "image_url": "https://images.genius.com/8325c405f0bc9d821dcdad1851de3a25.700x700x1.jpg",
+     "link_title": "Paradise by\u00a0George\u00a0Ezra",
+     "title": "Paradise",
+     "type": "Song",
+     "url": "https://genius.com/George-ezra-paradise-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13550907",
+      "body": {
+       "plain": "\u201cParadise\u201d is the second single for George Ezra\u2019s sophomore album Staying at Tamara\u2019s.  In the song, Ezra sings about someone who has obviously stolen his heart, and equatesnthe feeling of being with her to a feeling of being in paradise.\n\nIn an interview Ezra explains that this song isn\u2019t directed at any particular love story, but the effect falling in love has on one\u2019s psyche.  The upbeat tempo of the song helps to covey this feeling effectively."
+      },
+      "comment_count": 2,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 13550907,
+      "pinned": false,
+      "share_url": "https://genius.com/13550907",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/13550907/George-ezra-paradise/Paradise",
+      "verified": false,
+      "votes_total": 22,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.4878048780487805,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3344664",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/678b4a7ae7eca093fa7b004f27b2a5e6",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/678b4a7ae7eca093fa7b004f27b2a5e6",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/678b4a7ae7eca093fa7b004f27b2a5e6",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/678b4a7ae7eca093fa7b004f27b2a5e6",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/678b4a7ae7eca093fa7b004f27b2a5e6",
+         "human_readable_role_for_display": "Editor",
+         "id": 3344664,
+         "iq": 14867,
+         "login": "KennyTogs",
+         "name": "KennyTogs",
+         "role_for_display": "editor",
+         "url": "https://genius.com/KennyTogs",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.2682926829268293,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3628738",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/7caf31f651773302429a7f7a0b9ed114",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/7caf31f651773302429a7f7a0b9ed114",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/7caf31f651773302429a7f7a0b9ed114",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/7caf31f651773302429a7f7a0b9ed114",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/c62an03g9z9",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3628738,
+         "iq": 60957,
+         "login": "DeviantDevi",
+         "name": "DeviantDevi",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/DeviantDevi",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.24390243902439024,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6686864",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/c08d9a7ad0f0645d9c095517e11e5630",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/c08d9a7ad0f0645d9c095517e11e5630",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/c08d9a7ad0f0645d9c095517e11e5630",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/c08d9a7ad0f0645d9c095517e11e5630",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/c08d9a7ad0f0645d9c095517e11e5630",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6686864,
+         "iq": 694,
+         "login": "JacobCarr5346",
+         "name": "JacobCarr5346",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/JacobCarr5346",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "attribution": "george ezra",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/george-ezra/paradise"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=XOwihbur34E"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/133122",
+    "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+    "id": 133122,
+    "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "George Ezra",
+    "url": "https://genius.com/artists/George-ezra",
+    "iq": 112
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/416958",
+     "header_image_url": "https://images.genius.com/9fd94681619ae56f7fa0585e75a4b56a.1000x667x1.jpg",
+     "id": 416958,
+     "image_url": "https://images.genius.com/23418370da5ffae7ea6e412bf9415cd7.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cam Blackwood",
+     "url": "https://genius.com/artists/Cam-blackwood"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4144717",
+       "full_title": "Paradise by\u00a0KIDZ\u00a0BOP Kids",
+       "header_image_thumbnail_url": "https://images.genius.com/a3be3c07167af0144ae03c349f1c6395.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/a3be3c07167af0144ae03c349f1c6395.400x400x1.jpg",
+       "id": 4144717,
+       "lyrics_owner_id": 126836,
+       "lyrics_state": "complete",
+       "path": "/Kidz-bop-kids-paradise-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/a3be3c07167af0144ae03c349f1c6395.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a3be3c07167af0144ae03c349f1c6395.400x400x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Paradise",
+       "title_with_featured": "Paradise",
+       "url": "https://genius.com/Kidz-bop-kids-paradise-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/353676",
+        "header_image_url": "https://images.genius.com/a02d5d66af3e2e01e751c36b313ef718.400x400x1.jpg",
+        "id": 353676,
+        "image_url": "https://images.genius.com/2f3f1262beaa02fddb8349628ea9fe6f.399x399x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "KIDZ BOP Kids",
+        "url": "https://genius.com/artists/Kidz-bop-kids"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3492873",
+       "full_title": "Paradise (Acoustic) by\u00a0George\u00a0Ezra",
+       "header_image_thumbnail_url": "https://images.genius.com/62b1c6ea6ecf9c51ce63d2e4e9f70712.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/62b1c6ea6ecf9c51ce63d2e4e9f70712.640x640x1.jpg",
+       "id": 3492873,
+       "lyrics_owner_id": 3628738,
+       "lyrics_state": "complete",
+       "path": "/George-ezra-paradise-acoustic-lyrics",
+       "pyongs_count": 1,
+       "song_art_image_thumbnail_url": "https://images.genius.com/62b1c6ea6ecf9c51ce63d2e4e9f70712.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/62b1c6ea6ecf9c51ce63d2e4e9f70712.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Paradise (Acoustic)",
+       "title_with_featured": "Paradise (Acoustic)",
+       "url": "https://genius.com/George-ezra-paradise-acoustic-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/133122",
+        "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+        "id": 133122,
+        "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "George Ezra",
+        "url": "https://genius.com/artists/George-ezra",
+        "iq": 112
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3935235",
+       "full_title": "Paradise (Bakermat Remix) by\u00a0George\u00a0Ezra",
+       "header_image_thumbnail_url": "https://images.genius.com/c14253b4e7340ce3ca251703ed991b03.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/c14253b4e7340ce3ca251703ed991b03.300x300x1.jpg",
+       "id": 3935235,
+       "lyrics_owner_id": 6372521,
+       "lyrics_state": "complete",
+       "path": "/George-ezra-paradise-bakermat-remix-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/c14253b4e7340ce3ca251703ed991b03.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c14253b4e7340ce3ca251703ed991b03.300x300x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Paradise (Bakermat Remix)",
+       "title_with_featured": "Paradise (Bakermat Remix)",
+       "url": "https://genius.com/George-ezra-paradise-bakermat-remix-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/133122",
+        "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+        "id": 133122,
+        "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "George Ezra",
+        "url": "https://genius.com/artists/George-ezra",
+        "iq": 112
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/133122",
+     "header_image_url": "https://images.genius.com/16dffc9a6c5d4b6c75f104b1f6fdab51.1000x435x1.jpg",
+     "id": 133122,
+     "image_url": "https://images.genius.com/b711051157ea28e6e00ecece0db2f116.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "George Ezra",
+     "url": "https://genius.com/artists/George-ezra",
+     "iq": 112
+    }
+   ],
+   "lyrics": "[Verse 1]\nMy love (my love)\nMy lover, lover, lover\nI'm in paradise whenever I'm with you\nMy mind (my mind)\nMy m-m-m-m-mind\nWell it's a paradise whenever I'm with you\nRide on (ride on)\nI will ride on down the road\nI will find you, I will hold you, I'll be there\nIt's long (how long?)\nIt's a mighty long road but\nI find you, I will hold you and I'll be there\n\n[Pre-Chorus]\nI know you heard it from those other boys\nBut this time it's real\nIt's something that I feel and\nI know you heard it from those other boys\nBut this time it's real\nIt's something that I feel and\n\n[Chorus]\nIf it feels like paradise running through your bloody veins\nYou know it's love heading your way\nIf it feels like paradise running through your bloody veins\nYou know it's love heading your way\n\n[Verse 2]\nMy time (my time)\nMy t-t-t-t-time\nWell its a never ending helter skelter\nWe'll be out whatever the weather\nMy heart (my heart)\nMy boom-boom heart\nIt's a-beating, it's a-thumping\nAnd I'm alive\n\n[Pre-Chorus]\nI know you heard it from those other boys\nBut this time it's real\nIt's something that I feel and\nI know you heard it from those other boys\nBut this time it's real\nIt's something that I feel and\n\n[Chorus]\nIf it feels like paradise running through your bloody veins\nYou know it's love heading your way\nIf it feels like paradise running through your bloody veins\nYou know it's love heading your way\n\n[Bridge]\nParadise, roll on roll on\nMeet me there, roll on roll on\nParadise, roll on roll on\nMeet me there, roll on roll on\nParadise, roll on roll on\nMeet me there, roll on roll on\nParadise, roll on roll on\nMeet me there, roll on roll on\nParadise, roll on roll on\nMeet me there, roll on roll on\nParadise, roll on roll on\nMeet me there, roll on roll on\n\n[Chorus]\nIf it feels like paradise running through your bloody veins\nYou know it's love heading your way\nIf it feels like paradise running through your bloody veins\nYou know it's love heading your way\n\n[Pre-Chorus]\nI know you heard it from those other boys\nBut this time it's real\nIt's something that I feel and\nI know you heard it from those other boys\nBut this time it's real\nIt's something that I feel and\n\n[Chorus]\nIf it feels like paradise running through your bloody veins\nYou know it's love heading your way\nIf it feels like paradise running through your bloody veins\nYou know it's love heading your way\nIf it feels like paradise running through your bloody veins\nYou know it's love heading your way\nIf it feels like paradise running through your bloody veins\nYou know it's love heading your way"
+  }
+ ]
+}

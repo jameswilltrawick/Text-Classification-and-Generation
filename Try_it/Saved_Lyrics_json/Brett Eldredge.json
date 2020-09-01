@@ -1,0 +1,1638 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/128131",
+ "description": {
+  "plain": "Brett Ryan Eldredge was born on March 23, 1986 in Paris, Illinois.  He is the son of Chris and Robin Beth Vonderlage Eldredge.  He is a country music singer and songwriter.  Besides vocals, he plays the guitar.\n\nSongs that Brett is known for include \u201cDon\u2019t Ya\u201d and \u201cLose My Mind\u201d."
+ },
+ "facebook_name": null,
+ "followers_count": 15,
+ "header_image_url": "https://images.genius.com/c0b345b182fa0417e26ae96339a216bd.389x129x1.jpg",
+ "id": 128131,
+ "image_url": "https://images.genius.com/272e0e54c1f51654a3184d0564ead528.1000x1000x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Brett Eldredge",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Brett-eldredge",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 193,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1773813,
+  "annotator_login": "Cindydawn9",
+  "api_path": "/referents/7001908",
+  "classification": "accepted",
+  "fragment": "Brett Eldredge",
+  "id": 7001908,
+  "is_description": true,
+  "path": "/7001908/Brett-eldredge/Brett-eldredge",
+  "range": {
+   "content": "Brett Eldredge"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7001908/Brett-eldredge/Brett-eldredge",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/128131",
+   "context": null,
+   "id": 128131,
+   "image_url": "https://images.genius.com/272e0e54c1f51654a3184d0564ead528.1000x1000x1.jpg",
+   "link_title": "Brett Eldredge",
+   "title": "Brett Eldredge",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Brett-eldredge"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7001908",
+    "body": {
+     "plain": "Brett Ryan Eldredge was born on March 23, 1986 in Paris, Illinois.  He is the son of Chris and Robin Beth Vonderlage Eldredge.  He is a country music singer and songwriter.  Besides vocals, he plays the guitar.\n\nSongs that Brett is known for include \u201cDon\u2019t Ya\u201d and \u201cLose My Mind\u201d."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 7001908,
+    "pinned": false,
+    "share_url": "https://genius.com/7001908",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/7001908/Brett-eldredge/Brett-eldredge",
+    "verified": false,
+    "votes_total": 2,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1773813",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/a75909dbf9d3352ea2b4e427f4e47902",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/a75909dbf9d3352ea2b4e427f4e47902",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/a75909dbf9d3352ea2b4e427f4e47902",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/a75909dbf9d3352ea2b4e427f4e47902",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/a75909dbf9d3352ea2b4e427f4e47902",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1773813,
+       "iq": 21286,
+       "login": "Cindydawn9",
+       "name": "Cindydawn9",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Cindydawn9",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/10988160",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/50e378d8c64be3a712f6e5fe31971007",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/50e378d8c64be3a712f6e5fe31971007",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/50e378d8c64be3a712f6e5fe31971007",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/50e378d8c64be3a712f6e5fe31971007",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/c0b345b182fa0417e26ae96339a216bd.389x129x1.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 10988160,
+  "iq": 193,
+  "login": "BrettEldredgeOfficial",
+  "name": "Brett Eldredge",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/BrettEldredgeOfficial",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/3001173",
+   "apple_music_id": "1232293580",
+   "apple_music_player_url": "https://genius.com/songs/3001173/apple_music_player",
+   "description": {
+    "plain": "\u201cSomethin' I\u2019m Good At\u201d is a song co-written and recorded by American country music artist Brett Eldredge. It was co-written with Tom Douglas and released on February 24, 2017 as the lead single from Eldredge\u2019s self-titled fourth studio album.\n\nThe song was written in an hour after a five-hour session in which Eldredge worked on a ballad, and was recorded out of a desire to be spontaneous and have fun. Eldredge said of the song: \u201cIt made us write one of the craziest, out of nowhere fun songs I\u2019ve ever written. I\u2019ve never had so much fun recording.\u201d His ad libs and laughter were left on the final recording. Douglas and producer Ross Copperman also provided backing vocals."
+   },
+   "embed_content": "<div id='rg_embed_link_3001173' class='rg_embed_link' data-song-id='3001173'>Read <a href='https://genius.com/Brett-eldredge-somethin-im-good-at-lyrics'>\u201cSomethin\u2019 I\u2019m Good At\u201d by Brett\u00a0Eldredge</a> on Genius</div> <script crossorigin src='//genius.com/songs/3001173/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Somethin\u2019 I\u2019m Good At by\u00a0Brett\u00a0Eldredge (Ft.\u00a0Ross\u00a0Copperman & Tom\u00a0Douglas)",
+   "header_image_thumbnail_url": "https://images.genius.com/87f2eb98399f5c81787bef9efaebea03.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/87f2eb98399f5c81787bef9efaebea03.1000x1000x1.jpg",
+   "id": 3001173,
+   "lyrics_owner_id": 3499648,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Brett-eldredge-somethin-im-good-at-lyrics",
+   "pyongs_count": 1,
+   "recording_location": null,
+   "release_date": "2017-02-23",
+   "release_date_for_display": "February 23, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/1ae7647df1b244af07642619b53d4ea5.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1ae7647df1b244af07642619b53d4ea5.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 11,
+    "iq_earners": 11,
+    "transcribers": 3,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 77846
+   },
+   "title": "Somethin\u2019 I\u2019m Good At",
+   "title_with_featured": "Somethin\u2019 I\u2019m Good At (Ft.\u00a0Ross\u00a0Copperman & Tom\u00a0Douglas)",
+   "url": "https://genius.com/Brett-eldredge-somethin-im-good-at-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/344598",
+    "cover_art_url": "https://images.genius.com/2c1430ee126fb454066018384f67f6b3.1000x1000x1.jpg",
+    "full_title": "Brett Eldredge by Brett Eldredge",
+    "id": 344598,
+    "name": "Brett Eldredge",
+    "url": "https://genius.com/albums/Brett-eldredge/Brett-eldredge",
+    "artist": {
+     "api_path": "/artists/128131",
+     "header_image_url": "https://images.genius.com/c0b345b182fa0417e26ae96339a216bd.389x129x1.jpg",
+     "id": 128131,
+     "image_url": "https://images.genius.com/272e0e54c1f51654a3184d0564ead528.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Brett Eldredge",
+     "url": "https://genius.com/artists/Brett-eldredge",
+     "iq": 193
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Electric Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/662411",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 662411,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Derek Wells",
+       "url": "https://genius.com/artists/Derek-wells"
+      }
+     ]
+    },
+    {
+     "label": "Acoustic Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/662411",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 662411,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Derek Wells",
+       "url": "https://genius.com/artists/Derek-wells"
+      }
+     ]
+    },
+    {
+     "label": "Production",
+     "artists": [
+      {
+       "api_path": "/artists/259377",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 259377,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Scott Johnson",
+       "url": "https://genius.com/artists/Scott-johnson"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1089736",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1089736,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "M. Allen Parker",
+       "url": "https://genius.com/artists/M-allen-parker"
+      }
+     ]
+    },
+    {
+     "label": "Mixer",
+     "artists": [
+      {
+       "api_path": "/artists/515186",
+       "header_image_url": "https://images.genius.com/06b3c4b525fe335ae0e2c63f5e23ebfe.224x224x1.png",
+       "id": 515186,
+       "image_url": "https://images.genius.com/06b3c4b525fe335ae0e2c63f5e23ebfe.224x224x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Justin Niebank",
+       "url": "https://genius.com/artists/Justin-niebank"
+      }
+     ]
+    },
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/1003323",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1003323,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dave Cohen",
+       "url": "https://genius.com/artists/Dave-cohen"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/670298",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 670298,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dan Dugmore",
+       "url": "https://genius.com/artists/Dan-dugmore"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1063126",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1063126,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Josh Ditty",
+       "url": "https://genius.com/artists/Josh-ditty"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/648504",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 648504,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Fred Eltringham",
+       "url": "https://genius.com/artists/Fred-eltringham"
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/1023162",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "id": 1023162,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David LaBruyere",
+       "url": "https://genius.com/artists/David-labruyere"
+      }
+     ]
+    },
+    {
+     "label": "Lead Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/128131",
+       "header_image_url": "https://images.genius.com/c0b345b182fa0417e26ae96339a216bd.389x129x1.jpg",
+       "id": 128131,
+       "image_url": "https://images.genius.com/272e0e54c1f51654a3184d0564ead528.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Brett Eldredge",
+       "url": "https://genius.com/artists/Brett-eldredge",
+       "iq": 193
+      }
+     ]
+    },
+    {
+     "label": "Background Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/404709",
+       "header_image_url": "https://images.genius.com/8f9e7d508c08763bef870aa1dc2132a6.300x300x1.png",
+       "id": 404709,
+       "image_url": "https://images.genius.com/8f9e7d508c08763bef870aa1dc2132a6.300x300x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tom Douglas",
+       "url": "https://genius.com/artists/Tom-douglas"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8625701,
+    "annotator_login": "Payno_Wins",
+    "api_path": "/referents/11401203",
+    "classification": "unreviewed",
+    "fragment": "Somethin\u2019 I\u2019m Good At",
+    "id": 11401203,
+    "is_description": true,
+    "path": "/11401203/Brett-eldredge-somethin-im-good-at/Somethin-im-good-at",
+    "range": {
+     "content": "Somethin\u2019 I\u2019m Good At"
+    },
+    "song_id": 3001173,
+    "url": "https://genius.com/11401203/Brett-eldredge-somethin-im-good-at/Somethin-im-good-at",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3001173",
+     "client_timestamps": {
+      "updated_by_human_at": 1590571060,
+      "lyrics_updated_at": 1590571060
+     },
+     "context": "Brett Eldredge",
+     "id": 3001173,
+     "image_url": "https://images.genius.com/1ae7647df1b244af07642619b53d4ea5.600x600x1.jpg",
+     "link_title": "Somethin\u2019 I\u2019m Good At by\u00a0Brett\u00a0Eldredge (Ft.\u00a0Ross\u00a0Copperman & Tom\u00a0Douglas)",
+     "title": "Somethin\u2019 I\u2019m Good At",
+     "type": "Song",
+     "url": "https://genius.com/Brett-eldredge-somethin-im-good-at-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11401203",
+      "body": {
+       "plain": "\u201cSomethin' I\u2019m Good At\u201d is a song co-written and recorded by American country music artist Brett Eldredge. It was co-written with Tom Douglas and released on February 24, 2017 as the lead single from Eldredge\u2019s self-titled fourth studio album.\n\nThe song was written in an hour after a five-hour session in which Eldredge worked on a ballad, and was recorded out of a desire to be spontaneous and have fun. Eldredge said of the song: \u201cIt made us write one of the craziest, out of nowhere fun songs I\u2019ve ever written. I\u2019ve never had so much fun recording.\u201d His ad libs and laughter were left on the final recording. Douglas and producer Ross Copperman also provided backing vocals."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 11401203,
+      "pinned": false,
+      "share_url": "https://genius.com/11401203",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/11401203/Brett-eldredge-somethin-im-good-at/Somethin-im-good-at",
+      "verified": false,
+      "votes_total": 1,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8625701",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/1bc929dec7aaed899198fbaa6d6efe4a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/1bc929dec7aaed899198fbaa6d6efe4a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/1bc929dec7aaed899198fbaa6d6efe4a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/1bc929dec7aaed899198fbaa6d6efe4a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/1bc929dec7aaed899198fbaa6d6efe4a",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8625701,
+         "iq": 2314,
+         "login": "Payno_Wins",
+         "name": "Payno_Wins",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Payno_Wins",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [
+    {
+     "api_path": "/artists/404709",
+     "header_image_url": "https://images.genius.com/8f9e7d508c08763bef870aa1dc2132a6.300x300x1.png",
+     "id": 404709,
+     "image_url": "https://images.genius.com/8f9e7d508c08763bef870aa1dc2132a6.300x300x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tom Douglas",
+     "url": "https://genius.com/artists/Tom-douglas"
+    },
+    {
+     "api_path": "/artists/100748",
+     "header_image_url": "https://images.genius.com/8919ea24a00635ea67dfe18406ad85b5.640x480x1.jpg",
+     "id": 100748,
+     "image_url": "https://images.genius.com/391081b48cff83d599b249eefd4ed24d.340x340x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ross Copperman",
+     "url": "https://genius.com/artists/Ross-copperman"
+    }
+   ],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "attribution": "bretteldredge",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/bretteldredge/somethin-im-good-at"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=kIDjovcTQhA"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/128131",
+    "header_image_url": "https://images.genius.com/c0b345b182fa0417e26ae96339a216bd.389x129x1.jpg",
+    "id": 128131,
+    "image_url": "https://images.genius.com/272e0e54c1f51654a3184d0564ead528.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Brett Eldredge",
+    "url": "https://genius.com/artists/Brett-eldredge",
+    "iq": 193
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/259377",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "id": 259377,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1598905858",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Scott Johnson",
+     "url": "https://genius.com/artists/Scott-johnson"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/404709",
+     "header_image_url": "https://images.genius.com/8f9e7d508c08763bef870aa1dc2132a6.300x300x1.png",
+     "id": 404709,
+     "image_url": "https://images.genius.com/8f9e7d508c08763bef870aa1dc2132a6.300x300x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tom Douglas",
+     "url": "https://genius.com/artists/Tom-douglas"
+    },
+    {
+     "api_path": "/artists/128131",
+     "header_image_url": "https://images.genius.com/c0b345b182fa0417e26ae96339a216bd.389x129x1.jpg",
+     "id": 128131,
+     "image_url": "https://images.genius.com/272e0e54c1f51654a3184d0564ead528.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Brett Eldredge",
+     "url": "https://genius.com/artists/Brett-eldredge",
+     "iq": 193
+    }
+   ],
+   "lyrics": "[Intro]\nGet ready to go crazy right here\nHere we go\n\n[Verse 1]\nI'm a real bad liar, I'm a burnt toast kinda guy\nAnd if I try to build a fire I'll burn the woods\nI ain't a mover or a shaker, can't keep up with the pacer\nNever met a dancefloor that ever did me any good\n\n[Chorus]\nI can't change the world, no I can't change a flat\nIf you give me your heart, girl, well, you may never get it back\nYou said you'd never smile again, but oh no, here it comes\nWould you look at that?\nI finally found somethin' I'm good at\n\n[Verse 2]\nI got a poor sense of direction, sometimes too strong of affection\nFor a whiskey made in Lynchburg, Tennessee (That's right)\nIf there's a hole in my boat son, you bet that's all she wrote\nI'm a Titanic sinking down into that deep blue sea\n\n[Chorus]\nI can't change the world, no I can't change a flat\nIf you give me your heart, girl, well, you may never get it back\nYou said you'd never smile again, but oh no, here it comes\nWould you look at that?\nI finally found somethin' I'm good at\n\n[Bridge 1]\nPlayin' hard to get are ya?\nLet me tell ya a little more about ya, and why I love ya\n\n[Verse 3]\nDamn you're a looker\nYou're the cane, you're the sugar\nJiffy Pop in the cooker\nYou're the author of the book\nThat I'm reading (Ain't ya baby?)\nYou're the moon, you're the sky\nYou're the apple of my eye\nMake me laugh 'til I cry\nTill I think I'm gonna die\nTurn me upside down\nSpin me around\nSpend all my money on you all over this town\n\n[Chorus]\nI can't change the world, no I can't change a flat\nIf you give me your heart, girl, well, you may never get it back\nYou said you'd never smile again, but oh no, here it comes\nWould you look at that? (Would you look at that?)\nI finally found somethin' I'm really good at\n\nYou thought it was over?\n\n[Bridge 2]\nOh my mine\nI'm such a lucky guy\nYou got me tongue tied\nLike Jekyll and Hyde\nI'm coming undone\nI'm born to run\nI got my shades on\nHere comes the sun\nAll cotton pickin'\nMy tick tocks tickin'\nI love I'm stricken'\nI'm flip flop flippin'\nI'm 'bout to cuss\nSon of a bus\nI can't stop singin'\nI'm havin' way too much fun\n\n[Chorus]\nI can't change the world, no I can't change a flat\nIf you give me your heart, girl, well, you may never get it back\nYou said you'd never smile again, but oh no, here it comes\nWould you look at that?\nI finally found somethin' I'm so good at\n\n[Outro]\nHahaha\nCut!"
+  },
+  {
+   "annotation_count": 3,
+   "api_path": "/songs/334790",
+   "apple_music_id": "676287692",
+   "apple_music_player_url": "https://genius.com/songs/334790/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_334790' class='rg_embed_link' data-song-id='334790'>Read <a href='https://genius.com/Brett-eldredge-dont-ya-lyrics'>\u201cDon't Ya\u201d by Brett\u00a0Eldredge</a> on Genius</div> <script crossorigin src='//genius.com/songs/334790/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Don't Ya by\u00a0Brett\u00a0Eldredge",
+   "header_image_thumbnail_url": "https://images.genius.com/d53faeea1033e43f261d77f66e79ddf8.300x300x1.png",
+   "header_image_url": "https://images.genius.com/d53faeea1033e43f261d77f66e79ddf8.600x600x1.png",
+   "id": 334790,
+   "lyrics_owner_id": 172252,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Brett-eldredge-dont-ya-lyrics",
+   "pyongs_count": 5,
+   "recording_location": null,
+   "release_date": "2012-10-08",
+   "release_date_for_display": "October 8, 2012",
+   "song_art_image_thumbnail_url": "https://images.genius.com/1a009b15c4ce3623710cbc3e8cdcb268.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1a009b15c4ce3623710cbc3e8cdcb268.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 3,
+    "contributors": 6,
+    "iq_earners": 6,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 20859
+   },
+   "title": "Don\u2019t Ya",
+   "title_with_featured": "Don't Ya",
+   "url": "https://genius.com/Brett-eldredge-dont-ya-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/112263",
+    "cover_art_url": "https://images.genius.com/5b6d100373b1c52eef6c66532001c0ae.1000x1000x1.jpg",
+    "full_title": "Bring You Back by Brett Eldredge",
+    "id": 112263,
+    "name": "Bring You Back",
+    "url": "https://genius.com/albums/Brett-eldredge/Bring-you-back",
+    "artist": {
+     "api_path": "/artists/128131",
+     "header_image_url": "https://images.genius.com/c0b345b182fa0417e26ae96339a216bd.389x129x1.jpg",
+     "id": 128131,
+     "image_url": "https://images.genius.com/272e0e54c1f51654a3184d0564ead528.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Brett Eldredge",
+     "url": "https://genius.com/artists/Brett-eldredge",
+     "iq": 193
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1112276",
+       "header_image_url": "https://images.genius.com/159917d9c26b9cfe66c0b04493a1f05a.900x900x1.png",
+       "id": 1112276,
+       "image_url": "https://images.genius.com/340e19086e9ebeae265e6e4947b0ffcb.900x900x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner Music Group",
+       "url": "https://genius.com/artists/Warner-music-group"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1168139,
+    "annotator_login": "Jacobfrog12",
+    "api_path": "/referents/3788464",
+    "classification": "needs_exegesis",
+    "fragment": "Don\u2019t Ya",
+    "id": 3788464,
+    "is_description": true,
+    "path": "/3788464/Brett-eldredge-dont-ya/Dont-ya",
+    "range": {
+     "content": "Don't Ya"
+    },
+    "song_id": 334790,
+    "url": "https://genius.com/3788464/Brett-eldredge-dont-ya/Dont-ya",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/334790",
+     "client_timestamps": {
+      "updated_by_human_at": 1581613177,
+      "lyrics_updated_at": 1532660303
+     },
+     "context": "Brett Eldredge",
+     "id": 334790,
+     "image_url": "https://images.genius.com/1a009b15c4ce3623710cbc3e8cdcb268.500x500x1.jpg",
+     "link_title": "Don\u2019t Ya by\u00a0Brett\u00a0Eldredge",
+     "title": "Don't Ya",
+     "type": "Song",
+     "url": "https://genius.com/Brett-eldredge-dont-ya-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3788464",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3788464,
+      "pinned": false,
+      "share_url": "https://genius.com/3788464",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3788464/Brett-eldredge-dont-ya/Dont-ya",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1168139",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/435bfb80e3fd344822e4fc41b3312c37",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/435bfb80e3fd344822e4fc41b3312c37",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/435bfb80e3fd344822e4fc41b3312c37",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/435bfb80e3fd344822e4fc41b3312c37",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/435bfb80e3fd344822e4fc41b3312c37",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1168139,
+         "iq": 1781,
+         "login": "Jacobfrog12",
+         "name": "Jacobfrog12",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Jacobfrog12",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:3Qe097eJNp9MfpT2PieEw0",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/3Qe097eJNp9MfpT2PieEw0"
+    },
+    {
+     "attribution": "tortuga music festival",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/tortuga-music-festival/brett-eldredge-dont-ya"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=D6ablYH-rpw"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/128131",
+    "header_image_url": "https://images.genius.com/c0b345b182fa0417e26ae96339a216bd.389x129x1.jpg",
+    "id": 128131,
+    "image_url": "https://images.genius.com/272e0e54c1f51654a3184d0564ead528.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Brett Eldredge",
+    "url": "https://genius.com/artists/Brett-eldredge",
+    "iq": 193
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/156397",
+     "header_image_url": "https://images.genius.com/72c29add87fe41e60f24212b58c4bca7.500x500x1.jpg",
+     "id": 156397,
+     "image_url": "https://images.genius.com/be30c606940e282c753eab1586c6964f.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris DeStefano",
+     "url": "https://genius.com/artists/Chris-destefano"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/411978",
+     "header_image_url": "https://images.genius.com/7685ec99a3317d93c5ca02cdfa293541.551x551x1.jpg",
+     "id": 411978,
+     "image_url": "https://images.genius.com/7685ec99a3317d93c5ca02cdfa293541.551x551x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ashley Gorley",
+     "url": "https://genius.com/artists/Ashley-gorley"
+    },
+    {
+     "api_path": "/artists/156397",
+     "header_image_url": "https://images.genius.com/72c29add87fe41e60f24212b58c4bca7.500x500x1.jpg",
+     "id": 156397,
+     "image_url": "https://images.genius.com/be30c606940e282c753eab1586c6964f.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris DeStefano",
+     "url": "https://genius.com/artists/Chris-destefano"
+    },
+    {
+     "api_path": "/artists/128131",
+     "header_image_url": "https://images.genius.com/c0b345b182fa0417e26ae96339a216bd.389x129x1.jpg",
+     "id": 128131,
+     "image_url": "https://images.genius.com/272e0e54c1f51654a3184d0564ead528.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Brett Eldredge",
+     "url": "https://genius.com/artists/Brett-eldredge",
+     "iq": 193
+    }
+   ],
+   "lyrics": "[Verse 1]\nGirl you cut those jeans just right\nI know you didn't buy 'em like that\nSo baby don't even try that\nYou dance, Oh you move\nLike there ain't nobody watchin'\nBut girl you know I'm watchin'\n\n[Hook]\nDon't lie, you've got it all figured out\nThat smile has got me spinnin' around\nDon't even try actin' like it ain't no thing\nCause I can see you move a little closer, closer\nGirl I gotta get to get to know ya, know ya\nEverything about ya makes me want ya, want ya\nKnow what you're doin baby don't ya, don't ya\n\n[Verse 2]\nYou've been lookin' over here all night\nAnd When I look, you look away\nOh I love the little games you play\nYea I bet you didn't mean to brush my hand when you walked by me\nLike you didn't mean to drive me crazy\n\n[Hook]\nDon't lie, you've got it all figured out\nThat smile has got me spinnin' around\nDon't even try actin' like it ain't no thing\nCause I can see you move a little closer, closer\nGirl I gotta get to get to know ya, know ya\nEverything about ya makes me want ya, want ya\nKnow what you're doin baby don't ya, don't ya\n\n[Bridge]\nWanna get outta here and let me show ya\nHow good it would feel to hold ya\nPut your pretty little head on my shoulder\nOh yea\n\n[Hook]\nDon't lie, you've got it all figured out\nThat smile has got me spinnin' around\nDon't even try actin' like it ain't no thing\nCause I can see you move a little closer, closer\nGirl I gotta get to get to know ya, know ya\nEverything about ya makes me want ya, want ya\nKnow what you're doin baby don't ya, don't ya"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2303119",
+   "apple_music_id": "1002252398",
+   "apple_music_player_url": "https://genius.com/songs/2303119/apple_music_player",
+   "description": {
+    "plain": "The second single released from Brett\u2019s sophomore album Illinois.  It peaked at #2 on Both the Billboard Hot Country Songs charts and for Country Airplay. Becoming his fifth top ten hit on both of the charts.\n\nThe video for the song was inspired by a  1996 comedy film called Multiplicity. In the video (just like the movie) Brett plays multiple versions of himself each with a different personality. One of the people in the video is his older brother Brice."
+   },
+   "embed_content": "<div id='rg_embed_link_2303119' class='rg_embed_link' data-song-id='2303119'>Read <a href='https://genius.com/Brett-eldredge-drunk-on-your-love-lyrics'>\u201cDrunk On Your Love\u201d by Brett\u00a0Eldredge</a> on Genius</div> <script crossorigin src='//genius.com/songs/2303119/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Drunk On Your Love by\u00a0Brett\u00a0Eldredge",
+   "header_image_thumbnail_url": "https://images.genius.com/c55372bd0ce0554adc90b8b9a5de0c7b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c55372bd0ce0554adc90b8b9a5de0c7b.1000x1000x1.jpg",
+   "id": 2303119,
+   "lyrics_owner_id": 93685,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Brett-eldredge-drunk-on-your-love-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2015-09-11",
+   "release_date_for_display": "September 11, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/86be50ee836526f98dbb84862c68f819.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/86be50ee836526f98dbb84862c68f819.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 8,
+    "iq_earners": 8,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 18977
+   },
+   "title": "Drunk On Your Love",
+   "title_with_featured": "Drunk On Your Love",
+   "url": "https://genius.com/Brett-eldredge-drunk-on-your-love-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/127904",
+    "cover_art_url": "https://images.genius.com/e388134f82eb4a04e30eae8c40206685.1000x1000x1.jpg",
+    "full_title": "Illinois by Brett Eldredge",
+    "id": 127904,
+    "name": "Illinois",
+    "url": "https://genius.com/albums/Brett-eldredge/Illinois",
+    "artist": {
+     "api_path": "/artists/128131",
+     "header_image_url": "https://images.genius.com/c0b345b182fa0417e26ae96339a216bd.389x129x1.jpg",
+     "id": 128131,
+     "image_url": "https://images.genius.com/272e0e54c1f51654a3184d0564ead528.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Brett Eldredge",
+     "url": "https://genius.com/artists/Brett-eldredge",
+     "iq": 193
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1112276",
+       "header_image_url": "https://images.genius.com/159917d9c26b9cfe66c0b04493a1f05a.900x900x1.png",
+       "id": 1112276,
+       "image_url": "https://images.genius.com/340e19086e9ebeae265e6e4947b0ffcb.900x900x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner Music Group",
+       "url": "https://genius.com/artists/Warner-music-group"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8664184,
+    "annotator_login": "Paul_ToMy_Linda",
+    "api_path": "/referents/16304910",
+    "classification": "unreviewed",
+    "fragment": "Drunk On Your Love",
+    "id": 16304910,
+    "is_description": true,
+    "path": "/16304910/Brett-eldredge-drunk-on-your-love/Drunk-on-your-love",
+    "range": {
+     "content": "Drunk On Your Love"
+    },
+    "song_id": 2303119,
+    "url": "https://genius.com/16304910/Brett-eldredge-drunk-on-your-love/Drunk-on-your-love",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2303119",
+     "client_timestamps": {
+      "updated_by_human_at": 1590570956,
+      "lyrics_updated_at": 1590570956
+     },
+     "context": "Brett Eldredge",
+     "id": 2303119,
+     "image_url": "https://images.genius.com/86be50ee836526f98dbb84862c68f819.1000x1000x1.jpg",
+     "link_title": "Drunk On Your Love by\u00a0Brett\u00a0Eldredge",
+     "title": "Drunk On Your Love",
+     "type": "Song",
+     "url": "https://genius.com/Brett-eldredge-drunk-on-your-love-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/16304910",
+      "body": {
+       "plain": "The second single released from Brett\u2019s sophomore album Illinois.  It peaked at #2 on Both the Billboard Hot Country Songs charts and for Country Airplay. Becoming his fifth top ten hit on both of the charts.\n\nThe video for the song was inspired by a  1996 comedy film called Multiplicity. In the video (just like the movie) Brett plays multiple versions of himself each with a different personality. One of the people in the video is his older brother Brice."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 16304910,
+      "pinned": false,
+      "share_url": "https://genius.com/16304910",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/16304910/Brett-eldredge-drunk-on-your-love/Drunk-on-your-love",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8664184",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/5cf2f07a248f235afd1eb5a8da0a30f6",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/5cf2f07a248f235afd1eb5a8da0a30f6",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/5cf2f07a248f235afd1eb5a8da0a30f6",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/5cf2f07a248f235afd1eb5a8da0a30f6",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/3f1eeb45a8849487388dc3988462f7a4.644x430x1.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8664184,
+         "iq": 217880,
+         "login": "Paul_ToMy_Linda",
+         "name": "Paul_ToMy_Linda",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Paul_ToMy_Linda",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:1jNNHFZmRGXZFHlil5uhei",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/1jNNHFZmRGXZFHlil5uhei"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=kSBtr1ML7mI"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/128131",
+    "header_image_url": "https://images.genius.com/c0b345b182fa0417e26ae96339a216bd.389x129x1.jpg",
+    "id": 128131,
+    "image_url": "https://images.genius.com/272e0e54c1f51654a3184d0564ead528.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Brett Eldredge",
+    "url": "https://genius.com/artists/Brett-eldredge",
+    "iq": 193
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/128131",
+     "header_image_url": "https://images.genius.com/c0b345b182fa0417e26ae96339a216bd.389x129x1.jpg",
+     "id": 128131,
+     "image_url": "https://images.genius.com/272e0e54c1f51654a3184d0564ead528.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Brett Eldredge",
+     "url": "https://genius.com/artists/Brett-eldredge",
+     "iq": 193
+    },
+    {
+     "api_path": "/artists/100748",
+     "header_image_url": "https://images.genius.com/8919ea24a00635ea67dfe18406ad85b5.640x480x1.jpg",
+     "id": 100748,
+     "image_url": "https://images.genius.com/391081b48cff83d599b249eefd4ed24d.340x340x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ross Copperman",
+     "url": "https://genius.com/artists/Ross-copperman"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/100748",
+     "header_image_url": "https://images.genius.com/8919ea24a00635ea67dfe18406ad85b5.640x480x1.jpg",
+     "id": 100748,
+     "image_url": "https://images.genius.com/391081b48cff83d599b249eefd4ed24d.340x340x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ross Copperman",
+     "url": "https://genius.com/artists/Ross-copperman"
+    },
+    {
+     "api_path": "/artists/128131",
+     "header_image_url": "https://images.genius.com/c0b345b182fa0417e26ae96339a216bd.389x129x1.jpg",
+     "id": 128131,
+     "image_url": "https://images.genius.com/272e0e54c1f51654a3184d0564ead528.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Brett Eldredge",
+     "url": "https://genius.com/artists/Brett-eldredge",
+     "iq": 193
+    }
+   ],
+   "lyrics": "[Verse 1]\nThe second she walked through the door, I caught a buzz\nOne taste from your lips knocked me out just like a drug\nThe rest of the night's kind of blurry\nNow the sun's peekin through the shades\nI can't help but laugh cause I kind of like feelin' this way\n\n[Chorus]\nI woke up, up still drunk, drunk\nOn your love, love, on your love, love love\nNow I know why-y I'm feelin' so high, high\nCause I'm still drunk, drunk on your love, on your love\n\n[Verse 2]\nIt's not in the whiskey, tequila or the wine\nIt's all about the touch and the fire in your eyes\nIt gets me fumblin' always stumblin' through a haze\nI got plenty to do just laying here with you all day\n\n[Chorus]\nI woke up, up still drunk, drunk\nOn your love, love, on your love, love love\nNow I know why-y I'm feelin' so high, high\nCause I'm still drunk, drunk on your love, on your love\n\n[Bridge]\nWish I could bottle you up and drink you in all day long\nEvery day singin' this song\n\n[Chorus]\nI woke up, up still drunk, drunk\nOn your love, love, on your love, love love\nNow I know why-y I'm feelin' so high, high\nCause I'm still drunk, drunk on your love, on your love\n\n[Outro]\n(Woke up still drunk on your love)\nOn your love, (woke up still drunk on your love)\nOn your love (woke up still drunk on your love)\nOn your love (woke up still drunk on your love)\n(woke up still drunk on your love)\nOn your love, on your love (woke up still drunk on your love)\nOn your love, get drunk on your love, yeah\nI'm so drunk"
+  }
+ ]
+}
